@@ -53,10 +53,10 @@ The manual installation method involves downloading our eCommerce plugin and upl
 
 Automatic updates should work like a charm; as always though, ensure you backup your site just in case.
 
-= Configuration ==
+= Configuration =
 
 Once plugin is installed please activate it from activate link in the wordpress plugin page. After that, go to woocommerce wp-admin dashboard menu and click Settings. This will populate jne tariff data into database. while data is loaded, you will see pop up information telling this process is taking place. Secondly, you need to go to dashboard menu > woocommerce > System Status > Tools tab, and make Shipping Debug Mode and Template Debug Mode enabled. 
 
 == Change Log ==
 
-0.9. Base uploaded
+1.0. Base uploaded
