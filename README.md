@@ -1,4 +1,4 @@
-# wc_shipping_tikijne
+# Woo-commerce JNE Plugin
 Contributors: prakoso @ epeken
 
 Tags: ecommerce, e-commerce, commerce, woothemes, wordpress ecommerce, affiliate, store, sales, sell, shop, shopping, cart, checkout, configurable, variable, widgets, reports, download, downloadable, digital, inventory, stock, reports, shipping, tax, JNE, Tiki, Indonesia
@@ -13,7 +13,7 @@ License: GPLv2
 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-WC Shipping Tiki JNE is a Free version of wordpress plugin for woocommerce shipping method extension featuring JNE tariff for Indonesia e-commerce marketplace. You may request for paid version for complete list of JNE tariff for all cities accross Indonesia and you will also have JNE class feature like regular, oke and yes. go to epeken website for all details. 
+Woo-commerce JNE Plugin is a Free version of wordpress plugin for woocommerce shipping method extension featuring JNE tariff for Indonesia e-commerce marketplace. You may request for paid version for complete list of JNE tariff for all cities accross Indonesia and you will also have JNE class feature like regular, oke and yes. go to epeken website for all details. 
 It is written simply and beautifully
 
 == Description ==
@@ -32,7 +32,7 @@ Your business is unique, you may modify this plugin to meet your business requir
 
 == Installation ==
 
-=Minimum Requirement=
+= Minimum Requirement =
 
 * Wordpress 4.0
 * Woocommerce version 2.3.5
