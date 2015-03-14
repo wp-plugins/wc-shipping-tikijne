@@ -1,12 +1,12 @@
 <?php
 if ( ! defined( 'ABSPATH' ) ) exit; 
 /*
-Plugin Name: Woocommerce Shipping TikiJne
-Plugin URI: http://prakoso.com/ 
+Plugin Name: Woo-commerce JNE Plugin - Free Version
+Plugin URI: https://wordpress.org/plugins/wc-shipping-tikijne 
 Description: Woocommerce Shipping Tiki JNE for Indonesia Market Place ecommerce shipping. Free Version
-Version: 0.9
+Version: 1.0
 Author: Imam Prakoso
-Author URI: http://www.prakoso.com
+Author URI: http://www.epeken.com
 License: GPL2
 */
 include_once('wc_shipping_tikijne_load_trf.php');
