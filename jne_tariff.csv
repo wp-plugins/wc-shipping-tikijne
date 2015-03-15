@@ -1,4 +1,3 @@
-kota_kabupaten,kecamatan,tarif_regular,etd_regular
 Kota Mataram,Mataram,25000,1 - 2
 Kota Mataram,Ampenan,25000,1 - 2
 Kota Mataram,Cakranegara,25000,1 - 2
@@ -487,6 +486,7 @@ Kab. Tasikmalaya,Sukaratu,16000,3 - 6
 Kab. Tasikmalaya,Sukaresik,16000,3 - 6
 Kab. Tasikmalaya,Tanjungjaya,16000,3 - 6
 Kab. Tasikmalaya,Sukahening,16000,3 - 6
+Kab. Garut,Garut, Kab. Garut,13000
 Kab. Garut,Banjarwangi,16000,3 - 6
 Kab. Garut,Banyuresmi,16000,3 - 6
 Kab. Garut,Bayongbong,16000,3 - 6
@@ -499,3 +499,5097 @@ Kab. Garut,Cikelet,16000,3 - 6
 Kab. Garut,Cikajang,16000,3 - 6
 Kab. Garut,Cilawu,16000,3 - 6
 Kab. Garut,Cisompet,16000,3 - 6
+Kab. Garut,Cisurupan,16000,3 - 6
+Kab. Garut,Cisewu,16000,3 - 6
+Kab. Garut,Kadungora,16000,3 - 6
+Kab. Garut,Karangpawitan,16000,3 - 6
+Kab. Garut,Leles,16000,3 - 6
+Kab. Garut,Leuwigoong,16000,3 - 6
+Kab. Garut,Malangbong,16000,3 - 6
+Kab. Garut,Pakenjeng,16000,3 - 6
+Kab. Garut,Pameungpeuk,16000,3 - 6
+Kab. Garut,Pamulihan,16000,3 - 6
+Kab. Garut,Peundeuy,16000,3 - 6
+Kab. Garut,Samarang,16000,3 - 6
+Kab. Garut,Selaawi,16000,3 - 6
+Kab. Garut,Singajaya,16000,3 - 6
+Kab. Garut,Sukawening,16000,3 - 6
+Kab. Garut,Talegong,16000,3 - 6
+Kab. Garut,Wanaraja,16000,3 - 6
+Kab. Garut,Caringin,16000,3 - 6
+Kab. Garut,Karangtengah,16000,3 - 6
+Kab. Garut,Sukaresmi,16000,3 - 6
+Kab. Garut,Cigedug,16000,3 - 6
+Kab. Garut,Cihurip,16000,3 - 6
+Kab. Garut,Kersamanah,16000,3 - 6
+Kab. Garut,Mekarmukti,16000,3 - 6
+Kab. Garut,Pangatikan,16000,3 - 6
+Kab. Garut,Pasirwangi,16000,3 - 6
+Kab. Garut,Sucinaraja,16000,3 - 6
+Kab. Garut,Tarogong Kaler,16000,3 - 6
+Kab. Garut,Tarogong Kidul,16000,3 - 6
+Kab. Garut,Garut Kota,13000,2 - 3
+Kab. Purwakarta,Purwakarta,13000,2 - 3
+Kab. Purwakarta,Jatiluhur,16000,3 - 6
+Kab. Purwakarta,Campaka,16000,3 - 6
+Kab. Purwakarta,Pasawahan,16000,3 - 6
+Kab. Purwakarta,Babakancikao,16000,3 - 6
+Kab. Purwakarta,Bungursari,16000,3 - 6
+Kab. Purwakarta,Cibatu,16000,3 - 6
+Kab. Purwakarta,Plered,16000,3 - 6
+Kab. Purwakarta,Sukatani,16000,3 - 6
+Kab. Purwakarta,Darangdan,16000,3 - 6
+Kab. Purwakarta,Maniis,16000,3 - 6
+Kab. Purwakarta,Tegalwaru,16000,3 - 6
+Kab. Purwakarta,Wanayasa,16000,3 - 6
+Kab. Purwakarta,Sukasari,16000,3 - 6
+Kab. Purwakarta,Pondoksalam,16000,3 - 6
+Kab. Purwakarta,Bojong,16000,3 - 6
+Kab. Purwakarta,Kiarapedes,16000,3 - 6
+Kab. Bandung Barat,Ngamprah,10000,1 - 2
+Kab. Bandung Barat,Lembang,10000,1 - 2
+Kab. Bandung Barat,Batujajar,16000,3 - 6
+Kab. Bandung Barat,Cikalong Wetan,16000,3 - 6
+Kab. Bandung Barat,Cililin,16000,3 - 6
+Kab. Bandung Barat,Cipeundeuy,16000,3 - 6
+Kab. Bandung Barat,Cipatat,16000,3 - 6
+Kab. Bandung Barat,Cipongkor,16000,3 - 6
+Kab. Bandung Barat,Cisarua,16000,3 - 6
+Kab. Bandung Barat,Gununghalu,16000,3 - 6
+Kab. Bandung Barat,Padalarang,16000,3 - 6
+Kab. Bandung Barat,Sindangkerta,16000,3 - 6
+Kab. Bandung Barat,Cihampelas,16000,3 - 6
+Kab. Bandung Barat,Parongpong,16000,3 - 6
+Kab. Bandung Barat,Rongga,16000,3 - 6
+Kab. Bandung Barat,Cimareme,10000,1 - 2
+Kab. Subang,Subang,13000,2 - 3
+Kab. Subang,Cipeundeuy,16000,3 - 6
+Kab. Subang,Binong,16000,3 - 6
+Kab. Subang,Blanakan,16000,3 - 6
+Kab. Subang,Ciasem,16000,3 - 6
+Kab. Subang,Cibogo,16000,3 - 6
+Kab. Subang,Cijambe,16000,3 - 6
+Kab. Subang,Cisalak,16000,3 - 6
+Kab. Subang,Compreng,16000,3 - 6
+Kab. Subang,Jalan Cagak,16000,3 - 6
+Kab. Subang,Kalijati,16000,3 - 6
+Kab. Subang,Pabuaran,16000,3 - 6
+Kab. Subang,Pamanukan,16000,3 - 6
+Kab. Subang,Patok Beusi,16000,3 - 6
+Kab. Subang,Purwadadi,16000,3 - 6
+Kab. Subang,Pusakanagara,16000,3 - 6
+Kab. Subang,Sagalaherang,16000,3 - 6
+Kab. Subang,Tanjung Siang,16000,3 - 6
+Kab. Subang,Cikaum,16000,3 - 6
+Kab. Subang,Cipunagara,16000,3 - 6
+Kab. Subang,Legon Kulon,16000,3 - 6
+Kab. Subang,Pagaden,16000,3 - 6
+Kota Bekasi,Bekasi,8000,1 - 2
+Kota Bekasi,Bantar Gebang,8000,1 - 2
+Kota Bekasi,Bekasi Barat,8000,1 - 2
+Kota Bekasi,Bekasi Selatan,8000,1 - 2
+Kota Bekasi,Bekasi Timur,8000,1 - 2
+Kota Bekasi,Bekasi Utara,8000,1 - 2
+Kota Bekasi,Jatiasih,8000,1 - 2
+Kota Bekasi,Jatisampurna,8000,1 - 2
+Kota Bekasi,Medan Satria,8000,1 - 2
+Kota Bekasi,Mustika Jaya,8000,1 - 2
+Kota Bekasi,Pondokgede,8000,1 - 2
+Kota Bekasi,Pondok Melati,8000,1 - 2
+Kota Bekasi,Rawalumbu,8000,1 - 2
+Kab. Bekasi,Cikarang,8000,1 - 2
+Kab. Bekasi,Cikarang Barat,8000,1 - 2
+Kab. Bekasi,Cikarang Pusat,8000,1 - 2
+Kab. Bekasi,Cikarang Selatan,8000,1 - 2
+Kab. Bekasi,Cikarang Timur,8000,1 - 2
+Kab. Bekasi,Cikarang Utara,8000,1 - 2
+Kab. Bekasi,Cabangbungin,8000,1 - 2
+Kab. Bekasi,Cibarusah,8000,1 - 2
+Kab. Bekasi,Cibitung,8000,1 - 2
+Kab. Bekasi,Kedungwaringin,8000,1 - 2
+Kab. Bekasi,Muara Gembong,8000,1 - 2
+Kab. Bekasi,Pebayuran,8000,1 - 2
+Kab. Bekasi,Serang Baru,8000,1 - 2
+Kab. Bekasi,Setu,8000,1 - 2
+Kab. Bekasi,Sukatani,8000,1 - 2
+Kab. Bekasi,Tambelang,8000,1 - 2
+Kab. Bekasi,Karangbahagia,8000,1 - 2
+Kab. Bekasi,Sukakarya,8000,1 - 2
+Kab. Bekasi,Sukawangi,8000,1 - 2
+Kab. Bekasi,Tambun Selatan,8000,1 - 2
+Kab. Bekasi,Tambun Utara,8000,1 - 2
+Kab. Bekasi,Tarumajaya,8000,1 - 2
+Kab. Bekasi,Babelan,8000,1 - 2
+Kab. Bekasi,Bojongmanggu,8000,1 - 2
+Kota Bengkulu,Bengkulu,22000,1 - 2
+Kota Bengkulu,Gading Cempaka,22000,1 - 2
+Kota Bengkulu,Kampung Melayu,22000,1 - 2
+Kota Bengkulu,Muara Bangkahulu,22000,1 - 2
+Kota Bengkulu,Ratu Agung,22000,1 - 2
+Kota Bengkulu,Ratu Samban,22000,1 - 2
+Kota Bengkulu,Selebar,22000,1 - 2
+Kota Bengkulu,Sungai Serut,22000,1 - 2
+Kota Bengkulu,Teluk Segara,22000,1 - 2
+Kab. Bengkulu Utara,Arga Makmur,35000,2 - 3
+Kab. Bengkulu Utara,Batik Nau,44000,3 - 6
+Kab. Bengkulu Utara,Giri Mulia,44000,3 - 6
+Kab. Bengkulu Utara,Lais,44000,3 - 6
+Kab. Bengkulu Utara,Padang Jaya,44000,3 - 6
+Kab. Bengkulu Utara,Air Besi,44000,3 - 6
+Kab. Bengkulu Utara,Air Napal,44000,3 - 6
+Kab. Bengkulu Utara,Enggano,66000,+ 10
+Kab. Bengkulu Utara,Karang Tinggi,44000,3 - 6
+Kab. Bengkulu Utara,Kerkap,44000,3 - 6
+Kab. Bengkulu Utara,Ketahun,44000,3 - 6
+Kab. Bengkulu Utara,Pagar Jati,44000,3 - 6
+Kab. Bengkulu Utara,Pematang Tiga,44000,3 - 6
+Kab. Bengkulu Utara,Pondok Kelapa,44000,3 - 6
+Kab. Bengkulu Utara,Taba Penanjung,44000,3 - 6
+Kab. Bengkulu Utara,Napal Putih,66000,+ 10
+Kab. Bengkulu Utara,Putri Hijau,44000,3 - 6
+Kab. Bengkulu Utara,Talang Empat,44000,3 - 6
+Kab. Rejang Lebong,Curup,35000,2 - 3
+Kab. Rejang Lebong,Kota Padang,44000,3 - 6
+Kab. Rejang Lebong,Padang Ulak Tanding,44000,3 - 6
+Kab. Rejang Lebong,Bermani Ulu,44000,3 - 6
+Kab. Rejang Lebong,Selupu Rejang,44000,3 - 6
+Kab. Rejang Lebong,Sindang Kelingi,44000,3 - 6
+Kab. Bengkulu Selatan,Kota Manna,35000,2 - 3
+Kab. Bengkulu Selatan,Kedurang,44000,3 - 6
+Kab. Bengkulu Selatan,Pino,44000,3 - 6
+Kab. Bengkulu Selatan,Manna,44000,3 - 6
+Kab. Bengkulu Selatan,Pinoraya,44000,3 - 6
+Kab. Bengkulu Selatan,Seginim,44000,3 - 6
+Kab. Kaur,Kaur,35000,2 - 3
+Kab. Kaur,Kaur Selatan,35000,2 - 3
+Kab. Kaur,Kaur Tengah,35000,2 - 3
+Kab. Kaur,Kaur Utara,35000,2 - 3
+Kab. Kaur,Kinal,44000,3 - 6
+Kab. Kaur,Nasal,44000,3 - 6
+Kab. Kaur,Tanjung Kemuning,44000,3 - 6
+Kab. Kaur,Maje,44000,3 - 6
+Kab. Kepahiang,Kepahiang,35000,2 - 3
+Kab. Kepahiang,Bermani Ilir,44000,3 - 6
+Kab. Kepahiang,Tebat Karai,44000,3 - 6
+Kab. Kepahiang,Ujan Mas,44000,3 - 6
+Kab. Lebong,Lebong,35000,2 - 3
+Kab. Lebong,Lebong Atas,35000,2 - 3
+Kab. Lebong,Lebong Selatan,35000,2 - 3
+Kab. Lebong,Lebong Tengah,35000,2 - 3
+Kab. Lebong,Lebong Utara,35000,2 - 3
+Kab. Lebong,Rimbo Pengadang,44000,3 - 6
+Kab. Muko-Muko,Muko-muko,35000,2 - 3
+Kab. Muko-Muko,Lubuk Pinang,44000,3 - 6
+Kab. Muko-Muko,Muko-Muko Selatan,35000,2 - 3
+Kab. Muko-Muko,Muko-Muko Utara,35000,2 - 3
+Kab. Muko-Muko,Pondok Suguh,44000,3 - 6
+Kab. Muko-Muko,Teras Terunjam,44000,3 - 6
+Kab. Seluma,Tais,35000,2 - 3
+Kab. Seluma,Air Periukan,44000,3 - 6
+Kab. Seluma,Ilir Talo,44000,3 - 6
+Kab. Seluma,Lubuk Sandi,44000,3 - 6
+Kab. Seluma,Seluma,44000,3 - 6
+Kab. Seluma,Seluma Barat,44000,3 - 6
+Kab. Seluma,Seluma Selatan,44000,3 - 6
+Kab. Seluma,Seluma Timur,44000,3 - 6
+Kab. Seluma,Seluma Utara,44000,3 - 6
+Kab. Seluma,Semidang Alas,44000,3 - 6
+Kab. Seluma,Semidang Alas Maras,44000,3 - 6
+Kab. Seluma,Sukaraja,44000,3 - 6
+Kab. Seluma,Talo,44000,3 - 6
+Kab. Seluma,Ulu Talo,44000,3 - 6
+Kab. Seluma,Talo Kecil,44000,3 - 6
+Kota Bogor,Bogor,8000,1 - 2
+Kota Bogor,Bogor Barat,8000,1 - 2
+Kota Bogor,Bogor Selatan,8000,1 - 2
+Kota Bogor,Bogor Tengah,8000,1 - 2
+Kota Bogor,Bogor Timur,8000,1 - 2
+Kota Bogor,Bogor Utara,8000,1 - 2
+Kota Bogor,Tanah Sereal,8000,1 - 2
+Kab. Bogor,Cibinong,8000,1 - 2
+Kab. Bogor,Caringin,8000,1 - 2
+Kab. Bogor,Cariu,8000,1 - 2
+Kab. Bogor,Ciawi,8000,1 - 2
+Kab. Bogor,Ciampea,8000,1 - 2
+Kab. Bogor,Cibungbulang,8000,1 - 2
+Kab. Bogor,Cigudeg,8000,1 - 2
+Kab. Bogor,Cijeruk,8000,1 - 2
+Kab. Bogor,Cileungsi,8000,1 - 2
+Kab. Bogor,Ciomas,8000,1 - 2
+Kab. Bogor,Cisarua,8000,1 - 2
+Kab. Bogor,Citeureup,8000,1 - 2
+Kab. Bogor,Dramaga,8000,1 - 2
+Kab. Bogor,Gunung Sindur,8000,1 - 2
+Kab. Bogor,Jasinga,8000,1 - 2
+Kab. Bogor,Jonggol,8000,1 - 2
+Kab. Bogor,Leuwiliang,8000,1 - 2
+Kab. Bogor,Megamendung,8000,1 - 2
+Kab. Bogor,Nanggung,8000,1 - 2
+Kab. Bogor,Parung,8000,1 - 2
+Kab. Bogor,Parung Panjang,8000,1 - 2
+Kab. Bogor,Rumpin,8000,1 - 2
+Kab. Bogor,Tenjo,8000,1 - 2
+Kab. Bogor,Babakan Madang,8000,1 - 2
+Kab. Bogor,Bojonggede,8000,1 - 2
+Kab. Bogor,Cigombong,8000,1 - 2
+Kab. Bogor,Ciseeng,8000,1 - 2
+Kab. Bogor,Kemang,8000,1 - 2
+Kab. Bogor,Klapanunggal,8000,1 - 2
+Kab. Bogor,Leuwisadeng,8000,1 - 2
+Kab. Bogor,Pamijahan,8000,1 - 2
+Kab. Bogor,Ranca Bungur,8000,1 - 2
+Kab. Bogor,Sukajaya,8000,1 - 2
+Kab. Bogor,Sukamakmur,8000,1 - 2
+Kab. Bogor,Sukaraja,8000,1 - 2
+Kab. Bogor,Tajurhalang,8000,1 - 2
+Kab. Bogor,Tamansari,8000,1 - 2
+Kab. Bogor,Tanjungsari,8000,1 - 2
+Kab. Bogor,Tenjolaya,8000,1 - 2
+Kab. Bogor,Gunung Putri,8000,1 - 2
+Kota Balikpapan,Balikpapan,36000,1 - 2
+Kab. Kutai Kartanegara,Samboja,77000,5 - 7
+Kota Balikpapan,Balikpapan Barat,36000,1 - 2
+Kota Balikpapan,Balikpapan Selatan,36000,1 - 2
+Kota Balikpapan,Balikpapan Tengah,36000,1 - 2
+Kota Balikpapan,Balikpapan Timur,36000,1 - 2
+Kota Balikpapan,Balikpapan Utara,36000,1 - 2
+Kab. Kutai Kartanegara,Muara Jawa,77000,5 - 7
+Kab. Paser,Tanah Grogot,61000,3 - 5
+Kab. Paser,Batu Sopang,77000,5 - 7
+Kab. Paser,Kuaro,77000,5 - 7
+Kab. Paser,Long Kali,77000,5 - 7
+Kab. Paser,Long Ikis,77000,5 - 7
+Kab. Paser,Muara Komam,77000,5 - 7
+Kab. Paser,Pasir Balengkong,116000,+ 10
+Kab. Paser,Batu Engau,116000,+ 10
+Kab. Paser,Tanjung Harapan,116000,+ 10
+Kab. Paser,Muara Samu,116000,+ 10
+Kab. Berau,Tanjung Redeb,61000,3 - 5
+Kab. Berau,Biduk Biduk,77000,5 - 7
+Kab. Berau,Gunung Tabur,77000,5 - 7
+Kab. Berau,Kelay,77000,5 - 7
+Kab. Berau,Pulau Derawan,77000,5 - 7
+Kab. Berau,Sambaliung,77000,5 - 7
+Kab. Berau,Segah,77000,5 - 7
+Kab. Berau,Talisayan,77000,5 - 7
+Kab. Berau,Maratua,77000,5 - 7
+Kab. Berau,Teluk Bayur,77000,5 - 7
+Kab. Berau,Tubaan,77000,5 - 7
+Kab. Panajam Paser Utara,Penajam,61000,3 - 5
+Kab. Panajam Paser Utara,Waru,77000,5 - 7
+Kab. Panajam Paser Utara,Babulu,77000,5 - 7
+Kab. Panajam Paser Utara,Sepaku,116000,+ 10
+Kota Bontang,Bontang,49000,2 - 3
+Kota Bontang,Bontang Barat,49000,2 - 3
+Kota Bontang,Bontang Selatan,49000,2 - 3
+Kota Bontang,Bontang Utara,49000,2 - 3
+Kab. Kutai Timur,Sangatta,52000,3 - 5
+Kab. Kutai Timur,Teluk Pandan,52000,3 - 5
+Kab. Kutai Timur,Batu Ampar,98000,+ 10
+Kab. Kutai Timur,Bengalon,65000,5 - 7
+Kab. Kutai Timur,Busang,98000,+ 10
+Kab. Kutai Timur,Kaliorang,65000,5 - 7
+Kab. Kutai Timur,Karangan,98000,+ 10
+Kab. Kutai Timur,Kaubun,98000,+ 10
+Kab. Kutai Timur,Kongbeng,98000,+ 10
+Kab. Kutai Timur,Long Masengat,98000,+ 10
+Kab. Kutai Timur,Muara Ancalong,98000,+ 10
+Kab. Kutai Timur,Muara Bengkal,98000,+ 10
+Kab. Kutai Timur,Muara Wahau,65000,5 - 7
+Kab. Kutai Timur,Rantau Pulung,65000,5 - 7
+Kab. Kutai Timur,Sandaran,98000,+ 10
+Kab. Kutai Timur,Sangatta Selatan,52000,3 - 5
+Kab. Kutai Timur,Sangkulirang,65000,5 - 7
+Kab. Kutai Timur,Telen,98000,+ 10
+Kab. Kutai Timur,Sangkima,52000,3 - 5
+Kab. Kutai Timur,Swarga Bara,52000,3 - 5
+Kab. Kutai Timur,Singa Gembara,52000,3 - 5
+Kota Batam,Batam,25000,1 - 2
+Kota Batam,Nongsa/ Kabil/ Lagoi,25000,1 - 2
+Kota Batam,Sekupang/ Tanjung Ucang,25000,1 - 2
+Kota Batam,Batu Ampar,25000,1 - 2
+Kota Batam,Belakang Padang,25000,1 - 2
+Kota Batam,Bulang Galang,25000,1 - 2
+Kota Batam,Galang,25000,1 - 2
+Kota Batam,Lubuk Baja,25000,1 - 2
+Kota Batam,Sei Beduk,25000,1 - 2
+Kab. Lingga,Daik,50000,2 - 3
+Kab. Lingga,Lingga,50000,2 - 3
+Kab. Lingga,Lingga Utara,95000,+ 10
+Kab. Lingga,Senayang,95000,+ 10
+Kab. Lingga,Singkep,50000,2 - 3
+Kab. Lingga,Singkep Barat,95000,+ 10
+Kab. Natuna,Ranai,50000,2 - 3
+Kab. Natuna,Bunguran Barat,95000,+ 10
+Kab. Natuna,Bunguran Timur,95000,+ 10
+Kab. Natuna,Bunguran Timur Laut,95000,+ 10
+Kab. Natuna,Bunguran Tengah,95000,+ 10
+Kab. Natuna,Bunguran Utara,95000,+ 10
+Kab. Natuna,Jemaja,95000,+ 10
+Kab. Natuna,Jemaja Timur,95000,+ 10
+Kab. Natuna,Midai,95000,+ 10
+Kab. Natuna,Pal Matak,95000,+ 10
+Kab. Natuna,Serasan,95000,+ 10
+Kab. Natuna,Siantan,95000,+ 10
+Kab. Natuna,Siantan Selatan,95000,+ 10
+Kab. Natuna,Siantan Timur,95000,+ 10
+Kab. Natuna,Subi,95000,+ 10
+Kab. Natuna,Pulau Laut,95000,+ 10
+Kab. Natuna,Pulau Tiga,95000,+ 10
+Kab. Karimun,Tanjung Balai Karimun,50000,2 - 3
+Kab. Karimun,Buru,95000,+ 10
+Kab. Karimun,Karimun,63000,3 - 6
+Kab. Karimun,Kundur,50000,2 - 3
+Kab. Karimun,Kundur Barat,63000,3 - 6
+Kab. Karimun,Kundur Utara,63000,3 - 6
+Kab. Karimun,Meral,63000,3 - 6
+Kab. Karimun,Moro,95000,+ 10
+Kab. Karimun,Tebing,63000,3 - 6
+Kab. Karimun,Tanjung Batu,63000,3 - 6
+Kota Banda Aceh,Banda Aceh,33000,1 - 2
+Kota Banda Aceh,Meuraksa,33000,1 - 2
+Kota Banda Aceh,Jaya Baru,33000,1 - 2
+Kota Banda Aceh,Banda Raya,33000,1 - 2
+Kota Banda Aceh,Baiturrahman,33000,1 - 2
+Kota Banda Aceh,Lueng Bata,33000,1 - 2
+Kota Banda Aceh,Kuta Alam,33000,1 - 2
+Kota Banda Aceh,Kuta Raja,33000,1 - 2
+Kota Banda Aceh,Syiah Kuala,33000,1 - 2
+Kota Banda Aceh,Ulee Kareng,33000,1 - 2
+Kota Langsa,Langsa,48000,2 - 3
+Kota Langsa,Langsa Barat,48000,2 - 3
+Kota Langsa,Langsa Kota,48000,2 - 3
+Kota Langsa,Langsa Lama,48000,2 - 3
+Kota Langsa,Langsa Teungoh,48000,2 - 3
+Kota Langsa,Langsa Timur,48000,2 - 3
+Kota Lhokseumawe,Lhokseumawe,48000,2 - 3
+Kota Lhokseumawe,Muara Dua,48000,2 - 3
+Kota Lhokseumawe,Banda Sakti,48000,2 - 3
+Kota Lhokseumawe,Blang Mangat,48000,2 - 3
+Kab. Aceh Besar,Janto,48000,2 - 3
+Kab. Aceh Besar,Darul Imarah,60000,3 - 6
+Kab. Aceh Besar,Darussalam,60000,3 - 6
+Kab. Aceh Besar,Indrapuri,60000,3 - 6
+Kab. Aceh Besar,Ingin Jaya,60000,3 - 6
+Kab. Aceh Besar,Kuta Baro,60000,3 - 6
+Kab. Aceh Besar,Lho'Nga,60000,3 - 6
+Kab. Aceh Besar,Lhoong,60000,3 - 6
+Kab. Aceh Besar,Mesjid Raya,60000,3 - 6
+Kab. Aceh Besar,Montasik,60000,3 - 6
+Kab. Aceh Besar,Peukan Bada,60000,3 - 6
+Kab. Aceh Besar,Suka Makmur,60000,3 - 6
+Kab. Aceh Besar,Simpang tiga,60000,3 - 6
+Kab. Aceh Besar,Baitussalam,60000,3 - 6
+Kab. Aceh Besar,Darul Kamal,60000,3 - 6
+Kab. Aceh Besar,Krueng Barona Jaya,60000,3 - 6
+Kab. Aceh Besar,Kuta Cot Glie,60000,3 - 6
+Kab. Aceh Besar,Kuta Malaka,60000,3 - 6
+Kab. Aceh Besar,Lembah Seulawah,60000,3 - 6
+Kab. Aceh Besar,Leupung,60000,3 - 6
+Kab. Aceh Besar,Puroaceh,60000,3 - 6
+Kab. Aceh Besar,Seulimeum,60000,3 - 6
+Kab. Bireuen,Bireuen,48000,2 - 3
+Kab. Bireuen,Jeunieb,60000,3 - 6
+Kab. Bireuen,Peusangan,60000,3 - 6
+Kab. Bireuen,Peudada,60000,3 - 6
+Kab. Bireuen,Samalanga,60000,3 - 6
+Kab. Bireuen,Ganda Pura,60000,3 - 6
+Kab. Bireuen,Makmur,60000,3 - 6
+Kab. Bireuen,Kuala,60000,3 - 6
+Kab. Bireuen,Jangka,60000,3 - 6
+Kab. Bireuen,Jeumpa,60000,3 - 6
+Kab. Bireuen,Juli,60000,3 - 6
+Kab. Bireuen,Kota Juang,60000,3 - 6
+Kab. Bireuen,Kuta Blang,60000,3 - 6
+Kab. Bireuen,Pandrah,60000,3 - 6
+Kab. Bireuen,Peusangan Selatan,60000,3 - 6
+Kab. Bireuen,Peusangan Siblah Krueng,60000,3 - 6
+Kab. Bireuen,Primbang,60000,3 - 6
+Kab. Bireuen,Simpang Mamplam,60000,3 - 6
+Kab. Aceh Tenggara,Kutacane,48000,2 - 3
+Kab. Aceh Tenggara,Badar,60000,3 - 6
+Kab. Aceh Tenggara,Bambel,60000,3 - 6
+Kab. Aceh Tenggara,Lawe Alas,60000,3 - 6
+Kab. Aceh Tenggara,Lawe Sigala-gala,60000,3 - 6
+Kab. Aceh Tenggara,Babul Makmur,60000,3 - 6
+Kab. Aceh Tenggara,Babul Rahmat,60000,3 - 6
+Kab. Aceh Tenggara,Babussalam,60000,3 - 6
+Kab. Aceh Tenggara,Bukit Tusam,60000,3 - 6
+Kab. Aceh Tenggara,Darul Hasanah,60000,3 - 6
+Kab. Aceh Tenggara,Lawe Bulan,60000,3 - 6
+Kab. Aceh Tenggara,Semadam,60000,3 - 6
+Kab. Aceh Barat,Meulaboh,48000,2 - 3
+Kab. Aceh Barat,Kec. Kaway XVI,60000,3 - 6
+Kab. Aceh Barat,Samatiga,60000,3 - 6
+Kab. Aceh Barat,Sungai Mas,60000,3 - 6
+Kab. Aceh Barat,Woyla,60000,3 - 6
+Kab. Aceh Barat,Bubon,60000,3 - 6
+Kab. Aceh Barat,Arongan Lambalek,60000,3 - 6
+Kab. Aceh Barat,Johan Pahlawan,60000,3 - 6
+Kab. Aceh Barat,Woyla Barat,60000,3 - 6
+Kab. Aceh Barat,Woyla Timur,60000,3 - 6
+Kab. Aceh Barat,Pante Ceureumen,60000,3 - 6
+Kab. Pidie,Sigli,48000,2 - 3
+Kab. Pidie,Batee,60000,3 - 6
+Kab. Pidie,Delima,60000,3 - 6
+Kab. Pidie,Geumpang,60000,3 - 6
+Kab. Pidie,Glumpang Tiga,60000,3 - 6
+Kab. Pidie,Indrajaya,60000,3 - 6
+Kab. Pidie,Kembang Tanjung,60000,3 - 6
+Kab. Pidie,Mila,60000,3 - 6
+Kab. Pidie,Muara Tiga,60000,3 - 6
+Kab. Pidie,Mutiara,60000,3 - 6
+Kab. Pidie,Padang Tiji,60000,3 - 6
+Kab. Pidie,Peukan Baro,60000,3 - 6
+Kab. Pidie,Pidie,60000,3 - 6
+Kab. Pidie,Sakti,60000,3 - 6
+Kab. Pidie,Simpang Tiga,60000,3 - 6
+Kab. Pidie,Tangse,60000,3 - 6
+Kab. Pidie,Tiro/Truseb,60000,3 - 6
+Kab. Pidie,Titeua/Keumala,60000,3 - 6
+Kab. Pidie,Gleumpang Baro,60000,3 - 6
+Kab. Pidie,Grong-Grong,60000,3 - 6
+Kab. Pidie,Mane,60000,3 - 6
+Kab. Pidie,Mutiara Timur,60000,3 - 6
+Kab. Aceh Tengah,Takengon,48000,2 - 3
+Kab. Aceh Tengah,Bebesen,60000,3 - 6
+Kab. Aceh Tengah,Bintang,60000,3 - 6
+Kab. Aceh Tengah,Linge Isak,60000,3 - 6
+Kab. Aceh Tengah,Pegasing,60000,3 - 6
+Kab. Aceh Tengah,Silih Nara,60000,3 - 6
+Kab. Aceh Tengah,Atu Lintang,60000,3 - 6
+Kab. Aceh Tengah,Bies,60000,3 - 6
+Kab. Aceh Tengah,Celala,60000,3 - 6
+Kab. Aceh Tengah,Jagong Jeget,60000,3 - 6
+Kab. Aceh Tengah,Kebayakan,60000,3 - 6
+Kab. Aceh Tengah,Ketol,60000,3 - 6
+Kab. Aceh Tengah,Kute Panang,60000,3 - 6
+Kab. Aceh Tengah,LautTawar,60000,3 - 6
+Kab. Aceh Tengah,Rusip Antara,60000,3 - 6
+Kab. Aceh Selatan,Tapak Tuan,48000,2 - 3
+Kab. Aceh Selatan,Bakongan,60000,3 - 6
+Kab. Aceh Selatan,Kluet Utara,60000,3 - 6
+Kab. Aceh Selatan,Kluet Selatan,60000,3 - 6
+Kab. Aceh Selatan,Labuhan Haji,60000,3 - 6
+Kab. Aceh Selatan,Meukek,60000,3 - 6
+Kab. Aceh Selatan,Sama Dua,60000,3 - 6
+Kab. Aceh Selatan,Trumon,60000,3 - 6
+Kab. Aceh Selatan,Bakongan Timur,60000,3 - 6
+Kab. Aceh Selatan,Kluet Tengah,60000,3 - 6
+Kab. Aceh Selatan,Kluet Timur,60000,3 - 6
+Kab. Aceh Selatan,Labuhan Haji Barat,60000,3 - 6
+Kab. Aceh Selatan,Labuhan Haji Timur,60000,3 - 6
+Kab. Aceh Selatan,Pasie raja,60000,3 - 6
+Kab. Aceh Selatan,Trumon Timur,60000,3 - 6
+Kab. Aceh Selatan,Sawang,60000,3 - 6
+Kota Sabang,Sabang,48000,2 - 3
+Kota Sabang,Sukakarya,48000,2 - 3
+Kota Sabang,Sukajaya,48000,2 - 3
+Kab. Aceh Barat Daya,Blangpidie,48000,2 - 3
+Kab. Aceh Barat Daya,Babah Rot,60000,3 - 6
+Kab. Aceh Barat Daya,kuala Batee,60000,3 - 6
+Kab. Aceh Barat Daya,Manggeng,60000,3 - 6
+Kab. Aceh Barat Daya,Susoh,60000,3 - 6
+Kab. Aceh Barat Daya,Tangan Tangan,60000,3 - 6
+Kab. Aceh Jaya,Krueng Sabee/Calang,48000,2 - 3
+Kab. Aceh Jaya,Jaya,60000,3 - 6
+Kab. Aceh Jaya,Pangat,60000,3 - 6
+Kab. Aceh Jaya,Sampo Niet,60000,3 - 6
+Kab. Aceh Jaya,Setia Bakti,60000,3 - 6
+Kab. Aceh Jaya,Teunom,60000,3 - 6
+Kab. Aceh Singkil,Singkil,48000,2 - 3
+Kab. Aceh Singkil,Danau Paris,60000,3 - 6
+Kab. Aceh Singkil,Gunung Meriah,60000,3 - 6
+Kab. Aceh Singkil,Kota Baharu,60000,3 - 6
+Kab. Aceh Singkil,Pulau Banyak,60000,3 - 6
+Kab. Aceh Singkil,Simpang Kanan,60000,3 - 6
+Kab. Aceh Singkil,Singkil Utara,60000,3 - 6
+Kab. Aceh Singkil,Singkohor,60000,3 - 6
+Kab. Aceh Singkil,Suro Baru,60000,3 - 6
+Kab. Aceh Tamiang,Kuala Simpang,48000,2 - 3
+Kab. Aceh Tamiang,Bendahara,60000,3 - 6
+Kab. Aceh Tamiang,Karang Baru,60000,3 - 6
+Kab. Aceh Tamiang,Kejuruan Muda,60000,3 - 6
+Kab. Aceh Tamiang,Manyak Payed,60000,3 - 6
+Kab. Aceh Tamiang,Rantau,60000,3 - 6
+Kab. Aceh Tamiang,Seuruway,60000,3 - 6
+Kab. Aceh Tamiang,Tamiang Hulu,60000,3 - 6
+Kab. Aceh Timur,Idi Rayeuk,48000,2 - 3
+Kab. Aceh Timur,Banda Alam,60000,3 - 6
+Kab. Aceh Timur,Birem Bayeun,60000,3 - 6
+Kab. Aceh Timur,Darul Aman,60000,3 - 6
+Kab. Aceh Timur,Darul Iksan,60000,3 - 6
+Kab. Aceh Timur,Idi Tuning,60000,3 - 6
+Kab. Aceh Timur,Indra Makmur,60000,3 - 6
+Kab. Aceh Timur,Julok,60000,3 - 6
+Kab. Aceh Timur,Madat,60000,3 - 6
+Kab. Aceh Timur,Nurussalam,60000,3 - 6
+Kab. Aceh Timur,Pante Beudari,60000,3 - 6
+Kab. Aceh Timur,Peudawa,60000,3 - 6
+Kab. Aceh Timur,Peureulak,60000,3 - 6
+Kab. Aceh Timur,Peureulak Barat,60000,3 - 6
+Kab. Aceh Timur,Peureulak Timur,60000,3 - 6
+Kab. Aceh Timur,Rantau Selamat,60000,3 - 6
+Kab. Aceh Timur,Ranto Peureulak,60000,3 - 6
+Kab. Aceh Timur,Serba Jadi/Lokop,60000,3 - 6
+Kab. Aceh Timur,Simpang Jernih,60000,3 - 6
+Kab. Aceh Timur,Simpang Ulim,60000,3 - 6
+Kab. Aceh Timur,Sungai Raya,60000,3 - 6
+Kab. Aceh Utara,Lhoksukon,48000,2 - 3
+Kab. Aceh Utara,Baktia,60000,3 - 6
+Kab. Aceh Utara,Baktia Barat,60000,3 - 6
+Kab. Aceh Utara,Cot Girek,60000,3 - 6
+Kab. Aceh Utara,Dewantara,60000,3 - 6
+Kab. Aceh Utara,Kuta Makmur,60000,3 - 6
+Kab. Aceh Utara,Langkahan,60000,3 - 6
+Kab. Aceh Utara,Matang Kuli,60000,3 - 6
+Kab. Aceh Utara,Meurah Mulia,60000,3 - 6
+Kab. Aceh Utara,Muara Batu,60000,3 - 6
+Kab. Aceh Utara,Nibong,60000,3 - 6
+Kab. Aceh Utara,Nisam,60000,3 - 6
+Kab. Aceh Utara,Paya Bakong,60000,3 - 6
+Kab. Aceh Utara,Samudera,60000,3 - 6
+Kab. Aceh Utara,Sawang,60000,3 - 6
+Kab. Aceh Utara,Seunuddon,60000,3 - 6
+Kab. Aceh Utara,Simpang Keuramat,60000,3 - 6
+Kab. Aceh Utara,Syamtalira Aron,60000,3 - 6
+Kab. Aceh Utara,Syamtalira Bayu,60000,3 - 6
+Kab. Aceh Utara,Tanah Luas,60000,3 - 6
+Kab. Aceh Utara,Tanah Jambo Aye,60000,3 - 6
+Kab. Aceh Utara,Tanah Pasir,60000,3 - 6
+Kab. Bener Meriah,Simpang Tiga Redelon,48000,2 - 3
+Kab. Bener Meriah,Bandar,60000,3 - 6
+Kab. Bener Meriah,Bukit,60000,3 - 6
+Kab. Bener Meriah,Permata,60000,3 - 6
+Kab. Bener Meriah,Pintu Rime,60000,3 - 6
+Kab. Bener Meriah,Syiah Kuala,60000,3 - 6
+Kab. Bener Meriah,Timang Gajah,60000,3 - 6
+Kab. Bener Meriah,Wih Pesam,60000,3 - 6
+Kab. Gayo Lues,Blang Kejeren,48000,2 - 3
+Kab. Gayo Lues,Kuta Panjang,60000,3 - 6
+Kab. Gayo Lues,Pining,60000,3 - 6
+Kab. Gayo Lues,Rikit Gaib,60000,3 - 6
+Kab. Gayo Lues,Terangon,60000,3 - 6
+Kab. Gayo Lues,Putri Betung,60000,3 - 6
+Kab. Gayo Lues,Blang Pegayon,60000,3 - 6
+Kab. Gayo Lues,Dabung Gelang,60000,3 - 6
+Kab. Gayo Lues,Blang Jerango,60000,3 - 6
+Kab. Gayo Lues,Teripe Jaya,60000,3 - 6
+Kab. Gayo Lues,Pantan Jaya,60000,3 - 6
+Kab. Nagan Raya,Suka Makmue,48000,2 - 3
+Kab. Nagan Raya,Beutong,60000,3 - 6
+Kab. Nagan Raya,Darul Makmur,60000,3 - 6
+Kab. Nagan Raya,Kuala,60000,3 - 6
+Kab. Nagan Raya,Seunagan,60000,3 - 6
+Kab. Nagan Raya,Seunagan Timur,60000,3 - 6
+Kab. Pidie Jaya,Meureudu,48000,2 - 3
+Kab. Pidie Jaya,Ulim,60000,3 - 6
+Kab. Pidie Jaya,Jangka Buya,60000,3 - 6
+Kab. Pidie Jaya,Bandar Dua,60000,3 - 6
+Kab. Pidie Jaya,Meurah Dua,60000,3 - 6
+Kab. Pidie Jaya,Bandar Baru,60000,3 - 6
+Kab. Pidie Jaya,Panteraja,60000,3 - 6
+Kab. Pidie Jaya,Trienggading,60000,3 - 6
+Kab. Simeuleu,Sinabang,90000,+ 10
+Kab. Simeuleu,Alafan,90000,+ 10
+Kab. Simeuleu,Salang,90000,+ 10
+Kab. Simeuleu,Simeulue Tengah,90000,+ 10
+Kab. Simeuleu,Simeulue Timur,90000,+ 10
+Kab. Simeuleu,Simuelue Barat,90000,+ 10
+Kab. Simeuleu,Teluk Dalam,90000,+ 10
+Kab. Simeuleu,Teupah Selatan,90000,+ 10
+Kab. Simeuleu,Teupah Barat,90000,+ 10
+Kota Subulussalam,Subulussalam,48000,2 - 3
+Kota Subulussalam,Simpang Kiri,48000,2 - 3
+Kota Subulussalam,Penanggalan,48000,2 - 3
+Kota Subulussalam,Rundeng,48000,2 - 3
+Kota Subulussalam,Sultan Daulat,48000,2 - 3
+Kota Subulussalam,Longkip,48000,2 - 3
+Kota Cirebon,Cirebon,10000,1 - 2
+Kota Cirebon,Cirebon Barat,10000,1 - 2
+Kota Cirebon,Harjamukti,10000,1 - 2
+Kota Cirebon,Kejaksan,10000,1 - 2
+Kota Cirebon,Kesambi,10000,1 - 2
+Kota Cirebon,Lemahwungkuk,10000,1 - 2
+Kota Cirebon,Pekalipan,10000,1 - 2
+Kab. Indramayu,Indramayu,13000,2 - 3
+Kab. Indramayu,Anjatan,16000,3 - 6
+Kab. Indramayu,Balongan,16000,3 - 6
+Kab. Indramayu,Bangodua,16000,3 - 6
+Kab. Indramayu,Bongas,16000,3 - 6
+Kab. Indramayu,Cikedung,16000,3 - 6
+Kab. Indramayu,Gabus Wetan,16000,3 - 6
+Kab. Indramayu,Haurgeulis,16000,3 - 6
+Kab. Indramayu,Jatibarang,13000,2 - 3
+Kab. Indramayu,Juntiyuat,16000,3 - 6
+Kab. Indramayu,Kandanghaur,16000,3 - 6
+Kab. Indramayu,Karangampel,16000,3 - 6
+Kab. Indramayu,Kertasemaya,16000,3 - 6
+Kab. Indramayu,Krangkeng,16000,3 - 6
+Kab. Indramayu,Kroya,16000,3 - 6
+Kab. Indramayu,Lelea,16000,3 - 6
+Kab. Indramayu,Lohbener,16000,3 - 6
+Kab. Indramayu,Losarang,16000,3 - 6
+Kab. Indramayu,Sliyeg,16000,3 - 6
+Kab. Indramayu,Sukra,16000,3 - 6
+Kab. Indramayu,Widasari,16000,3 - 6
+Kab. Indramayu,Arahan,16000,3 - 6
+Kab. Indramayu,Cantigi,16000,3 - 6
+Kab. Indramayu,Gantar,16000,3 - 6
+Kab. Indramayu,Kedokan Bunder,16000,3 - 6
+Kab. Indramayu,Sindang,16000,3 - 6
+Kab. Indramayu,Sukagumiwang,16000,3 - 6
+Kab. Indramayu,Trisi,16000,3 - 6
+Kab. Kuningan,Kuningan,13000,2 - 3
+Kab. Kuningan,Ciawi Gebang,16000,3 - 6
+Kab. Kuningan,Cibingbin,16000,3 - 6
+Kab. Kuningan,Cibeureum,16000,3 - 6
+Kab. Kuningan,Cidahu,16000,3 - 6
+Kab. Kuningan,Cigugur,16000,3 - 6
+Kab. Kuningan,Cilimus,16000,3 - 6
+Kab. Kuningan,Cilebak,16000,3 - 6
+Kab. Kuningan,Cimahi,16000,3 - 6
+Kab. Kuningan,Ciniru,16000,3 - 6
+Kab. Kuningan,Cipicung,16000,3 - 6
+Kab. Kuningan,Darma,16000,3 - 6
+Kab. Kuningan,Garawangi,16000,3 - 6
+Kab. Kuningan,Hantara,16000,3 - 6
+Kab. Kuningan,Jalaksana,16000,3 - 6
+Kab. Kuningan,Japara,16000,3 - 6
+Kab. Kuningan,Kadugede,16000,3 - 6
+Kab. Kuningan,Kalimanggis,16000,3 - 6
+Kab. Kuningan,Karangkancana,16000,3 - 6
+Kab. Kuningan,Kramatmulya,16000,3 - 6
+Kab. Kuningan,Lebakwangi,16000,3 - 6
+Kab. Kuningan,Luragung,16000,3 - 6
+Kab. Kuningan,Maleber,16000,3 - 6
+Kab. Kuningan,Mandirancan,16000,3 - 6
+Kab. Kuningan,Nusaherang,16000,3 - 6
+Kab. Kuningan,Pancalang,16000,3 - 6
+Kab. Kuningan,Pasawahan,16000,3 - 6
+Kab. Kuningan,Selajambe,16000,3 - 6
+Kab. Kuningan,Sindangagung,16000,3 - 6
+Kab. Kuningan,Subang,16000,3 - 6
+Kab. Kuningan,Cigandamekar,16000,3 - 6
+Kab. Kuningan,Ciwaru,16000,3 - 6
+Kab. Majalengka,Majalengka,13000,2 - 3
+Kab. Majalengka,Argapura,16000,3 - 6
+Kab. Majalengka,Bantarujeg,16000,3 - 6
+Kab. Majalengka,Cikijing,16000,3 - 6
+Kab. Majalengka,Dawuan,16000,3 - 6
+Kab. Majalengka,Jatiwangi,13000,2 - 3
+Kab. Majalengka,Jatitujuh,16000,3 - 6
+Kab. Majalengka,Kadipaten,13000,2 - 3
+Kab. Majalengka,Kertajati,16000,3 - 6
+Kab. Majalengka,Lemahsugih,16000,3 - 6
+Kab. Majalengka,Leuwimunding,16000,3 - 6
+Kab. Majalengka,Ligung,16000,3 - 6
+Kab. Majalengka,Maja,16000,3 - 6
+Kab. Majalengka,Palasah,16000,3 - 6
+Kab. Majalengka,Panyingkiran,16000,3 - 6
+Kab. Majalengka,Rajagaluh,16000,3 - 6
+Kab. Majalengka,Sukahaji,16000,3 - 6
+Kab. Majalengka,Sumber Jaya,16000,3 - 6
+Kab. Majalengka,Talaga,16000,3 - 6
+Kab. Majalengka,Banjaran,16000,3 - 6
+Kab. Majalengka,Cigasong,16000,3 - 6
+Kab. Majalengka,Cingambul,16000,3 - 6
+Kab. Majalengka,Sindangwangi,16000,3 - 6
+Kab. Cirebon,Sumber,13000,2 - 3
+Kab. Cirebon,Arjawinangun,16000,3 - 6
+Kab. Cirebon,Astanajapura,16000,3 - 6
+Kab. Cirebon,Babakan,16000,3 - 6
+Kab. Cirebon,Beber,16000,3 - 6
+Kab. Cirebon,Ciledug,16000,3 - 6
+Kab. Cirebon,Cirebon Utara,16000,3 - 6
+Kab. Cirebon,Cirebon Selatan,16000,3 - 6
+Kab. Cirebon,Ciwaringin,16000,3 - 6
+Kab. Cirebon,Depok,16000,3 - 6
+Kab. Cirebon,Dukupuntang,16000,3 - 6
+Kab. Cirebon,Gebang,16000,3 - 6
+Kab. Cirebon,Gegesik,16000,3 - 6
+Kab. Cirebon,Gempol,16000,3 - 6
+Kab. Cirebon,Kaliwedi,16000,3 - 6
+Kab. Cirebon,Kapetakan,16000,3 - 6
+Kab. Cirebon,Karangsembung,16000,3 - 6
+Kab. Cirebon,Karangwareng,16000,3 - 6
+Kab. Cirebon,Kedawung,16000,3 - 6
+Kab. Cirebon,Klangenan,16000,3 - 6
+Kab. Cirebon,Lemahabang,16000,3 - 6
+Kab. Cirebon,Losari,13000,2 - 3
+Kab. Cirebon,Mundu,16000,3 - 6
+Kab. Cirebon,Pabedilan,16000,3 - 6
+Kab. Cirebon,Susukan,16000,3 - 6
+Kab. Cirebon,Pabuaran,16000,3 - 6
+Kab. Cirebon,Susukanlebak,16000,3 - 6
+Kab. Cirebon,Palimanan,13000,2 - 3
+Kab. Cirebon,Waled,16000,3 - 6
+Kab. Cirebon,Pangenan,16000,3 - 6
+Kab. Cirebon,Weru,16000,3 - 6
+Kab. Cirebon,Panguragan,16000,3 - 6
+Kab. Cirebon,Pasaleman,16000,3 - 6
+Kab. Cirebon,Plered,16000,3 - 6
+Kab. Cirebon,Plumbon,16000,3 - 6
+Kab. Cirebon,Tengah Tani,16000,3 - 6
+Kab. Cirebon,Sedong,16000,3 - 6
+DKI Jakarta,Jakarta,8000,1 - 2
+Kota Administrasi Jakarta Barat,Jakarta Barat,8000,1 - 2
+Kota Administrasi Jakarta Barat,Grogol,8000,1 - 2
+Kota Administrasi Jakarta Barat,Kalideres,8000,1 - 2
+Kota Administrasi Jakarta Barat,Kebon Jeruk,8000,1 - 2
+Kota Administrasi Jakarta Barat,Kembangan,8000,1 - 2
+Kota Administrasi Jakarta Barat,Palmerah,8000,1 - 2
+Kota Administrasi Jakarta Barat,Taman Sari,8000,1 - 2
+Kota Administrasi Jakarta Barat,Tambora,8000,1 - 2
+Kota Administrasi Jakarta Barat,Cengkareng,8000,1 - 2
+Kota Administrasi Jakarta Selatan,Jakarta Selatan,8000,1 - 2
+Kota Administrasi Jakarta Selatan,Jagakarsa,8000,1 - 2
+Kota Administrasi Jakarta Selatan,Kebayoran Baru,8000,1 - 2
+Kota Administrasi Jakarta Selatan,Kebayoran Lama,8000,1 - 2
+Kota Administrasi Jakarta Selatan,Mampang Prapatan,8000,1 - 2
+Kota Administrasi Jakarta Selatan,Pancoran,8000,1 - 2
+Kota Administrasi Jakarta Selatan,Pasar Minggu,8000,1 - 2
+Kota Administrasi Jakarta Selatan,Pesanggrahan,8000,1 - 2
+Kota Administrasi Jakarta Selatan,Setiabudi,8000,1 - 2
+Kota Administrasi Jakarta Selatan,Tebet,8000,1 - 2
+Kota Administrasi Jakarta Selatan,Cilandak,8000,1 - 2
+Kota Administrasi Jakarta Pusat,Jakarta Pusat,8000,1 - 2
+Kota Administrasi Jakarta Pusat,Cempaka Putih,8000,1 - 2
+Kota Administrasi Jakarta Pusat,Gambir,8000,1 - 2
+Kota Administrasi Jakarta Pusat,Johar Baru,8000,1 - 2
+Kota Administrasi Jakarta Pusat,Kemayoran,8000,1 - 2
+Kota Administrasi Jakarta Pusat,Menteng,8000,1 - 2
+Kota Administrasi Jakarta Pusat,Sawah Besar,8000,1 - 2
+Kota Administrasi Jakarta Pusat,Senen,8000,1 - 2
+Kota Administrasi Jakarta Pusat,Tanah Abang,8000,1 - 2
+Kota Administrasi Jakarta Utara,Jakarta Utara,8000,1 - 2
+Kota Administrasi Jakarta Utara,Kelapa Gading,8000,1 - 2
+Kota Administrasi Jakarta Utara,Koja,8000,1 - 2
+Kota Administrasi Jakarta Utara,Pademangan,8000,1 - 2
+Kota Administrasi Jakarta Utara,Penjaringan,8000,1 - 2
+Kota Administrasi Jakarta Utara,Tanjung Priok,8000,1 - 2
+Kota Administrasi Jakarta Utara,Cilincing,8000,1 - 2
+Kota Administrasi Jakarta Timur,Jakarta Timur,8000,1 - 2
+Kota Administrasi Jakarta Timur,Cakung,8000,1 - 2
+Kota Administrasi Jakarta Timur,Cipayung,8000,1 - 2
+Kota Administrasi Jakarta Timur,Ciracas,8000,1 - 2
+Kota Administrasi Jakarta Timur,Duren Sawit,8000,1 - 2
+Kota Administrasi Jakarta Timur,Jatinegara,8000,1 - 2
+Kota Administrasi Jakarta Timur,Kramat Jati,8000,1 - 2
+Kota Administrasi Jakarta Timur,Makassar,8000,1 - 2
+Kota Administrasi Jakarta Timur,Matraman,8000,1 - 2
+Kota Administrasi Jakarta Timur,Pasar Rebo,8000,1 - 2
+Kota Administrasi Jakarta Timur,Pulo Gadung,8000,1 - 2
+Kota Administrasi Kepulauan Serib,Pulau Pramuka,8000,1 - 2
+Kota Administrasi Kepulauan Serib,Kepulauan Seribu Selatan,8000,1 - 2
+Kota Administrasi Kepulauan Serib,Kepulauan Seribu Utara,8000,1 - 2
+Kota Cilegon,Cilegon,9000,1 - 2
+Kota Cilegon,Merak,9000,1 - 2
+Kota Cilegon,Cibeber,9000,1 - 2
+Kota Cilegon,Citangkil,9000,1 - 2
+Kota Cilegon,Ciwandan,9000,1 - 2
+Kota Cilegon,Gerogol,9000,1 - 2
+Kota Cilegon,Jombang,9000,1 - 2
+Kota Cilegon,Purwakarta,9000,1 - 2
+Kab. Pandeglang,Pandeglang,10000,2 - 3
+Kab. Pandeglang,Banjar,13000,3 - 6
+Kab. Pandeglang,Bojong,13000,3 - 6
+Kab. Pandeglang,Cadas Sari,13000,3 - 6
+Kab. Pandeglang,Cibaliung,13000,3 - 6
+Kab. Pandeglang,Cikeusik,13000,3 - 6
+Kab. Pandeglang,Cimanggu,13000,3 - 6
+Kab. Pandeglang,Cimanuk,13000,3 - 6
+Kab. Pandeglang,Jiput,13000,3 - 6
+Kab. Pandeglang,Labuan,13000,3 - 6
+Kab. Pandeglang,Mandalawangi,13000,3 - 6
+Kab. Pandeglang,Menes,13000,3 - 6
+Kab. Pandeglang,Munjul,13000,3 - 6
+Kab. Pandeglang,Pagelaran,13000,3 - 6
+Kab. Pandeglang,Saketi,13000,3 - 6
+Kab. Pandeglang,Sumur,13000,3 - 6
+Kab. Pandeglang,Angsana,13000,3 - 6
+Kab. Pandeglang,Carita,13000,3 - 6
+Kab. Pandeglang,Cibitung,13000,3 - 6
+Kab. Pandeglang,Cigeulis,13000,3 - 6
+Kab. Pandeglang,Cikedal,13000,3 - 6
+Kab. Pandeglang,Cipeucang,13000,3 - 6
+Kab. Pandeglang,Cisata,13000,3 - 6
+Kab. Pandeglang,Kaduhejo,13000,3 - 6
+Kab. Pandeglang,Karangtanjung,13000,3 - 6
+Kab. Pandeglang,Panimbang,13000,3 - 6
+Kab. Pandeglang,Patia,13000,3 - 6
+Kab. Pandeglang,Picung,13000,3 - 6
+Kab. Pandeglang,Sukaresmi,13000,3 - 6
+Kab. Lebak,Rangkasbitung,10000,2 - 3
+Kab. Lebak,Banjarsari,13000,3 - 6
+Kab. Lebak,Bayah,13000,3 - 6
+Kab. Lebak,Bojongmanik,13000,3 - 6
+Kab. Lebak,Cibadak,13000,3 - 6
+Kab. Lebak,Cibeber,13000,3 - 6
+Kab. Lebak,Cijaku,13000,3 - 6
+Kab. Lebak,Cikulur,13000,3 - 6
+Kab. Lebak,Cileles,13000,3 - 6
+Kab. Lebak,Cimarga,13000,3 - 6
+Kab. Lebak,Cipanas,13000,3 - 6
+Kab. Lebak,Gunungkencana,13000,3 - 6
+Kab. Lebak,Leuwidamar,13000,3 - 6
+Kab. Lebak,Maja,13000,3 - 6
+Kab. Lebak,Malingping,13000,3 - 6
+Kab. Lebak,Muncang,13000,3 - 6
+Kab. Lebak,Panggarangan,13000,3 - 6
+Kab. Lebak,Sajira,13000,3 - 6
+Kab. Lebak,Wanasalam,13000,3 - 6
+Kab. Lebak,Warunggunung,13000,3 - 6
+Kab. Lebak,Curugbitung,13000,3 - 6
+Kab. Lebak,Sobang,13000,3 - 6
+Kota Serang,Serang,9000,1 - 2
+Kota Serang,Curug,9000,1 - 2
+Kota Serang,Kasemen,9000,1 - 2
+Kota Serang,Taktakan,9000,1 - 2
+Kota Serang,Walantaka,9000,1 - 2
+Kota Serang,Cipocok Jaya,9000,1 - 2
+Kab. Serang,Baros,10000,2 - 3
+Kab. Serang,Anyar,10000,2 - 3
+Kab. Serang,Binuang,13000,3 - 6
+Kab. Serang,Bojonegara,13000,3 - 6
+Kab. Serang,Carenang,13000,3 - 6
+Kab. Serang,Cikande,13000,3 - 6
+Kab. Serang,Cikeusal,13000,3 - 6
+Kab. Serang,Cinangka,13000,3 - 6
+Kab. Serang,Ciomas,13000,3 - 6
+Kab. Serang,Ciruas,13000,3 - 6
+Kab. Serang,Jawilan,13000,3 - 6
+Kab. Serang,Kibin,13000,3 - 6
+Kab. Serang,Kopo,13000,3 - 6
+Kab. Serang,Kragilan,13000,3 - 6
+Kab. Serang,Kramatwatu,13000,3 - 6
+Kab. Serang,Mancak,13000,3 - 6
+Kab. Serang,Pabuaran,13000,3 - 6
+Kab. Serang,Padarincang,13000,3 - 6
+Kab. Serang,Pamarayan,13000,3 - 6
+Kab. Serang,Petir,13000,3 - 6
+Kab. Serang,Pontang,13000,3 - 6
+Kab. Serang,Puloampel,13000,3 - 6
+Kab. Serang,Tanara,13000,3 - 6
+Kab. Serang,Tirtayasa,13000,3 - 6
+Kab. Serang,Tunjung Teja,13000,3 - 6
+Kab. Serang,Waringinkurung,13000,3 - 6
+Kab. Cilacap,Cilacap,15000,1 - 2
+Kab. Cilacap,Adipala,23000,3 - 6
+Kab. Cilacap,Binangun,23000,3 - 6
+Kab. Cilacap,Cimanggu,23000,3 - 6
+Kab. Cilacap,Cipari,23000,3 - 6
+Kab. Cilacap,Dayeuhluhur,23000,3 - 6
+Kab. Cilacap,Gandrungmangu,23000,3 - 6
+Kab. Cilacap,Jeruklegi,23000,3 - 6
+Kab. Cilacap,Karangpucung,23000,3 - 6
+Kab. Cilacap,Kawunganten,23000,3 - 6
+Kab. Cilacap,Kedungrejo,23000,3 - 6
+Kab. Cilacap,Kesugihan,23000,3 - 6
+Kab. Cilacap,Kroya,23000,3 - 6
+Kab. Cilacap,Majenang,17000,2 - 3
+Kab. Cilacap,Maos,23000,3 - 6
+Kab. Cilacap,Nusawungu,23000,3 - 6
+Kab. Cilacap,Sampang,23000,3 - 6
+Kab. Cilacap,Sidareja,23000,3 - 6
+Kab. Cilacap,Wanar,23000,3 - 6
+Kab. Cilacap,Cilacap Selatan,15000,2 - 3
+Kab. Cilacap,Cilacap Tengah,15000,2 - 3
+Kab. Cilacap,Cilacap Utara,15000,2 - 3
+Kab. Cilacap,Patimuan,23000,3 - 6
+Kab. Cilacap,Bantarsari,23000,3 - 6
+Kab. Cilacap,Kampung Laut,23000,3 - 6
+Kota Jambi,Jambi,20000,1 - 2
+Kota Jambi,Danau Teluk,20000,1 - 2
+Kota Jambi,Jambi Selatan,20000,1 - 2
+Kota Jambi,Jambi Timur,20000,1 - 2
+Kota Jambi,Jelutung,20000,1 - 2
+Kota Jambi,Kota Baru,20000,1 - 2
+Kota Jambi,Pasar Jambi,20000,1 - 2
+Kota Jambi,Pelayangan,20000,1 - 2
+Kota Jambi,Telanaipura,20000,1 - 2
+Kab. Tanjung Jabung Barat,Kualatungkal,31000,2 - 3
+Kab. Tanjung Jabung Barat,Betara,39000,3 - 6
+Kab. Tanjung Jabung Barat,Merlung,39000,3 - 6
+Kab. Tanjung Jabung Barat,Pengabuan,39000,3 - 6
+Kab. Tanjung Jabung Barat,Tungkal Ulu,31000,2 - 3
+Kab. Tanjung Jabung Barat,Tungkal Ilir,31000,2 - 3
+Kab. Merangin,Bangko,31000,2 - 3
+Kab. Merangin,Jangkat,59000,+ 10
+Kab. Merangin,Muara Siau,39000,3 - 6
+Kab. Merangin,Sungai Manau,59000,+ 10
+Kab. Merangin,Tabir,39000,3 - 6
+Kab. Merangin,Pamenang,39000,3 - 6
+Kab. Merangin,Tabir Ulu,39000,3 - 6
+Kab. Batang Hari,Muara Bulian,31000,2 - 3
+Kab. Batang Hari,Batin XXIV,39000,3 - 6
+Kab. Batang Hari,Maro Sebo Ulu,39000,3 - 6
+Kab. Batang Hari,Mersam,39000,3 - 6
+Kab. Batang Hari,Muara Tembesi,39000,3 - 6
+Kab. Batang Hari,Pemayung,39000,3 - 6
+Kab. Batang Hari,Bajubang,39000,3 - 6
+Kab. Batang Hari,Maro Sebo Ilir,39000,3 - 6
+Kab. Bungo,Muara Bungo,31000,2 - 3
+Kab. Bungo,Jujuhan,59000,+ 10
+Kab. Bungo,Pelepat,39000,3 - 6
+Kab. Bungo,Rantau Pandan,39000,3 - 6
+Kab. Bungo,Tanah Sepenggal,39000,3 - 6
+Kab. Bungo,Tanah Tumbuh,39000,3 - 6
+Kab. Bungo,Bathin II Babeko,39000,3 - 6
+Kab. Bungo,Limbur Lubuk Mengkuang,39000,3 - 6
+Kab. Bungo,Muko Muko Batin VII,39000,3 - 6
+Kab. Bungo,Pelepat Ilir,39000,3 - 6
+Kab. Kerinci,Sungai Penuh,31000,2 - 3
+Kab. Kerinci,Air Hangat,39000,3 - 6
+Kab. Kerinci,Batang Merangin,39000,3 - 6
+Kab. Kerinci,Danau Kerinci,39000,3 - 6
+Kab. Kerinci,Gunung Kerinci,39000,3 - 6
+Kab. Kerinci,Gunung Raya,59000,+ 10
+Kab. Kerinci,Hamparan Rawang,39000,3 - 6
+Kab. Kerinci,Kayu Aro,59000,+ 10
+Kab. Kerinci,Keliling Danau,39000,3 - 6
+Kab. Kerinci,Sitinjau Laut,39000,3 - 6
+Kab. Kerinci,Air Hangat Timur,39000,3 - 6
+Kab. Muaro Jambi,Sengeti,31000,2 - 3
+Kab. Muaro Jambi,Jambi Luar Kota,39000,3 - 6
+Kab. Muaro Jambi,Kumpeh,39000,3 - 6
+Kab. Muaro Jambi,Kumpeh Ulu,39000,3 - 6
+Kab. Muaro Jambi,Maro Sebo,39000,3 - 6
+Kab. Muaro Jambi,Mestong,39000,3 - 6
+Kab. Muaro Jambi,Sekernan,39000,3 - 6
+Kab. Muaro Jambi,Sungai Bahar,39000,3 - 6
+Kab. Sarolangun,Sarolangun,31000,2 - 3
+Kab. Sarolangun,Batang Asai,59000,+ 10
+Kab. Sarolangun,Muara Limun,39000,3 - 6
+Kab. Sarolangun,Mandiangin,39000,3 - 6
+Kab. Sarolangun,Pauh,39000,3 - 6
+Kab. Sarolangun,Pelawan Singkut,39000,3 - 6
+Kab. Tanjung Jabung Timur,Muara sabak,31000,2 - 3
+Kab. Tanjung Jabung Timur,Dendang,39000,3 - 6
+Kab. Tanjung Jabung Timur,Mendahara,39000,3 - 6
+Kab. Tanjung Jabung Timur,Nipah Panjang,39000,3 - 6
+Kab. Tanjung Jabung Timur,Rantau Rasau,59000,+ 10
+Kab. Tanjung Jabung Timur,Sadu,39000,3 - 6
+Kab. Tebo,Muara Tebo,31000,2 - 3
+Kab. Tebo,Rimbo Bujang,39000,3 - 6
+Kab. Tebo,Rimbo Ilir,39000,3 - 6
+Kab. Tebo,Rimbo Ulu,39000,3 - 6
+Kab. Tebo,Sumay,39000,3 - 6
+Kab. Tebo,Tebo Ilir,31000,2 - 3
+Kab. Tebo,Tebo Tengah,31000,2 - 3
+Kab. Tebo,Tebo Ulu,31000,2 - 3
+Kab. Tebo,Tengah Ilir,39000,3 - 6
+Kab. Tebo,VII Koto,39000,3 - 6
+Kota Jayapura,Jayapura,80000,2 - 4
+Kota Jayapura,Abepura,80000,2 - 4
+Kab. Jayapura,Demta,135000,6 - 9
+Kab. Jayapura,Depapre,135000,6 - 9
+Kab. Jayapura,Kareuh,135000,6 - 9
+Kab. Jayapura,Kemtuk Gresie,135000,6 - 9
+Kab. Jayapura,Nimboran,135000,6 - 9
+Kab. Jayapura,Sentani,108000,4 - 6
+Kab. Jayapura,Unurum Guay,135000,6 - 9
+Kab. Jayapura,Kemtuk,135000,6 - 9
+Kab. Jayapura,Nimbokrang,135000,6 - 9
+Kab. Jayapura,Sentani Barat,135000,6 - 9
+Kab. Jayapura,Sentani Timur,135000,6 - 9
+Kota Jayapura,Jayapura Selatan,80000,4 - 6
+Kota Jayapura,Jayapura Utara,80000,4 - 6
+Kota Jayapura,Muara Tam,80000,4 - 6
+Kab. Biak Numfor,Biak Kota,108000,4 - 6
+Kab. Biak Numfor,Biak Barat,135000,6 - 9
+Kab. Biak Numfor,Biak timur,135000,6 - 9
+Kab. Biak Numfor,Biak Utara,135000,6 - 9
+Kab. Biak Numfor,Numfor Barat,135000,6 - 9
+Kab. Biak Numfor,Numfor Timur,135000,6 - 9
+Kab. Biak Numfor,Kepulauan Padaidio,135000,6 - 9
+Kab. Biak Numfor,Samofa,135000,6 - 9
+Kab. Biak Numfor,Warsa,135000,6 - 9
+Kab. Biak Numfor,Yendidori,135000,6 - 9
+Kab. Merauke,Merauke,108000,4 - 6
+Kab. Merauke,Kimaam,135000,6 - 9
+Kab. Merauke,Muting,135000,6 - 9
+Kab. Merauke,Okaba,135000,6 - 9
+Kab. Merauke,Distrik Ulilin,135000,6 - 9
+Kab. Merauke,Eligobel,135000,6 - 9
+Kab. Merauke,Jagebob,135000,6 - 9
+Kab. Merauke,Kurik,135000,6 - 9
+Kab. Merauke,Semangga,135000,6 - 9
+Kab. Merauke,Sota,135000,6 - 9
+Kab. Merauke,Tanah Miring,135000,6 - 9
+Kab. Yapen Waropen,Serui,108000,4 - 6
+Kab. Yapen Waropen,Yapen Barat,135000,6 - 9
+Kab. Yapen Waropen,Yapen Timur,135000,6 - 9
+Kab. Yapen Waropen,Angkaisera,135000,6 - 9
+Kab. Yapen Waropen,Poom,135000,6 - 9
+Kab. Yapen Waropen,Yapen Selatan,135000,6 - 9
+Kab. Jayawijaya,Wamena,108000,4 - 6
+Kab. Jayawijaya,Asologaima,135000,6 - 9
+Kab. Jayawijaya,Kelila,135000,6 - 9
+Kab. Jayawijaya,Kurulu,135000,6 - 9
+Kab. Jayawijaya,Maki,135000,6 - 9
+Kab. Jayawijaya,Tiom,135000,6 - 9
+Kab. Jayawijaya,Abenaho,135000,6 - 9
+Kab. Jayawijaya,Apalapsili,135000,6 - 9
+Kab. Jayawijaya,Bolakma,135000,6 - 9
+Kab. Jayawijaya,Gamelia,135000,6 - 9
+Kab. Jayawijaya,Hubikosi,135000,6 - 9
+Kab. Jayawijaya,Kenyam,135000,6 - 9
+Kab. Jayawijaya,Kobakma,135000,6 - 9
+Kab. Jayawijaya,Mapenduma,135000,6 - 9
+Kab. Jayawijaya,Pirime,135000,6 - 9
+Kab. Asmat,Agats,108000,4 - 6
+Kab. Asmat,Akat,135000,6 - 9
+Kab. Asmat,Atsy,135000,6 - 9
+Kab. Asmat,Fayit,135000,6 - 9
+Kab. Asmat,Pantai Kasuari,135000,6 - 9
+Kab. Asmat,Sawaerma,135000,6 - 9
+Kab. Asmat,Suator,135000,6 - 9
+Kab. Boven Digoel,Tanah Merah/ Boven Digoel,108000,4 - 6
+Kab. Boven Digoel,Distrik Bomakia,135000,6 - 9
+Kab. Boven Digoel,Jair,135000,6 - 9
+Kab. Boven Digoel,Kouh,135000,6 - 9
+Kab. Boven Digoel,Mandobo,135000,6 - 9
+Kab. Boven Digoel,Mindiptana,135000,6 - 9
+Kab. Boven Digoel,Waropko,135000,6 - 9
+Kab. Keerom,Waris,108000,4 - 6
+Kab. Keerom,Arso,135000,6 - 9
+Kab. Keerom,Senggi,135000,6 - 9
+Kab. Keerom,Skanto,135000,6 - 9
+Kab. Keerom,Web,135000,6 - 9
+Kab. Pegunungan Bintang,Oksibil,108000,4 - 6
+Kab. Pegunungan Bintang,Batom,135000,6 - 9
+Kab. Pegunungan Bintang,Borme,135000,6 - 9
+Kab. Pegunungan Bintang,Iwur,135000,6 - 9
+Kab. Pegunungan Bintang,Kiwirok,135000,6 - 9
+Kab. Pegunungan Bintang,Okbibab,135000,6 - 9
+Kab. Sarmi,Sarmi,108000,4 - 6
+Kab. Sarmi,Bonggo,135000,6 - 9
+Kab. Sarmi,Pantai Barat,135000,6 - 9
+Kab. Sarmi,Pantai Timur,135000,6 - 9
+Kab. Sarmi,Tor Atas,135000,6 - 9
+Kab. Supiori,Sorendiweri,108000,4 - 6
+Kab. Supiori,Supiori Selatan,135000,6 - 9
+Kab. Supiori,Supiori Timur,135000,6 - 9
+Kab. Supiori,Supiori Utara,135000,6 - 9
+Kab. Talikora,Karubaga,108000,4 - 6
+Kab. Talikora,Bokondini,135000,6 - 9
+Kab. Talikora,Kanggime,203000,+ 10
+Kab. Talikora,Kembu,203000,+ 10
+Kab. Waropen,Botawa,203000,+ 10
+Kab. Waropen,Masirei,203000,+ 10
+Kab. Waropen,Waropen Bawah,203000,+ 10
+Kab. Yahukimo,Sumohai,203000,+ 10
+Kab. Yahukimo,Anggruk,203000,+ 10
+Kab. Yahukimo,Kurima,203000,+ 10
+Kab. Yahukimo,Ninia,203000,+ 10
+Kab. Mamberamo Raya,Burmeso,203000,+ 10
+Kab. Mamberamo Raya,Mamberamo Tengah,203000,+ 10
+Kab. Mamberamo Raya,Mamberamo Ilir,203000,+ 10
+Kab. Mamberamo Raya,Mamberamo Ulu,203000,+ 10
+Kab. Mamberamo Raya,Mamberamo Tengah Timur,203000,+ 10
+Kab. Mamberamo Raya,Rufaer,203000,+ 10
+Kab. Mamberamo Raya,Waropen Atas,203000,+ 10
+Kab. Mamberamo Raya,Benuki,203000,+ 10
+Kab. Mamberamo Raya,Sawai,203000,+ 10
+Kota Depok,Depok,8000,1 - 2
+Kota Depok,Cibubur,8000,1 - 2
+Kota Depok,Cimanggis,8000,1 - 2
+Kota Depok,Sawangan,8000,1 - 2
+Kota Depok,Beji,8000,1 - 2
+Kota Depok,Limo,8000,1 - 2
+Kota Depok,Pancoran Mas,8000,1 - 2
+Kota Depok,Sukmajaya,8000,1 - 2
+Kota Denpasar,Denpasar,20000,1 - 2
+Kota Denpasar,Denpasar Barat,20000,1 - 2
+Kota Denpasar,Denpasar Selatan,20000,1 - 2
+Kota Denpasar,Denpasar Timur,20000,1 - 2
+Kab. Karangasem,Amlapura,26000,2 - 3
+Kab. Karangasem,Abang,29000,3 - 6
+Kab. Karangasem,Bebandem,29000,3 - 6
+Kab. Karangasem,Kubu,29000,3 - 6
+Kab. Karangasem,Manggis,29000,3 - 6
+Kab. Karangasem,Rendang,29000,3 - 6
+Kab. Karangasem,Selat,29000,3 - 6
+Kab. Karangasem,Sidemen,29000,3 - 6
+Kab. Karangasem,Karangasem,26000,2 - 3
+Kab. Bangli,Bangli,26000,2 - 3
+Kab. Bangli,Kintamani,29000,3 - 6
+Kab. Bangli,Susut,29000,3 - 6
+Kab. Bangli,Tembuku,29000,3 - 6
+Kab. Gianyar,Gianyar,26000,2 - 3
+Kab. Gianyar,Blahbatuh,29000,3 - 6
+Kab. Gianyar,Payangan,29000,3 - 6
+Kab. Gianyar,Sukawati,29000,3 - 6
+Kab. Gianyar,Tampaksiring,29000,3 - 6
+Kab. Gianyar,Tegal Lalang,29000,3 - 6
+Kab. Gianyar,Ubud,29000,3 - 6
+Kab. Jembrana,Negara,26000,2 - 3
+Kab. Jembrana,Melaya,29000,3 - 6
+Kab. Jembrana,Mendoyo,29000,3 - 6
+Kab. Jembrana,Pekutatan,29000,3 - 6
+Kab. Klungkung,Semarapura,26000,2 - 3
+Kab. Klungkung,Dawan,29000,3 - 6
+Kab. Klungkung,Klungkung,26000,2 - 3
+Kab. Klungkung,Nusapenida,29000,3 - 6
+Kab. Klungkung,Banjarangkan,29000,3 - 6
+Kab. Buleleng,Singaraja,26000,2 - 3
+Kab. Buleleng,Banjar,29000,3 - 6
+Kab. Buleleng,Busung Biu,29000,3 - 6
+Kab. Buleleng,Gerokgak,29000,3 - 6
+Kab. Buleleng,Kubutambahan,29000,3 - 6
+Kab. Buleleng,Sawan,29000,3 - 6
+Kab. Buleleng,Seririt,29000,3 - 6
+Kab. Buleleng,Sukasada,29000,3 - 6
+Kab. Buleleng,Tejakula,29000,3 - 6
+Kab. Buleleng,Buleleng,29000,3 - 6
+Kab. Tabanan,Tabanan,26000,2 - 3
+Kab. Tabanan,Baturiti,29000,3 - 6
+Kab. Tabanan,Kediri,29000,3 - 6
+Kab. Tabanan,Kerambitan,29000,3 - 6
+Kab. Tabanan,Marga,29000,3 - 6
+Kab. Tabanan,Pupuan,29000,3 - 6
+Kab. Tabanan,Penebel,29000,3 - 6
+Kab. Tabanan,Selemadeg,29000,3 - 6
+Kab. Tabanan,Selemadeg Barat,29000,3 - 6
+Kab. Tabanan,Selemadeg Timur,29000,3 - 6
+Kab. Badung,Menguwi,26000,2 - 3
+Kab. Badung,Abiansemal,29000,3 - 6
+Kab. Badung,Kuta,20000,1 - 2
+Kab. Badung,Legian,20000,1 - 2
+Kab. Badung,Ngurah Rai,20000,1 - 2
+Kab. Badung,Sanur,20000,1 - 2
+Kab. Badung,Jimbaran,20000,1 - 2
+Kab. Badung,Nusa Dua,20000,1 - 2
+Kab. Badung,Petang,29000,3 - 6
+Kota Gorontalo,Gorontalo,45000,2 - 3
+Kota Gorontalo,Dungingi,45000,2 - 3
+Kota Gorontalo,Kota Barat,45000,2 - 3
+Kota Gorontalo,Kota Selatan,45000,2 - 3
+Kota Gorontalo,Kota Timur,45000,2 - 3
+Kota Gorontalo,Kota Utara,45000,2 - 3
+Kab. Gorontalo,Limboto,53000,3 - 5
+Kab. Gorontalo,Atinggola,67000,5 - 7
+Kab. Gorontalo,Batudaa,67000,5 - 7
+Kab. Gorontalo,Sumalata,67000,5 - 7
+Kab. Gorontalo,Tibawa,67000,5 - 7
+Kab. Gorontalo,Anggrek,67000,5 - 7
+Kab. Gorontalo,Boliyohuto,67000,5 - 7
+Kab. Gorontalo,Bongomeme,67000,5 - 7
+Kab. Gorontalo,Limboto Barat,53000,3 - 5
+Kab. Gorontalo,Mootilango,67000,5 - 7
+Kab. Gorontalo,Pulubala,67000,5 - 7
+Kab. Gorontalo,Telaga,67000,5 - 7
+Kab. Gorontalo,Tolangohula,67000,5 - 7
+Kab. Gorontalo,Tolinggula,67000,5 - 7
+Kab. Boalemo,Tilamuta,53000,3 - 5
+Kab. Boalemo,Botumoito,67000,5 - 7
+Kab. Boalemo,Dulupi,67000,5 - 7
+Kab. Boalemo,Mananggu,67000,5 - 7
+Kab. Boalemo,Paguyaman,67000,5 - 7
+Kab. Boalemo,Wonosari,67000,5 - 7
+Kota Bone Bolango,Suwawa,53000,3 - 5
+Kota Bone Bolango,Bone Panta,67000,5 - 7
+Kota Bone Bolango,Kabila,67000,5 - 7
+Kota Bone Bolango,Tapa,67000,5 - 7
+Kab. Gorontalo Utara,Kwandang,53000,3 - 5
+Kab. Gorontalo Utara,Anggrek,67000,5 - 7
+Kab. Gorontalo Utara,Atinggota,67000,5 - 7
+Kab. Gorontalo Utara,Sumalata,67000,5 - 7
+Kab. Gorontalo Utara,Tolingula,67000,5 - 7
+Kab. Pahuwalo,Marisa,53000,3 - 5
+Kab. Pahuwalo,Lemito,67000,5 - 7
+Kab. Pahuwalo,Paguat,67000,5 - 7
+Kab. Pahuwalo,Patilanggio,67000,5 - 7
+Kab. Pahuwalo,Popayato,67000,5 - 7
+Kab. Pahuwalo,Randangan,67000,5 - 7
+Kab. Pahuwalo,Taluditi,67000,5 - 7
+Kab. Jember,Jember,20000,1 - 2
+Kab. Jember,Ambulu,29000,3 - 6
+Kab. Jember,Arjasa,29000,3 - 6
+Kab. Jember,Balung,29000,3 - 6
+Kab. Jember,Bangsalsari,29000,3 - 6
+Kab. Jember,Gumukmas,29000,3 - 6
+Kab. Jember,Jelbuk,29000,3 - 6
+Kab. Jember,Jenggawah,29000,3 - 6
+Kab. Jember,Kalisat,29000,3 - 6
+Kab. Jember,Kencong,29000,3 - 6
+Kab. Jember,Ledokombo,29000,3 - 6
+Kab. Jember,Mayang,29000,3 - 6
+Kab. Jember,Mumbulsari,29000,3 - 6
+Kab. Jember,Pakusari,29000,3 - 6
+Kab. Jember,Panti,29000,3 - 6
+Kab. Jember,Puger,29000,3 - 6
+Kab. Jember,Rambipuji,29000,3 - 6
+Kab. Jember,Silo,29000,3 - 6
+Kab. Jember,Sukorambi,29000,3 - 6
+Kab. Jember,Sukowono,29000,3 - 6
+Kab. Jember,Sumberbaru,29000,3 - 6
+Kab. Jember,Sumberjambe,29000,3 - 6
+Kab. Jember,Tanggul,29000,3 - 6
+Kab. Jember,Tempurejo,29000,3 - 6
+Kab. Jember,Umbulsari,29000,3 - 6
+Kab. Jember,Wuluhan,29000,3 - 6
+Kab. Jember,Ajung,29000,3 - 6
+Kab. Jember,Jombang,29000,3 - 6
+Kab. Jember,Kaliwates,29000,3 - 6
+Kab. Jember,Patrang,29000,3 - 6
+Kab. Jember,Semboro,29000,3 - 6
+Kab. Jember,Sumbersari,29000,3 - 6
+Kab. Banyuwangi,Banyuwangi,24000,2 - 3
+Kab. Banyuwangi,Bangorejo,29000,3 - 6
+Kab. Banyuwangi,Cluring,29000,3 - 6
+Kab. Banyuwangi,Gambiran,29000,3 - 6
+Kab. Banyuwangi,Genteng,29000,3 - 6
+Kab. Banyuwangi,Glenmore,29000,3 - 6
+Kab. Banyuwangi,Kabat,29000,3 - 6
+Kab. Banyuwangi,Kalibaru,29000,3 - 6
+Kab. Banyuwangi,Muncar,29000,3 - 6
+Kab. Banyuwangi,Pesanggaran,29000,3 - 6
+Kab. Banyuwangi,Purwoharjo,29000,3 - 6
+Kab. Banyuwangi,Rogojampi,29000,3 - 6
+Kab. Banyuwangi,Singojuruh,29000,3 - 6
+Kab. Banyuwangi,Songgon,29000,3 - 6
+Kab. Banyuwangi,Srono,29000,3 - 6
+Kab. Banyuwangi,Tegaldlimo,29000,3 - 6
+Kab. Banyuwangi,Wongsorejo,29000,3 - 6
+Kab. Banyuwangi,Glagah,29000,3 - 6
+Kab. Banyuwangi,Giri,29000,3 - 6
+Kab. Banyuwangi,Kalipuro,29000,3 - 6
+Kab. Banyuwangi,Licin,29000,3 - 6
+Kab. Banyuwangi,Sempu,29000,3 - 6
+Kab. Banyuwangi,Siliragung,29000,3 - 6
+Kab. Banyuwangi,Tegalsari,29000,3 - 6
+Kab. Bondowoso,Bondowoso,24000,2 - 3
+Kab. Bondowoso,Cermee,29000,3 - 6
+Kab. Bondowoso,Curahdami,29000,3 - 6
+Kab. Bondowoso,Grujugan,29000,3 - 6
+Kab. Bondowoso,Klabang,29000,3 - 6
+Kab. Bondowoso,Maesan,29000,3 - 6
+Kab. Bondowoso,Pakem,29000,3 - 6
+Kab. Bondowoso,Prajekan,29000,3 - 6
+Kab. Bondowoso,Pujer,29000,3 - 6
+Kab. Bondowoso,Sempol,29000,3 - 6
+Kab. Bondowoso,Sukosari,29000,3 - 6
+Kab. Bondowoso,Tamanan,29000,3 - 6
+Kab. Bondowoso,Tapen,29000,3 - 6
+Kab. Bondowoso,Tegalampel,29000,3 - 6
+Kab. Bondowoso,Tenggarang,29000,3 - 6
+Kab. Bondowoso,Tlogosari,29000,3 - 6
+Kab. Bondowoso,Wonosari,29000,3 - 6
+Kab. Bondowoso,Wringin,29000,3 - 6
+Kab. Bondowoso,Binakal,29000,3 - 6
+Kab. Bondowoso,Sumberwringin,29000,3 - 6
+Kota Yogyakarta,Yogyakarta,16000,1 - 2
+Kota Yogyakarta,Tegalrejo,16000,1 - 2
+Kota Yogyakarta,Jetis,16000,1 - 2
+Kota Yogyakarta,Danurejan,16000,1 - 2
+Kota Yogyakarta,Gedongtengen,16000,1 - 2
+Kota Yogyakarta,Gondokusuman,16000,1 - 2
+Kota Yogyakarta,Gondomanan,16000,1 - 2
+Kota Yogyakarta,Kotagede,16000,1 - 2
+Kota Yogyakarta,Kraton,16000,1 - 2
+Kota Yogyakarta,Mantrijeron,16000,1 - 2
+Kota Yogyakarta,Mergangsan,16000,1 - 2
+Kota Yogyakarta,Ngampilan,16000,1 - 2
+Kota Yogyakarta,Pakualaman,16000,1 - 2
+Kota Yogyakarta,Umbulharjo,16000,1 - 2
+Kota Yogyakarta,Wirobrajan,16000,1 - 2
+Kab. Bantul,Bantul,16000,1 - 2
+Kab. Bantul,Bambanglipuro,25000,3 - 6
+Kab. Bantul,Dlingo,25000,3 - 6
+Kab. Bantul,Imogiri,25000,3 - 6
+Kab. Bantul,Jetis,25000,3 - 6
+Kab. Bantul,Kretek,25000,3 - 6
+Kab. Bantul,Pajangan,25000,3 - 6
+Kab. Bantul,Pandak,25000,3 - 6
+Kab. Bantul,Piyungan,25000,3 - 6
+Kab. Bantul,Pleret,25000,3 - 6
+Kab. Bantul,Pundong,25000,3 - 6
+Kab. Bantul,Sanden,25000,3 - 6
+Kab. Bantul,Sedayu,25000,3 - 6
+Kab. Bantul,Srandakan,25000,3 - 6
+Kab. Bantul,Banguntapan,25000,3 - 6
+Kab. Bantul,Kasihan,25000,3 - 6
+Kab. Bantul,Sewon,25000,3 - 6
+Kab. Sleman,Sleman,16000,1 - 2
+Kab. Sleman,Berbah,25000,3 - 6
+Kab. Sleman,Cangkringan,25000,3 - 6
+Kab. Sleman,Godean,25000,3 - 6
+Kab. Sleman,Kalasan,25000,3 - 6
+Kab. Sleman,Minggir,25000,3 - 6
+Kab. Sleman,Moyudan,25000,3 - 6
+Kab. Sleman,Ngaglik,25000,3 - 6
+Kab. Sleman,Ngemplak,25000,3 - 6
+Kab. Sleman,Pakem,25000,3 - 6
+Kab. Sleman,Prambanan,16000,1 - 2
+Kab. Sleman,Seyegan,25000,3 - 6
+Kab. Sleman,Tempel,25000,3 - 6
+Kab. Sleman,Turi,25000,3 - 6
+Kab. Sleman,Depok,25000,3 - 6
+Kab. Sleman,Gamping,25000,3 - 6
+Kab. Sleman,Mlati,25000,3 - 6
+Kab. Kulon Progo,Wates,20000,2 - 3
+Kab. Kulon Progo,Galur,25000,3 - 6
+Kab. Kulon Progo,Girimulyo,25000,3 - 6
+Kab. Kulon Progo,Kalibawang,25000,3 - 6
+Kab. Kulon Progo,Kokap,25000,3 - 6
+Kab. Kulon Progo,Lendah,25000,3 - 6
+Kab. Kulon Progo,Nanggulan,25000,3 - 6
+Kab. Kulon Progo,Panjatan,25000,3 - 6
+Kab. Kulon Progo,Pengasih,25000,3 - 6
+Kab. Kulon Progo,Samigaluh,25000,3 - 6
+Kab. Kulon Progo,Sentolo,25000,3 - 6
+Kab. Kulon Progo,Temon,25000,3 - 6
+Kab. Gunung Kidul,Wonosari,20000,2 - 3
+Kab. Gunung Kidul,Karangmojo,25000,3 - 6
+Kab. Gunung Kidul,Ngawen,25000,3 - 6
+Kab. Gunung Kidul,Nglipar,25000,3 - 6
+Kab. Gunung Kidul,Paliyan,25000,3 - 6
+Kab. Gunung Kidul,Panggang,25000,3 - 6
+Kab. Gunung Kidul,Patuk,25000,3 - 6
+Kab. Gunung Kidul,Playen,25000,3 - 6
+Kab. Gunung Kidul,Ponjong,25000,3 - 6
+Kab. Gunung Kidul,Rongkop,25000,3 - 6
+Kab. Gunung Kidul,Semin,25000,3 - 6
+Kab. Gunung Kidul,Semanu,25000,3 - 6
+Kab. Gunung Kidul,Tepus,25000,3 - 6
+Kab. Gunung Kidul,Gedangsari,25000,3 - 6
+Kab. Gunung Kidul,Girisubo,25000,3 - 6
+Kab. Gunung Kidul,Purwosari,25000,3 - 6
+Kab. Gunung Kidul,Saptosari,25000,3 - 6
+Kab. Gunung Kidul,Tanjungsari,25000,3 - 6
+Kota Kendari,Kendari,45000,2 - 3
+Kota Kendari,Abeli,45000,2 - 3
+Kota Kendari,Baruga,45000,2 - 3
+Kota Kendari,Kendar,45000,2 - 3
+Kota Kendari,Barat,45000,2 - 3
+Kota Kendari,Mandonga,45000,2 - 3
+Kota Kendari,Poasia,45000,2 - 3
+Kab. Kota Bau-Bau,Bau - Bau,62000,3 - 5
+Kab. Kota Bau-Bau,Bungi,62000,3 - 5
+Kab. Kota Bau-Bau,Betoambari,62000,3 - 5
+Kab. Kota Bau-Bau,Kokalukuna,62000,3 - 5
+Kab. Kota Bau-Bau,Murhum,62000,3 - 5
+Kab. Kota Bau-Bau,Sorowalio,62000,3 - 5
+Kab. Kota Bau-Bau,Wolio,62000,3 - 5
+Kab. Kolaka,Kolaka,62000,3 - 5
+Kab. Kolaka,Ladongi,78000,5 - 7
+Kab. Kolaka,Mowewe,78000,5 - 7
+Kab. Kolaka,Pomalaa,78000,5 - 7
+Kab. Kolaka,Tirawuta,78000,5 - 7
+Kab. Kolaka,Watubangga,78000,5 - 7
+Kab. Kolaka,Wolo,78000,5 - 7
+Kab. Kolaka,Wundulako,78000,5 - 7
+Kab. Kolaka,Baula,78000,5 - 7
+Kab. Kolaka,Lambadia,78000,5 - 7
+Kab. Kolaka,Latambaga,78000,5 - 7
+Kab. Kolaka,Samaturu,78000,5 - 7
+Kab. Kolaka,Tanggetada,78000,5 - 7
+Kab. Kolaka,Uluiwoi,117000,+ 10
+Kab. Muna,Raha,62000,3 - 5
+Kab. Muna,Bonegunu,78000,5 - 7
+Kab. Muna,Duruka Bone,78000,5 - 7
+Kab. Muna,Kabangka,78000,5 - 7
+Kab. Muna,Kabawo,78000,5 - 7
+Kab. Muna,Kulisusu,78000,5 - 7
+Kab. Muna,Lawa,78000,5 - 7
+Kab. Muna,Lohia,78000,5 - 7
+Kab. Muna,Napabalano,78000,5 - 7
+Kab. Muna,Parigi,78000,5 - 7
+Kab. Muna,Sawerigadi,78000,5 - 7
+Kab. Muna,Tongkuno,78000,5 - 7
+Kab. Muna,Wakorumba Selatan,117000,+ 10
+Kab. Muna,Batalaiworu,78000,5 - 7
+Kab. Muna,Katobu,78000,5 - 7
+Kab. Muna,Kontunaga,78000,5 - 7
+Kab. Muna,Kulisusu Barat,78000,5 - 7
+Kab. Muna,Kulisusu Utara,78000,5 - 7
+Kab. Muna,Kusambi,78000,5 - 7
+Kab. Muna,Lasalepa,78000,5 - 7
+Kab. Muna,Maginti,78000,5 - 7
+Kab. Muna,Maligano,78000,5 - 7
+Kab. Muna,Pasir Putih,78000,5 - 7
+Kab. Muna,Tikep,78000,5 - 7
+Kab. Muna,Tiworo Tengah,78000,5 - 7
+Kab. Muna,Wakorumba,78000,5 - 7
+Kab. Muna,Barangka,78000,5 - 7
+Kab. Muna,Kambowa,78000,5 - 7
+Kab. Muna,Watopute,78000,5 - 7
+Kab. Konawe,Unaaha,62000,3 - 5
+Kab. Konawe,Abuki,78000,5 - 7
+Kab. Konawe,Lambuya,78000,5 - 7
+Kab. Konawe,Pondidaha,78000,5 - 7
+Kab. Konawe,Wawotobi,78000,5 - 7
+Kab. Konawe,Asera,78000,5 - 7
+Kab. Konawe,Lasolo,78000,5 - 7
+Kab. Konawe,Soropia,78000,5 - 7
+Kab. Konawe,Wawonii,117000,+ 10
+Kab. Konawe,Waworete,78000,5 - 7
+Kab. Konawe,Bondoala Sampara,78000,5 - 7
+Kab. Konawe,Latoma,78000,5 - 7
+Kab. Konawe,Sawa,78000,5 - 7
+Kab. Konawe,Tongauna,78000,5 - 7
+Kab. Konawe,Uepai,78000,5 - 7
+Kab. Konawe,Wonggeduku,78000,5 - 7
+Kab. Bombana,Rumbia,62000,3 - 5
+Kab. Bombana,Kabaena,78000,5 - 7
+Kab. Bombana,Kabaena Timur,78000,5 - 7
+Kab. Bombana,Poleang,78000,5 - 7
+Kab. Bombana,Poleang Barat,78000,5 - 7
+Kab. Bombana,Poleang Timur,78000,5 - 7
+Kab. Bombana,Rarowatu,78000,5 - 7
+Kab. Buton & Buton Utara,Pasar Wajo,62000,3 - 5
+Kab. Buton & Buton Utara,Batauga,78000,5 - 7
+Kab. Buton & Buton Utara,Batu Atas,117000,+ 10
+Kab. Buton & Buton Utara,E,117000,+ 10
+Kab. Buton & Buton Utara,Kadatua,117000,+ 10
+Kab. Buton & Buton Utara,Kapontori,78000,5 - 7
+Kab. Buton & Buton Utara,Lakudo,78000,5 - 7
+Kab. Buton & Buton Utara,Lasalimu,117000,+ 10
+Kab. Buton & Buton Utara,Lasalimu Selatan,117000,+ 10
+Kab. Buton & Buton Utara,Mawasangka,117000,+ 10
+Kab. Buton & Buton Utara,Mawasangka Timur,78000,5 - 7
+Kab. Buton & Buton Utara,Sampolawa,78000,5 - 7
+Kab. Buton & Buton Utara,Siompu,78000,5 - 7
+Kab. Buton & Buton Utara,Talaga Raya,117000,+ 10
+Kab. Buton & Buton Utara,Buranga,78000,5 - 7
+Kab. Kolaka Utara,Lasusua,62000,3 - 5
+Kab. Kolaka Utara,Batu Putih,117000,+ 10
+Kab. Kolaka Utara,Kodeoha,78000,5 - 7
+Kab. Kolaka Utara,Ngapa,78000,5 - 7
+Kab. Kolaka Utara,Pakue,78000,5 - 7
+Kab. Kolaka Utara,Ranteangin,78000,5 - 7
+Kab. Konawe Utara/ Selatan,Andolo/Wanggodo,62000,3 - 5
+Kab. Konawe Utara/ Selatan,Angata,78000,5 - 7
+Kab. Konawe Utara/ Selatan,Kolono,78000,5 - 7
+Kab. Konawe Utara/ Selatan,Konda,78000,5 - 7
+Kab. Konawe Utara/ Selatan,Lainea,78000,5 - 7
+Kab. Konawe Utara/ Selatan,Landono,78000,5 - 7
+Kab. Konawe Utara/ Selatan,Laonti,78000,5 - 7
+Kab. Konawe Utara/ Selatan,Moramo,78000,5 - 7
+Kab. Konawe Utara/ Selatan,Palangga,78000,5 - 7
+Kab. Konawe Utara/ Selatan,Ranomeeto,78000,5 - 7
+Kab. Konawe Utara/ Selatan,Tinanggea,78000,5 - 7
+Kab. Wakatobi,Wangi-Wangi,62000,3 - 5
+Kab. Wakatobi,Wangi-Wangi Selatan,78000,5 - 7
+Kab. Wakatobi,Kaledupa,78000,5 - 7
+Kab. Wakatobi,Tomia,117000,+ 10
+Kab. Wakatobi,Binongko,117000,+ 10
+Kota Kediri,Kediri,20000,1 - 2
+Kab. Kediri,Gampengrejo,24000,2 - 4
+Kab. Kediri,Grogol,24000,2 - 4
+Kab. Kediri,Gurah,24000,2 - 4
+Kab. Kediri,Kandat,24000,2 - 4
+Kab. Kediri,Kras,24000,2 - 4
+Kab. Kediri,Kunjang,24000,2 - 4
+Kab. Kediri,Mojo,24000,2 - 4
+Kab. Kediri,Ngadiluwih,24000,2 - 4
+Kab. Kediri,Pagu,24000,2 - 4
+Kab. Kediri,Papar,24000,2 - 4
+Kab. Kediri,Plemahan,24000,2 - 4
+Kab. Kediri,Plosoklaten,24000,2 - 4
+Kab. Kediri,Purwoasri,24000,2 - 4
+Kab. Kediri,Semen,24000,2 - 4
+Kab. Kediri,Tarokan,24000,2 - 4
+Kab. Kediri,Wates,24000,2 - 4
+Kab. Kediri,Pare,24000,2 - 4
+Kab. Kediri,Kandangan,24000,2 - 4
+Kab. Kediri,Kepung,24000,2 - 4
+Kab. Kediri,Ngancar,24000,2 - 4
+Kab. Kediri,Puncu,24000,2 - 4
+Kab. Kediri,Banyakan,24000,2 - 4
+Kab. Kediri,Kayen Kidul,24000,2 - 4
+Kab. Kediri,Ringinrejo,24000,2 - 4
+Kota Kediri,Mojoroto,20000,1 - 2
+Kota Kediri,Pesantren,20000,1 - 2
+Kota Kupang,Kupang,50000,2 - 3
+Kota Kupang,Alak,50000,2 - 3
+Kota Kupang,Kelapa Lima,50000,2 - 3
+Kota Kupang,Mawlapa,50000,2 - 3
+Kota Kupang,Oebobo,50000,2 - 3
+Kab. Sumba Tengah,Waibakul000,+ 10
+Kab. Sumba Tengah,Mamboro000,+ 10
+Kab. Sumba Tengah,Umbu Ratu Nggay000,+ 10
+Kab. Sumba Tengah,Umbu Ratu Nggay Barat000,+ 10
+Kab. Sumba Tengah,Katikutana000,+ 10
+Kab. Belu,Atambua,65000,3 - 5
+Kab. Belu,Kobalima000,+ 10
+Kab. Belu,Lamakmen,82000,5 - 9
+Kab. Belu,Malaka Timur000,+ 10
+Kab. Belu,Malaka Tengah,82000,5 - 9
+Kab. Belu,Malaka Barat000,+ 10
+Kab. Belu,Tasefeto Barat,82000,5 - 9
+Kab. Belu,Tasifeto Timur000,+ 10
+Kab. Belu,Kakuluk Mesak000,+ 10
+Kab. Belu,Raihat000,+ 10
+Kab. Belu,Rinhat000,+ 10
+Kab. Belu,Sasita Mean000,+ 10
+Kab. Alor,Kalabahi,65000,3 - 5
+Kab. Alor,Alor Timur000,+ 10
+Kab. Alor,Pantar000,+ 10
+Kab. Alor,Alor Selatan000,+ 10
+Kab. Alor,Alor Barat Daya000,+ 10
+Kab. Alor,Alor Barat Laut000,+ 10
+Kab. Alor,Alor Tengah Utara000,+ 10
+Kab. Alor,Alor Timur Laut000,+ 10
+Kab. Alor,Pantar Barat000,+ 10
+Kab. Alor,Teluk Mutiara,82000,5 - 9
+Kab. Timor Tengah Utara,Kefamenanu,65000,3 - 5
+Kab. Timor Tengah Utara,Biboki Selatan,82000,5 - 9
+Kab. Timor Tengah Utara,Biboki Utara,82000,5 - 9
+Kab. Timor Tengah Utara,Insana,82000,5 - 9
+Kab. Timor Tengah Utara,Miomafo Timur,82000,5 - 9
+Kab. Timor Tengah Utara,Miomafo Barat,82000,5 - 9
+Kab. Timor Tengah Utara,Biboki Anleu,82000,5 - 9
+Kab. Timor Tengah Utara,Insana Utara,82000,5 - 9
+Kab. Timor Tengah Utara,Neomuti,82000,5 - 9
+Kab. Flores Timur,Larantuka,65000,3 - 5
+Kab. Flores Timur,Adonara Barat000,+ 10
+Kab. Flores Timur,Adonara Timur000,+ 10
+Kab. Flores Timur,Solor Barat000,+ 10
+Kab. Flores Timur,Solor Timur000,+ 10
+Kab. Flores Timur,Tanjung Bunga,82000,5 - 9
+Kab. Flores Timur,Wulanggitan,82000,5 - 9
+Kab. Flores Timur,Ile Boleng,82000,5 - 9
+Kab. Flores Timur,Ile Mandiri,82000,5 - 9
+Kab. Flores Timur,Kelubagolit,82000,5 - 9
+Kab. Flores Timur,Titihena,82000,5 - 9
+Kab. Flores Timur,Witihama,82000,5 - 9
+Kab. Flores Timur,Wotan Ulu mado,82000,5 - 9
+Kab. Sikka,Maumere,65000,3 - 5
+Kab. Sikka,Bola000,+ 10
+Kab. Sikka,Kewapante000,+ 10
+Kab. Sikka,Lela000,+ 10
+Kab. Sikka,Nitta,82000,5 - 9
+Kab. Sikka,Paga000,+ 10
+Kab. Sikka,Talibura000,+ 10
+Kab. Sikka,Alok,82000,5 - 9
+Kab. Sikka,Mego000,+ 10
+Kab. Sikka,Palue000,+ 10
+Kab. Sikka,Waigete000,+ 10
+Kab. Manggarai,Ruteng,65000,3 - 5
+Kab. Manggarai,Cibal000,+ 10
+Kab. Manggarai,Lambaleda000,+ 10
+Kab. Manggarai,Reo000,+ 10
+Kab. Manggarai,Satarmese000,+ 10
+Kab. Manggarai,Komba000,+ 10
+Kab. Manggarai,Mborong000,+ 10
+Kab. Manggarai,Ponco Ranaka000,+ 10
+Kab. Manggarai,Sambi Rambas000,+ 10
+Kab. Manggarai,Wae Rii000,+ 10
+Kab. Timor Tengah Selatan,Soe,65000,3 - 5
+Kab. Timor Tengah Selatan,Amanatun Utara,82000,5 - 9
+Kab. Timor Tengah Selatan,Amanatun Selatan,82000,5 - 9
+Kab. Timor Tengah Selatan,Amanuban Selatan,82000,5 - 9
+Kab. Timor Tengah Selatan,Amanuban Barat000,+ 10
+Kab. Timor Tengah Selatan,Mollo Utara000,+ 10
+Kab. Timor Tengah Selatan,Mollo Selatan000,+ 10
+Kab. Timor Tengah Selatan,Amanatun Tengah,82000,5 - 9
+Kab. Timor Tengah Selatan,Amanatun Timur,82000,5 - 9
+Kab. Timor Tengah Selatan,Batu Putih000,+ 10
+Kab. Timor Tengah Selatan,Boking,82000,5 - 9
+Kab. Timor Tengah Selatan,Fatumnasi,82000,5 - 9
+Kab. Timor Tengah Selatan,Kalbano,82000,5 - 9
+Kab. Timor Tengah Selatan,Kie,82000,5 - 9
+Kab. Timor Tengah Selatan,Kot'olin,82000,5 - 9
+Kab. Timor Tengah Selatan,Kualin,82000,5 - 9
+Kab. Timor Tengah Selatan,Kuan Fatu,82000,5 - 9
+Kab. Timor Tengah Selatan,Nunkolo,82000,5 - 9
+Kab. Timor Tengah Selatan,Oenino000,+ 10
+Kab. Timor Tengah Selatan,Polen000,+ 10
+Kab. Timor Tengah Selatan,Tionas,82000,5 - 9
+Kab. Ende,Ende,65000,3 - 5
+Kab. Ende,Detusoko,82000,5 - 9
+Kab. Ende,Nanga Panda,82000,5 - 9
+Kab. Ende,Ndona,82000,5 - 9
+Kab. Ende,Wolo Waru,82000,5 - 9
+Kab. Ende,Detukeli,82000,5 - 9
+Kab. Ende,Ende Selatan,65000,3 - 5
+Kab. Ende,Ende Tengah,65000,3 - 5
+Kab. Ende,Ende Timur,65000,3 - 5
+Kab. Ende,Ende Utara,65000,3 - 5
+Kab. Ende,Kelimutu,82000,5 - 9
+Kab. Ende,Kotabaru,82000,5 - 9
+Kab. Ende,Lio Timur,82000,5 - 9
+Kab. Ende,Maukaro,82000,5 - 9
+Kab. Ende,Ndona Timur,82000,5 - 9
+Kab. Ende,Pulau Ende000,+ 10
+Kab. Ende,Wewaria000,+ 10
+Kab. Ende,Wolojita000,+ 10
+Kab. Ende,Magekoba/Maurole,82000,5 - 9
+Kab. Ngada,Bajawa000,+ 10
+Kab. Ngada,Aimere000,+ 10
+Kab. Ngada,Riung000,+ 10
+Kab. Ngada,Jere Buu,82000,5 - 9
+Kab. Ngada,Ngada Bawa,82000,5 - 9
+Kab. Ngada,Riung Barat000,+ 10
+Kab. Ngada,Soa000,+ 10
+Kab. Ngada,Wogomang Ulewa,82000,5 - 9
+Kab. Ngada,Golewa000,+ 10
+Kab. Sumba Timur,Waingapu,65000,3 - 5
+Kab. Sumba Timur,Lewa000,+ 10
+Kab. Sumba Timur,Paberiwai000,+ 10
+Kab. Sumba Timur,Pahunga Lodu000,+ 10
+Kab. Sumba Timur,Tabundung000,+ 10
+Kab. Sumba Timur,Haharu000,+ 10
+Kab. Sumba Timur,Kahaungu Eti000,+ 10
+Kab. Sumba Timur,Karera000,+ 10
+Kab. Sumba Timur,Matawai Lapau000,+ 10
+Kab. Sumba Timur,Nggaha Oriangu000,+ 10
+Kab. Sumba Timur,Pandawai000,+ 10
+Kab. Sumba Timur,Pinu Pahar000,+ 10
+Kab. Sumba Timur,Rindi000,+ 10
+Kab. Sumba Timur,Umalulu000,+ 10
+Kab. Sumba Timur,Wulla Waijelu000,+ 10
+Kab. Sumba Barat,Waikabubak,65000,3 - 5
+Kab. Sumba Barat,Laratama000,+ 10
+Kab. Sumba Barat,Walakaka000,+ 10
+Kab. Manggarai Barat,Labuan Bajo,65000,3 - 5
+Kab. Manggarai Barat,Komodo000,+ 10
+Kab. Manggarai Barat,Kuwus000,+ 10
+Kab. Manggarai Barat,Lembor000,+ 10
+Kab. Manggarai Barat,Macang Pacar000,+ 10
+Kab. Manggarai Barat,Sanonggoang000,+ 10
+Kab. Manggarai Timur,Borong000,+ 10
+Kab. Manggarai Timur,Elar000,+ 10
+Kab. Manggarai Timur,Lamba Leda000,+ 10
+Kab. Manggarai Timur,Poco Ranaka000,+ 10
+Kab. Manggarai Timur,Lomba000,+ 10
+Kab. Manggarai Timur,Sambi Rampas000,+ 10
+Kab. Nagekeo,Mbay000,+ 10
+Kab. Nagekeo,Aesesa000,+ 10
+Kab. Nagekeo,Boawae000,+ 10
+Kab. Nagekeo,Mauponggo000,+ 10
+Kab. Nagekeo,Nangaroro000,+ 10
+Kab. Nagekeo,Keo Tengah000,+ 10
+Kab. Nagekeo,Wolo Wae000,+ 10
+Kab. Nagekeo,Aesesa Selatan000,+ 10
+Kab. Rote Ndao,Baa,65000,3 - 5
+Kab. Rote Ndao,Lobalain000,+ 10
+Kab. Rote Ndao,Pantai Baru000,+ 10
+Kab. Rote Ndao,Rote Barat Daya000,+ 10
+Kab. Rote Ndao,Rote Barat Laut000,+ 10
+Kab. Rote Ndao,Rote Tengah000,+ 10
+Kab. Rote Ndao,Rote Timur000,+ 10
+Kab. Sumba Barat Daya,Tambolaka,65000,3 - 5
+Kab. Sumba Barat Daya,Kodi000,+ 10
+Kab. Sumba Barat Daya,Wewewa Barat000,+ 10
+Kab. Sumba Barat Daya,Wewewa Timur000,+ 10
+Kab. Sumba Barat Daya,Kodi Bangedo000,+ 10
+Kab. Sumba Barat Daya,Kodi Utara000,+ 10
+Kab. Sumba Barat Daya,Laura000,+ 10
+Kab. Sumba Barat Daya,Wewewa Selatan000,+ 10
+Kab. Sumba Barat Daya,Wewewa Utara000,+ 10
+Kab. Lembata,Lembata,65000,3 - 5
+Kab. Lembata,Buyasuri000,+ 10
+Kab. Lembata,Omesuri000,+ 10
+Kab. Lembata,Lebatukan000,+ 10
+Kab. Lembata,Ile Ape000,+ 10
+Kab. Lembata,Nubatukan000,+ 10
+Kab. Lembata,Atadei000,+ 10
+Kab. Lembata,Nagawutung000,+ 10
+Kab. Lembata,Wulandoni000,+ 10
+Kab. Kupang,Oelamasi,65000,3 - 5
+Kab. Kupang,Amabioefeto Timur000,+ 10
+Kab. Kupang,Amarasi Barat000,+ 10
+Kab. Kupang,Amarasi Selatan000,+ 10
+Kab. Kupang,Amarasi Timur000,+ 10
+Kab. Kupang,Amarasi000,+ 10
+Kab. Kupang,Amfoang Barat Daya000,+ 10
+Kab. Kupang,Amfoang Barat Laut000,+ 10
+Kab. Kupang,Amfoang Selatan000,+ 10
+Kab. Kupang,Amfoang Utara000,+ 10
+Kab. Kupang,Fatuleu000,+ 10
+Kab. Kupang,Fatuleu Barat000,+ 10
+Kab. Kupang,Fatuleu Tengah000,+ 10
+Kab. Kupang,Hawu Mehara000,+ 10
+Kab. Kupang,Kupang Barat,65000,3 - 5
+Kab. Kupang,Kupang Tengah,65000,3 - 5
+Kab. Kupang,Kupang Timur,65000,3 - 5
+Kab. Kupang,Nekemese000,+ 10
+Kab. Kupang,Raijua000,+ 10
+Kab. Kupang,Sabu Barat000,+ 10
+Kab. Kupang,Sabu Liae000,+ 10
+Kab. Kupang,Sabu Timur000,+ 10
+Kab. Kupang,Semau000,+ 10
+Kab. Kupang,Semau Selatan000,+ 10
+Kab. Kupang,Sulamu000,+ 10
+Kab. Kupang,Taebenu000,+ 10
+Kab. Kupang,Takari000,+ 10
+Kab. Karawang,Karawang,9000,1 - 2
+Kab. Karawang,Batujaya,12000,2 - 3
+Kab. Karawang,Cibuaya,12000,2 - 3
+Kab. Karawang,Cikampek,9000,1 - 2
+Kab. Karawang,Cilamaya Kulon,12000,2 - 3
+Kab. Karawang,Jatisari,9000,1 - 2
+Kab. Karawang,Klari,9000,1 - 2
+Kab. Karawang,LEMAHABANG WADAS,9000,1 - 2
+Kab. Karawang,Pakisjaya,12000,2 - 3
+Kab. Karawang,Pangkalan,12000,2 - 3
+Kab. Karawang,Pedes,12000,2 - 3
+Kab. Karawang,Rawamerta,9000,1 - 2
+Kab. Karawang,Rengasdengklok,9000,1 - 2
+Kab. Karawang,Talagasari,9000,1 - 2
+Kab. Karawang,Telukjambe Barat,9000,1 - 2
+Kab. Karawang,Tempuran,12000,2 - 3
+Kab. Karawang,Tirtamulya,9000,2 - 3
+Kab. Karawang,Tegalwaru,12000,2 - 3
+Kab. Karawang,Banyusari,12000,2 - 3
+Kab. Karawang,Ciampel,9000,2 - 3
+Kab. Karawang,Cilamaya Wetan,12000,2 - 3
+Kab. Karawang,Cilebar,12000,2 - 3
+Kab. Karawang,Jayakerta,12000,2 - 3
+Kab. Karawang,Karawang Barat,9000,2 - 3
+Kab. Karawang,Karawang Timur,9000,2 - 3
+Kab. Karawang,Kotabaru,9000,2 - 3
+Kab. Karawang,Kutawaluya,12000,2 - 3
+Kab. Karawang,Majalaya,9000,2 - 3
+Kab. Karawang,Purwasari,9000,2 - 3
+Kab. Karawang,Telukjambe Timur,9000,2 - 3
+Kab. Karawang,Tirtajaya,12000,2 - 3
+Kota Manado,Manado,42000,2 - 3
+Kota Manado,Bunaken,42000,2 - 3
+Kota Manado,Malalayang,42000,2 - 3
+Kota Manado,Mapanget,42000,2 - 3
+Kota Manado,Sario,42000,2 - 3
+Kota Manado,Singkil,42000,2 - 3
+Kota Manado,Tikala,42000,2 - 3
+Kota Manado,Tuminting,42000,2 - 3
+Kota Manado,Wanea,42000,2 - 3
+Kota Manado,Wenang,42000,2 - 3
+Kab. Bolaang Mongondow,Kotamobagu,58000,3 - 5
+Kab. Bolaang Mongondow,Bintauna,73000,5 - 7
+Kab. Bolaang Mongondow,Bolaang,73000,5 - 7
+Kab. Bolaang Mongondow,BOLAANG ITANG,73000,5 - 7
+Kab. Bolaang Mongondow,BOLAANG UKI,73000,5 - 7
+Kab. Bolaang Mongondow,Kaidipang,73000,5 - 7
+Kab. Bolaang Mongondow,Kotabunan,73000,5 - 7
+Kab. Bolaang Mongondow,Lolayan,73000,5 - 7
+Kab. Bolaang Mongondow,Lolak,73000,5 - 7
+Kab. Bolaang Mongondow,Modayag,73000,5 - 7
+Kab. Bolaang Mongondow,Passi,73000,5 - 7
+Kab. Bolaang Mongondow,Pinolosian,73000,5 - 7
+Kab. Bolaang Mongondow,Poigar,73000,5 - 7
+Kab. Bolaang Mongondow,Sangtombolang,73000,5 - 7
+Kab. Bolaang Mongondow,Dumoga Barat,73000,5 - 7
+Kab. Bolaang Mongondow,Dumoga Timur,73000,5 - 7
+Kab. Bolaang Mongondow,Dumoga Utara,73000,5 - 7
+Kab. Bolaang Mongondow,Nuangan,73000,5 - 7
+Kab. Bolaang Mongondow,Pinogaluman,73000,5 - 7
+Kab. Bolaang Mongondow,Posigadan,73000,5 - 7
+Kab. Kepulauan Sangihe,Tahuna,58000,3 - 5
+Kab. Kepulauan Sangihe,Kendahe,73000,5 - 7
+Kab. Kepulauan Sangihe,Manganitu,73000,5 - 7
+Kab. Kepulauan Sangihe,Siau Timur,73000,5 - 7
+Kab. Kepulauan Sangihe,Siau Barat,73000,5 - 7
+Kab. Kepulauan Sangihe,Tabukan Utara,73000,5 - 7
+Kab. Kepulauan Sangihe,Tabukan Selatan,73000,5 - 7
+Kab. Kepulauan Sangihe,Tabukan Tengah,73000,5 - 7
+Kab. Kepulauan Sangihe,Tagulandang,73000,5 - 7
+Kab. Kepulauan Sangihe,Tamako,73000,5 - 7
+Kab. Kepulauan Sangihe,Biaro,73000,5 - 7
+Kab. Kepulauan Sangihe,Manganitu Selatan,73000,5 - 7
+Kab. Kepulauan Sangihe,Nusa Tabukan,73000,5 - 7
+Kab. Kepulauan Sangihe,Siau Barat Selatan,73000,5 - 7
+Kab. Kepulauan Sangihe,Siau Timur Selatan,73000,5 - 7
+Kab. Kepulauan Sangihe,Tagulandang Utara,73000,5 - 7
+Kab. Kepulauan Sangihe,Tatoareng,73000,5 - 7
+Kab. Minahasa,Tondano,58000,3 - 5
+Kab. Minahasa,Eris,73000,5 - 7
+Kab. Minahasa,Kakas,73000,5 - 7
+Kab. Minahasa,Kawangkoan,73000,5 - 7
+Kab. Minahasa,Kombi,73000,5 - 7
+Kab. Minahasa,Remboken,73000,5 - 7
+Kab. Minahasa,Sonder,73000,5 - 7
+Kab. Minahasa,Tompaso,73000,5 - 7
+Kab. Minahasa,Langowan Barat,73000,5 - 7
+Kab. Minahasa,Langowan Selatan,73000,5 - 7
+Kab. Minahasa,Langowan Timur,73000,5 - 7
+Kab. Minahasa,Lembean Timur,73000,5 - 7
+Kab. Minahasa,Pineleng,73000,5 - 7
+Kab. Minahasa,Tombariri,73000,5 - 7
+Kab. Minahasa,Tombulu,73000,5 - 7
+Kab. Minahasa,Tondano Barat,73000,5 - 7
+Kab. Minahasa,Tondano Selatan,73000,5 - 7
+Kab. Minahasa,Tondano Timur,73000,5 - 7
+Kab. Minahasa,Tondano Utara,73000,5 - 7
+Kota Bitung,Bitung,58000,3 - 5
+Kota Bitung,Bitung Barat,58000,3 - 5
+Kota Bitung,Bitung Selatan,58000,3 - 5
+Kota Bitung,Bitung Tengah,58000,3 - 5
+Kota Bitung,Bitung Timur,58000,3 - 5
+Kota Bitung,Bitung Utara,58000,3 - 5
+Kab. Bolaang Mongondow Utara,Boroko,73000,5 - 7
+Kab. Bolaang Mongondow Utara,Bintauna,73000,5 - 7
+Kab. Bolaang Mongondow Utara,Bolaang Itang Barat,73000,5 - 7
+Kab. Bolaang Mongondow Utara,Bolaang Itang Timur,73000,5 - 7
+Kab. Bolaang Mongondow Utara,Kaidipang,73000,5 - 7
+Kab. Bolaang Mongondow Utara,Pinogaluman,73000,5 - 7
+Kab. Bolaang Mongondow Utara,Sangkub,73000,5 - 7
+Kab. Kepulauan Talaud,Melonguane,73000,5 - 7
+Kab. Kepulauan Talaud,Beo,73000,5 - 7
+Kab. Kepulauan Talaud,Essang,73000,5 - 7
+Kab. Kepulauan Talaud,Gemeh,73000,5 - 7
+Kab. Kepulauan Talaud,Kabaruan,73000,5 - 7
+Kab. Kepulauan Talaud,Lirung,73000,5 - 7
+Kab. Kepulauan Talaud,Nanusa,73000,5 - 7
+Kab. Kepulauan Talaud,Rainis,73000,5 - 7
+Kab. Minahasa Utara,Airmadidi,73000,5 - 7
+Kab. Minahasa Utara,Dimembe,73000,5 - 7
+Kab. Minahasa Utara,Kalawat,73000,5 - 7
+Kab. Minahasa Utara,Kauditan,73000,5 - 7
+Kab. Minahasa Utara,Kema,73000,5 - 7
+Kab. Minahasa Utara,Likupang Barat,73000,5 - 7
+Kab. Minahasa Utara,Likupang Timur,73000,5 - 7
+Kab. Minahasa Utara,Wori,73000,5 - 7
+Kab. Minahasa Selatan,Amurang,73000,5 - 7
+Kab. Minahasa Selatan,Modoinding,73000,5 - 7
+Kab. Minahasa Selatan,Motoling,73000,5 - 7
+Kab. Minahasa Selatan,Ranoyapo,73000,5 - 7
+Kab. Minahasa Selatan,Sinon Sayang,73000,5 - 7
+Kab. Minahasa Selatan,Tareran,73000,5 - 7
+Kab. Minahasa Selatan,Tenga,73000,5 - 7
+Kab. Minahasa Selatan,Tombasian,73000,5 - 7
+Kab. Minahasa Selatan,Tompaso Baru,73000,5 - 7
+Kab. Minahasa Selatan,Tumpaan,73000,5 - 7
+Kab. Minahasa Tenggara,Ratahan,58000,3 - 5
+Kab. Minahasa Tenggara,Belang,73000,5 - 7
+Kab. Minahasa Tenggara,Tombatu,73000,5 - 7
+Kab. Minahasa Tenggara,Touluaan,73000,5 - 7
+Kab. Minahasa Tenggara,Ratatotok,73000,5 - 7
+Kab. Minahasa Tenggara,Pusomaen,73000,5 - 7
+Kota Tomohon,Tomohon,58000,3 - 5
+Kota Tomohon,Tomohon Barat,58000,3 - 5
+Kota Tomohon,Tomohon Selatan,58000,3 - 5
+Kota Tomohon,Tomohon Tengah,58000,3 - 5
+Kota Tomohon,Tomohon Timur,58000,3 - 5
+Kota Tomohon,Tomohon Utara,58000,3 - 5
+Kota Madiun,Madiun,20000,1 - 2
+Kota Madiun,Kartoharjo,20000,1 - 2
+Kota Madiun,Manguharjo,20000,1 - 2
+Kota Madiun,Taman,20000,1 - 2
+Kab. Madiun,Caruban,24000,2 - 3
+Kab. Madiun,Balerejo,29000,3 - 6
+Kab. Madiun,Dagangan,29000,3 - 6
+Kab. Madiun,Dolopo,29000,3 - 6
+Kab. Madiun,Geger,29000,3 - 6
+Kab. Madiun,Gemarang,29000,3 - 6
+Kab. Madiun,Jiwan,29000,3 - 6
+Kab. Madiun,Kare,29000,3 - 6
+Kab. Madiun,Kebonsari,29000,3 - 6
+Kab. Madiun,Madiun,29000,3 - 6
+Kab. Madiun,Mejayan,29000,3 - 6
+Kab. Madiun,Pilangkenceng,29000,3 - 6
+Kab. Madiun,Saradan,29000,3 - 6
+Kab. Madiun,Sawahan,29000,3 - 6
+Kab. Madiun,Wonoasri,29000,3 - 6
+Kab. Madiun,Wungu,29000,3 - 6
+Kab. Magetan,Magetan,24000,2 - 3
+Kab. Magetan,Bendo,29000,3 - 6
+Kab. Magetan,Karangrejo,29000,3 - 6
+Kab. Magetan,Kawedanan,29000,3 - 6
+Kab. Magetan,Lembeyan,29000,3 - 6
+Kab. Magetan,Maospati,29000,3 - 6
+Kab. Magetan,Panekan,29000,3 - 6
+Kab. Magetan,Parang,29000,3 - 6
+Kab. Magetan,Plaosan,29000,3 - 6
+Kab. Magetan,Poncol,29000,3 - 6
+Kab. Magetan,Sukomoro,29000,3 - 6
+Kab. Magetan,Takeran,29000,3 - 6
+Kab. Magetan,Barat,29000,3 - 6
+Kab. Magetan,Karas,29000,3 - 6
+Kab. Magetan,Kartoharjo,29000,3 - 6
+Kab. Magetan,Ngariboyo,29000,3 - 6
+Kab. Magetan,Nguntoronadi,29000,3 - 6
+Kab. Ngawi,Ngawi,24000,2 - 3
+Kab. Ngawi,Bringin,29000,3 - 6
+Kab. Ngawi,Geneng,29000,3 - 6
+Kab. Ngawi,Jogorogo,29000,3 - 6
+Kab. Ngawi,Karangjati,29000,3 - 6
+Kab. Ngawi,Kedunggalar,29000,3 - 6
+Kab. Ngawi,Kendal,29000,3 - 6
+Kab. Ngawi,Kwadungan,29000,3 - 6
+Kab. Ngawi,Mantingan,29000,3 - 6
+Kab. Ngawi,Ngrambe,29000,3 - 6
+Kab. Ngawi,Padas,29000,3 - 6
+Kab. Ngawi,Pangkur,29000,3 - 6
+Kab. Ngawi,Paron,29000,3 - 6
+Kab. Ngawi,Pitu,29000,3 - 6
+Kab. Ngawi,Sine,29000,3 - 6
+Kab. Ngawi,Widodaren,29000,3 - 6
+Kab. Ngawi,Karanganyar,29000,3 - 6
+Kab. Ngawi,Kendungan,29000,3 - 6
+Kab. Pacitan,Pacitan,24000,2 - 3
+Kab. Pacitan,Arjosari,29000,3 - 6
+Kab. Pacitan,Bandar,29000,3 - 6
+Kab. Pacitan,Donorojo,29000,3 - 6
+Kab. Pacitan,Kebonagung,29000,3 - 6
+Kab. Pacitan,Nawangan,29000,3 - 6
+Kab. Pacitan,Ngadirojo,29000,3 - 6
+Kab. Pacitan,Pringkuku,29000,3 - 6
+Kab. Pacitan,Punung,29000,3 - 6
+Kab. Pacitan,Sudimoro,29000,3 - 6
+Kab. Pacitan,Tegalombo,29000,3 - 6
+Kab. Pacitan,Tulakan,29000,3 - 6
+Kab. Ponorogo,Ponorogo,24000,2 - 3
+Kab. Ponorogo,Babadan,29000,3 - 6
+Kab. Ponorogo,Badegan,29000,3 - 6
+Kab. Ponorogo,Balong,29000,3 - 6
+Kab. Ponorogo,Bungkal,29000,3 - 6
+Kab. Ponorogo,Jenangan,29000,3 - 6
+Kab. Ponorogo,Jetis,29000,3 - 6
+Kab. Ponorogo,Kauman,29000,3 - 6
+Kab. Ponorogo,Mlarak,29000,3 - 6
+Kab. Ponorogo,Ngebel,29000,3 - 6
+Kab. Ponorogo,Ngrayun,29000,3 - 6
+Kab. Ponorogo,Pulung,29000,3 - 6
+Kab. Ponorogo,Sambit,29000,3 - 6
+Kab. Ponorogo,Sampung,29000,3 - 6
+Kab. Ponorogo,Sawoo,29000,3 - 6
+Kab. Ponorogo,Siman,29000,3 - 6
+Kab. Ponorogo,Slahung,29000,3 - 6
+Kab. Ponorogo,Sooko,29000,3 - 6
+Kab. Ponorogo,Sukorejo,29000,3 - 6
+Kab. Ponorogo,Jambon,29000,3 - 6
+Kab. Ponorogo,Pudak,29000,3 - 6
+Kota Medan,Medan,27000,1 - 2
+Kota Medan,Medan Amplas,27000,1 - 2
+Kota Medan,Medan Area,27000,1 - 2
+Kota Medan,Medan Barat,27000,1 - 2
+Kota Medan,Medan Baru,27000,1 - 2
+Kota Medan,Medan Deli,27000,1 - 2
+Kota Medan,Medan Denai,27000,1 - 2
+Kota Medan,Medan Helvetia,27000,1 - 2
+Kota Medan,Medan Johor,27000,1 - 2
+Kota Medan,Medan Kota,27000,1 - 2
+Kota Medan,Medan Labuhan,27000,1 - 2
+Kota Medan,Medan Maimun,27000,1 - 2
+Kota Medan,Medan Marelan,27000,1 - 2
+Kota Medan,Medan Perjuangan,27000,1 - 2
+Kota Medan,Medan Petisah,27000,1 - 2
+Kota Medan,Medan Polonia,27000,1 - 2
+Kota Medan,Medan Selayang,27000,1 - 2
+Kota Medan,Medan Tembung,27000,1 - 2
+Kota Medan,Medan Timur,27000,1 - 2
+Kota Medan,Medan Tuntungan,27000,1 - 2
+Kota Medan,Medan Belawan,27000,1 - 2
+Kota Medan,Medan Sunggal,27000,1 - 2
+Kab. Asahan,Kisaran,38000,2 - 3
+Kab. Asahan,Air Joman,48000,3 - 6
+Kab. Asahan,Air Batu,48000,3 - 6
+Kab. Asahan,Bandar Pasir Mandoge,48000,3 - 6
+Kab. Asahan,Bandar Pulau,48000,3 - 6
+Kab. Asahan,Buntu Pane,48000,3 - 6
+Kab. Asahan,Meranti,48000,3 - 6
+Kab. Asahan,Pulau Rakyat,48000,3 - 6
+Kab. Asahan,Simpang Empat,48000,3 - 6
+Kab. Asahan,Tanjung Balai Asahan,38000,2 - 3
+Kab. Asahan,Aek Kuasan,48000,3 - 6
+Kab. Asahan,Sei Kepayang,48000,3 - 6
+Kab. Asahan,Kisaran Barat,48000,3 - 6
+Kab. Asahan,Kisaran Timur,48000,3 - 6
+Kab. Tapanuli Tengah,Sibolga,38000,2 - 3
+Kab. Tapanuli Tengah,Barus,48000,3 - 6
+Kab. Tapanuli Tengah,Kolang,48000,3 - 6
+Kab. Tapanuli Tengah,Manduamas,48000,3 - 6
+Kab. Tapanuli Tengah,Sorkam,48000,3 - 6
+Kab. Tapanuli Tengah,Adman Dewi,48000,3 - 6
+Kab. Tapanuli Tengah,Badiri,48000,3 - 6
+Kab. Tapanuli Tengah,Lumut,48000,3 - 6
+Kab. Tapanuli Tengah,Sibabangun,48000,3 - 6
+Kab. Tapanuli Tengah,Sirandorung,48000,3 - 6
+Kab. Tapanuli Tengah,Sitahuis,48000,3 - 6
+Kab. Tapanuli Tengah,Sorkam Barat,48000,3 - 6
+Kab. Tapanuli Tengah,Sosor Gadong,48000,3 - 6
+Kab. Tapanuli Tengah,Tapian Nauli,48000,3 - 6
+Kab. Tapanuli Tengah,Tukka,48000,3 - 6
+Kota Sibolga,Sibolga Sambas,38000,2 - 3
+Kota Sibolga,Sibolga Selatan,38000,2 - 3
+Kota Sibolga,Sibolga Utara,38000,2 - 3
+Kota Sibolga,Sibolga Kota,38000,2 - 3
+Kab. Dairi,Sidikalang,38000,2 - 3
+Kab. Dairi,Parbuluan,48000,3 - 6
+Kab. Dairi,Siempat Nempu,48000,3 - 6
+Kab. Dairi,Siempat Nempu Hilir,48000,3 - 6
+Kab. Dairi,Silima Pungga-Pungga,48000,3 - 6
+Kab. Dairi,Sumbul,48000,3 - 6
+Kab. Dairi,Tanah Pinem,48000,3 - 6
+Kab. Dairi,Tiga Lingga,48000,3 - 6
+Kab. Dairi,Pegagan Hilir,48000,3 - 6
+Kab. Dairi,Siempat Nempu Hulu,48000,3 - 6
+Kab. Dairi,Berampu,48000,3 - 6
+Kab. Dairi,Gunung Sitember,48000,3 - 6
+Kab. Dairi,Lae Parira,48000,3 - 6
+Kab. Deli Serdang,Lubuk Pakam,38000,2 - 3
+Kab. Deli Serdang,Deli Tua,48000,3 - 6
+Kab. Deli Serdang,Hamparan Perak,48000,3 - 6
+Kab. Deli Serdang,Kutalimbaru,48000,3 - 6
+Kab. Deli Serdang,Labuhan Deli,48000,3 - 6
+Kab. Deli Serdang,Batang Kuis,48000,3 - 6
+Kab. Deli Serdang,Pancur Batu,48000,3 - 6
+Kab. Deli Serdang,Percut Sei Tuan,48000,3 - 6
+Kab. Deli Serdang,Petumbak,48000,3 - 6
+Kab. Deli Serdang,Sibolangit,48000,3 - 6
+Kab. Deli Serdang,Biru-Biru,48000,3 - 6
+Kab. Deli Serdang,Sinembah Tanjungmuda Hilir,48000,3 - 6
+Kab. Deli Serdang,Sunggal,48000,3 - 6
+Kab. Deli Serdang,Tanjung Morawa,38000,2 - 3
+Kab. Deli Serdang,Pantai Labu,48000,3 - 6
+Kab. Deli Serdang,Bangun Purba,48000,3 - 6
+Kab. Deli Serdang,Beringin,48000,3 - 6
+Kab. Deli Serdang,Galang,48000,3 - 6
+Kab. Deli Serdang,Gunung Meriah,48000,3 - 6
+Kab. Deli Serdang,Namo Rambe,48000,3 - 6
+Kab. Deli Serdang,Pagar Marbau,48000,3 - 6
+Kab. Deli Serdang,Sinembah Tanjungmuda Hulu,48000,3 - 6
+Kab. Toba Samosir,Balige,38000,2 - 3
+Kab. Toba Samosir,Habinsaran,48000,3 - 6
+Kab. Toba Samosir,Lagu Boti,48000,3 - 6
+Kab. Toba Samosir,Lumban Julu,48000,3 - 6
+Kab. Toba Samosir,Porsea,48000,3 - 6
+Kab. Toba Samosir,Silaen,48000,3 - 6
+Kab. Toba Samosir,Ajibata,48000,3 - 6
+Kab. Toba Samosir,Bor Bor,48000,3 - 6
+Kab. Toba Samosir,Nassau,48000,3 - 6
+Kab. Toba Samosir,Pintu Pohan Meranti,48000,3 - 6
+Kab. Toba Samosir,Siantar Narumonda,48000,3 - 6
+Kab. Toba Samosir,Sigumpar,48000,3 - 6
+Kab. Toba Samosir,Tampahan,48000,3 - 6
+Kab. Toba Samosir,Uluan,48000,3 - 6
+Kota Binjai,Binjai Kota,38000,2 - 3
+Kota Binjai,Binjai,38000,2 - 3
+Kota Binjai,Binjai Barat,38000,2 - 3
+Kota Binjai,Binjai Selatan,38000,2 - 3
+Kota Binjai,Binjai Timur,38000,2 - 3
+Kota Binjai,Binjai Utara,38000,2 - 3
+Kab. Nias,Gunung Sitoli,38000,2 - 3
+Kab. Nias,Afulu,48000,3 - 6
+Kab. Nias,Alasa,72000,+ 10
+Kab. Nias,Bawolato,72000,+ 10
+Kab. Nias,Gido,72000,+ 10
+Kab. Nias,Hiliduho,72000,+ 10
+Kab. Nias,Idano Gawo,72000,+ 10
+Kab. Nias,Lahewa,72000,+ 10
+Kab. Nias,Lotu,72000,+ 10
+Kab. Nias,Mandrehe,72000,+ 10
+Kab. Nias,Sirombo,72000,+ 10
+Kab. Nias,Tuhemberua,72000,+ 10
+Kab. Nias,Lolofitu Moi,72000,+ 10
+Kota Padang Sidempuan,Padang Sidempuan,38000,2 - 3
+Kota Padang Sidempuan,Padang Sidempuan Batu Nadua,38000,2 - 3
+Kota Padang Sidempuan,Padang Sidempuan Hutaimbaru,38000,2 - 3
+Kota Padang Sidempuan,Padang Sidempuan Selatan,38000,2 - 3
+Kota Padang Sidempuan,Padang Sidempuan Tenggara,38000,2 - 3
+Kota Padang Sidempuan,Padang Sidempuan Utara,38000,2 - 3
+Kab. Simalungun,Pematang Raya,38000,2 - 3
+Kab. Simalungun,Bandar,48000,3 - 6
+Kab. Simalungun,Bosar Maligas,48000,3 - 6
+Kab. Simalungun,Dolok Silau,48000,3 - 6
+Kab. Simalungun,Dolok Pardamean,48000,3 - 6
+Kab. Simalungun,Dolok Panribuan,48000,3 - 6
+Kab. Simalungun,Dolok Batunanggar,48000,3 - 6
+Kab. Simalungun,Girsang Sipangan Bolon,48000,3 - 6
+Kab. Simalungun,Hutabayu Raja,48000,3 - 6
+Kab. Simalungun,Jorlang Hataran,48000,3 - 6
+Kab. Simalungun,Panei,48000,3 - 6
+Kab. Simalungun,Pematang Bandar,48000,3 - 6
+Kab. Simalungun,Purba,48000,3 - 6
+Kab. Simalungun,Raya,48000,3 - 6
+Kab. Simalungun,Raya Kahean,48000,3 - 6
+Kab. Simalungun,Siantar,48000,3 - 6
+Kab. Simalungun,Sidamanik,48000,3 - 6
+Kab. Simalungun,Silau Kahean,48000,3 - 6
+Kab. Simalungun,Silimakuta,48000,3 - 6
+Kab. Simalungun,Tanah Jawa,48000,3 - 6
+Kab. Simalungun,Tapian Dolok,48000,3 - 6
+Kab. Simalungun,Ujung Padang,48000,3 - 6
+Kab. Simalungun,Bandar Huluan,48000,3 - 6
+Kab. Simalungun,Bandar Masilam,48000,3 - 6
+Kab. Simalungun,Gunung Malela,48000,3 - 6
+Kab. Simalungun,Gunung Maligas,48000,3 - 6
+Kab. Simalungun,Haranggaol Horisanz,48000,3 - 6
+Kab. Simalungun,Hatonduhan,48000,3 - 6
+Kab. Simalungun,Jawa Maraja Bah Jambi,48000,3 - 6
+Kab. Simalungun,Panombeian Pane,48000,3 - 6
+Kab. Simalungun,Pematang Sidamanik,48000,3 - 6
+Kab. Labuhan Batu,Rantau Prapat,38000,2 - 3
+Kab. Labuhan Batu,Aek Natas,48000,3 - 6
+Kab. Labuhan Batu,Bilah Hilir,48000,3 - 6
+Kab. Labuhan Batu,Kampung Rakyat,48000,3 - 6
+Kab. Labuhan Batu,Kota Pinang,48000,3 - 6
+Kab. Labuhan Batu,Kualuh Hulu,48000,3 - 6
+Kab. Labuhan Batu,Kualuh Hilir,48000,3 - 6
+Kab. Labuhan Batu,Marbau,48000,3 - 6
+Kab. Labuhan Batu,Na IX-X,48000,3 - 6
+Kab. Labuhan Batu,Panai Hilir,72000,+ 10
+Kab. Labuhan Batu,Panai Tengah,72000,+ 10
+Kab. Labuhan Batu,Aek Kuo,48000,3 - 6
+Kab. Labuhan Batu,Bilah Barat,48000,3 - 6
+Kab. Labuhan Batu,Bilah Hulu,48000,3 - 6
+Kab. Labuhan Batu,Kualuh Leidong,48000,3 - 6
+Kab. Labuhan Batu,Kualuh Selatan,48000,3 - 6
+Kab. Labuhan Batu,Panai Hulu,72000,+ 10
+Kab. Labuhan Batu,Pangkatan,48000,3 - 6
+Kab. Labuhan Batu,Rantau Selatan,48000,3 - 6
+Kab. Labuhan Batu,Rantau Utara,48000,3 - 6
+Kab. Labuhan Batu,Silangkitang,48000,3 - 6
+Kab. Labuhan Batu,Sungai Kanan,48000,3 - 6
+Kab. Labuhan Batu,Torgamba,48000,3 - 6
+Kab. Karo,Kabanjahe,38000,2 - 3
+Kab. Karo,Barusjahe,48000,3 - 6
+Kab. Karo,Berastagi,48000,3 - 6
+Kab. Karo,Juhar,48000,3 - 6
+Kab. Karo,Kuta Buluh,48000,3 - 6
+Kab. Karo,Laubaleng,48000,3 - 6
+Kab. Karo,Mardinding,48000,3 - 6
+Kab. Karo,Merek,48000,3 - 6
+Kab. Karo,Munte,48000,3 - 6
+Kab. Karo,Payung,48000,3 - 6
+Kab. Karo,Simpang Empat,48000,3 - 6
+Kab. Karo,Tiga Binanga,48000,3 - 6
+Kab. Karo,Tiga Panah,48000,3 - 6
+Kab. Langkat,Stabat,38000,2 - 3
+Kab. Langkat,Babalan,38000,2 - 3
+Kab. Langkat,Besitang,48000,3 - 6
+Kab. Langkat,Gebang,48000,3 - 6
+Kab. Langkat,Hinai,48000,3 - 6
+Kab. Langkat,Padang Tualang,48000,3 - 6
+Kab. Langkat,Pangkalan Susu,48000,3 - 6
+Kab. Langkat,Secanggang,48000,3 - 6
+Kab. Langkat,Tanjung Pura,48000,3 - 6
+Kab. Langkat,Batang Serangan,48000,3 - 6
+Kab. Langkat,Brandan Barat,48000,3 - 6
+Kab. Langkat,Salapian,48000,3 - 6
+Kab. Langkat,Sawit Seberang,48000,3 - 6
+Kab. Langkat,Sei Lepan,48000,3 - 6
+Kab. Langkat,Wampu,48000,3 - 6
+Kab. Langkat,Binjai,38000,2 - 3
+Kab. Langkat,Bohorok,48000,3 - 6
+Kab. Langkat,Kuala,48000,3 - 6
+Kab. Langkat,Sei Bingai,48000,3 - 6
+Kab. Langkat,Selesai,48000,3 - 6
+Kab. Tapanuli Utara,Tarutung,38000,2 - 3
+Kab. Tapanuli Utara,Adiankoting,48000,3 - 6
+Kab. Tapanuli Utara,Garoga,48000,3 - 6
+Kab. Tapanuli Utara,Pagaran,48000,3 - 6
+Kab. Tapanuli Utara,Pahae Julu,48000,3 - 6
+Kab. Tapanuli Utara,Pahae Jae,48000,3 - 6
+Kab. Tapanuli Utara,Pangaribuan,48000,3 - 6
+Kab. Tapanuli Utara,Parmonangan,48000,3 - 6
+Kab. Tapanuli Utara,Siborong-Borong,38000,2 - 3
+Kab. Tapanuli Utara,Sipoholon,48000,3 - 6
+Kab. Tapanuli Utara,Sipahutar,48000,3 - 6
+Kab. Tapanuli Utara,Muara,48000,3 - 6
+Kab. Tapanuli Utara,Purbatua,48000,3 - 6
+Kab. Tapanuli Utara,Siatas Barita,48000,3 - 6
+Kab. Tapanuli Utara,Simangumban,48000,3 - 6
+Kota Tebing Tinggi,Tebing Tinggi,38000,2 - 3
+Kab. Tebing Tinggi,Padang Hilir,48000,3 - 6
+Kab. Tebing Tinggi,Padang Hulu,48000,3 - 6
+Kab. Tebing Tinggi,Rambutan,48000,3 - 6
+Kab. Padang Lawas Utara,Gunung Tua,38000,2 - 3
+Kab. Padang Lawas Utara,Batang Onang,48000,3 - 6
+Kab. Padang Lawas Utara,Dolok,48000,3 - 6
+Kab. Padang Lawas Utara,Dolok Sigompulon,48000,3 - 6
+Kab. Padang Lawas Utara,Halongonan,48000,3 - 6
+Kab. Padang Lawas Utara,Padang Bolak,48000,3 - 6
+Kab. Padang Lawas Utara,Padang Bolak Julu,48000,3 - 6
+Kab. Padang Lawas Utara,Poribi,48000,3 - 6
+Kab. Padang Lawas Utara,Simangambat,48000,3 - 6
+Kab. Batubara,Limapuluh,38000,2 - 3
+Kab. Batubara,Medang Deras,48000,3 - 6
+Kab. Batubara,Air Putih,48000,3 - 6
+Kab. Batubara,Talawi,48000,3 - 6
+Kab. Batubara,Tanjung Tiram,48000,3 - 6
+Kab. Batubara,Sei Balai,48000,3 - 6
+Kab. Batubara,Sei Suka,48000,3 - 6
+Kab. Humbang Hasudutan,Dolok Sanggul,38000,2 - 3
+Kab. Humbang Hasudutan,Baktiraja,48000,3 - 6
+Kab. Humbang Hasudutan,Lintong Nihuta,48000,3 - 6
+Kab. Humbang Hasudutan,Onan Ganjang,48000,3 - 6
+Kab. Humbang Hasudutan,Pakkat,48000,3 - 6
+Kab. Humbang Hasudutan,Paranginan,48000,3 - 6
+Kab. Humbang Hasudutan,Parlilitan,48000,3 - 6
+Kab. Humbang Hasudutan,Pollung,48000,3 - 6
+Kab. Humbang Hasudutan,Sijama Polang,48000,3 - 6
+Kab. Humbang Hasudutan,Tarabintang,48000,3 - 6
+Kab. Mandailing Natal,Panyabungan,38000,2 - 3
+Kab. Mandailing Natal,Batahan,48000,3 - 6
+Kab. Mandailing Natal,Batang Natal,48000,3 - 6
+Kab. Mandailing Natal,Bukit Malintang,48000,3 - 6
+Kab. Mandailing Natal,Kotanopan,48000,3 - 6
+Kab. Mandailing Natal,Lembah Sorik Merapi,48000,3 - 6
+Kab. Mandailing Natal,Lingga Bayu,48000,3 - 6
+Kab. Mandailing Natal,Muara Batang Gadis,48000,3 - 6
+Kab. Mandailing Natal,Muara Sipongi,48000,3 - 6
+Kab. Mandailing Natal,Natal,48000,3 - 6
+Kab. Mandailing Natal,Panyabungan Barat,48000,3 - 6
+Kab. Mandailing Natal,Panyabungan Kota,48000,3 - 6
+Kab. Mandailing Natal,Panyabungan Selatan,48000,3 - 6
+Kab. Mandailing Natal,Panyabungan Timur,48000,3 - 6
+Kab. Mandailing Natal,Panyabungan Utara,48000,3 - 6
+Kab. Mandailing Natal,Siabu,48000,3 - 6
+Kab. Mandailing Natal,Tambangan,48000,3 - 6
+Kab. Mandailing Natal,Ulu Pungkut,48000,3 - 6
+Kab. Nias Selatan,Teluk Dalam,38000,2 - 3
+Kab. Nias Selatan,Amandraya,72000,+ 10
+Kab. Nias Selatan,Gomo,72000,+ 10
+Kab. Nias Selatan,Hibala,72000,+ 10
+Kab. Nias Selatan,Lahusa,72000,+ 10
+Kab. Nias Selatan,Lolo Wa'u,72000,+ 10
+Kab. Nias Selatan,Lolomatua,72000,+ 10
+Kab. Nias Selatan,Pulau-Pulau Batu,72000,+ 10
+Kab. Padang Lawas,Sibuhuan,38000,2 - 3
+Kab. Padang Lawas,Barumun,48000,3 - 6
+Kab. Padang Lawas,Barumun Tengah,48000,3 - 6
+Kab. Padang Lawas,Batang Bulu Sutam,48000,3 - 6
+Kab. Padang Lawas,Huristak,48000,3 - 6
+Kab. Padang Lawas,Huta Raja Tinggi,48000,3 - 6
+Kab. Padang Lawas,Lubuk Barumun,48000,3 - 6
+Kab. Padang Lawas,Sosa,48000,3 - 6
+Kab. Padang Lawas,Sosopan,48000,3 - 6
+Kab. Padang Lawas,Ulu Barumun,48000,3 - 6
+Kab. Pakpak Barat,Salak,38000,2 - 3
+Kab. Pakpak Barat,Kerajaan,48000,3 - 6
+Kab. Pakpak Barat,Sitellu Tai Urang Jehe,48000,3 - 6
+Kab. Pakpak Barat,Sitellu Tai Urang Julu,48000,3 - 6
+Kab. Pakpak Barat,Pergetteng-getteng Sengkut,48000,3 - 6
+Kab. Pakpak Barat,Pagindar,48000,3 - 6
+Kab. Pakpak Barat,Siempat Rube,48000,3 - 6
+Kab. Pakpak Barat,Tinada,48000,3 - 6
+Kab. Samosir,Pangururan,38000,2 - 3
+Kab. Samosir,Harian,48000,3 - 6
+Kab. Samosir,Nainggolan,48000,3 - 6
+Kab. Samosir,Onan Runggu,48000,3 - 6
+Kab. Samosir,Palipi,48000,3 - 6
+Kab. Samosir,Ronggur Nihuta,48000,3 - 6
+Kab. Samosir,Sianjur Mula Mula,48000,3 - 6
+Kab. Samosir,Simanindo,48000,3 - 6
+Kab. Samosir,Sitiotio,48000,3 - 6
+Kab. Serdang Bedagai,Sei Rampah,38000,2 - 3
+Kab. Serdang Bedagai,Bandar Khalipah,48000,3 - 6
+Kab. Serdang Bedagai,Dolok Masihul,48000,3 - 6
+Kab. Serdang Bedagai,Dolok Merawan,48000,3 - 6
+Kab. Serdang Bedagai,Kotarih,48000,3 - 6
+Kab. Serdang Bedagai,Pantai Cermin,48000,3 - 6
+Kab. Serdang Bedagai,Perbaungan,48000,3 - 6
+Kab. Serdang Bedagai,Sipispis,48000,3 - 6
+Kab. Serdang Bedagai,Tanjung Beringin,48000,3 - 6
+Kab. Serdang Bedagai,Tebingtinggi,48000,3 - 6
+Kab. Serdang Bedagai,Teluk Mengkudu,48000,3 - 6
+Kab. Tapanuli Selatan,Sipirok,38000,2 - 3
+Kab. Tapanuli Selatan,Aek Bilah,48000,3 - 6
+Kab. Tapanuli Selatan,Arse,48000,3 - 6
+Kab. Tapanuli Selatan,Barumun,48000,3 - 6
+Kab. Tapanuli Selatan,Barumun Tengah,48000,3 - 6
+Kab. Tapanuli Selatan,Batang Angkola,48000,3 - 6
+Kab. Tapanuli Selatan,Batang Lubu Sutam,48000,3 - 6
+Kab. Tapanuli Selatan,Batang Onang,48000,3 - 6
+Kab. Tapanuli Selatan,Batang Toru,48000,3 - 6
+Kab. Tapanuli Selatan,Dolok,48000,3 - 6
+Kab. Tapanuli Selatan,Dolok Sigompulon,48000,3 - 6
+Kab. Tapanuli Selatan,Halongonan,48000,3 - 6
+Kab. Tapanuli Selatan,Huristak,48000,3 - 6
+Kab. Tapanuli Selatan,Huta Raja Tinggi,48000,3 - 6
+Kab. Tapanuli Selatan,Lubuk Barumun,48000,3 - 6
+Kab. Tapanuli Selatan,Marancar,48000,3 - 6
+Kab. Tapanuli Selatan,Padang Bolak,48000,3 - 6
+Kab. Tapanuli Selatan,Padang Bolak Julu,48000,3 - 6
+Kab. Tapanuli Selatan,Padang Sidempuan Barat,48000,3 - 6
+Kab. Tapanuli Selatan,Padang Sidempuan Timur,48000,3 - 6
+Kab. Tapanuli Selatan,Portibi,48000,3 - 6
+Kab. Tapanuli Selatan,Saipar Dolok Hole,48000,3 - 6
+Kab. Tapanuli Selatan,Sayur Matinggi,48000,3 - 6
+Kab. Tapanuli Selatan,Siais,48000,3 - 6
+Kab. Tapanuli Selatan,Simangambat,48000,3 - 6
+Kab. Tapanuli Selatan,Sosa,48000,3 - 6
+Kab. Tapanuli Selatan,Sosopan,48000,3 - 6
+Kab. Tapanuli Selatan,Ulu Barumun,48000,3 - 6
+Kota Tanjung Balai,Tanjung Balai,38000,2 - 3
+Kota Tanjung Balai,Datuk Bandar,38000,2 - 3
+Kota Tanjung Balai,Sei Tualang Raso,38000,2 - 3
+Kota Tanjung Balai,Tanjung Balai Selatan,38000,2 - 3
+Kota Tanjung Balai,Tanjung Balai Utara,38000,2 - 3
+Kota Tanjung Balai,Teluk Nibung,38000,2 - 3
+Kota Pematangsiantar,Pematang Siantar,38000,2 - 3
+Kota Pematangsiantar,Siantar Barat,38000,2 - 3
+Kota Pematangsiantar,Siantar Marihat,38000,2 - 3
+Kota Pematangsiantar,Siantar Martoba,38000,2 - 3
+Kota Pematangsiantar,Siantar Selatan,38000,2 - 3
+Kota Pematangsiantar,Siantar Timur,38000,2 - 3
+Kota Pematangsiantar,Siantar Utara,38000,2 - 3
+Kota Magelang,Magelang,18000,1 - 2
+Kota Magelang,Magelang Selatan,18000,1 - 2
+Kota Magelang,Magelang Tengah,18000,1 - 2
+Kota Magelang,Magelang Utara,18000,1 - 2
+Kab. Kebumen,Kebumen,22000,2 - 3
+Kab. Kebumen,Adimulyo,23000,3 - 6
+Kab. Kebumen,Aliyan,23000,3 - 6
+Kab. Kebumen,Ambal,23000,3 - 6
+Kab. Kebumen,Bulupesantren,23000,3 - 6
+Kab. Kebumen,Karanganyar,23000,3 - 6
+Kab. Kebumen,Karanggayam,23000,3 - 6
+Kab. Kebumen,Klirong,23000,3 - 6
+Kab. Kebumen,Kutowinangun,23000,3 - 6
+Kab. Kebumen,Kuwarasan,23000,3 - 6
+Kab. Kebumen,Mirit,23000,3 - 6
+Kab. Kebumen,Pejagoan,23000,3 - 6
+Kab. Kebumen,Petanahan,23000,3 - 6
+Kab. Kebumen,Prembun,23000,3 - 6
+Kab. Kebumen,Puring,23000,3 - 6
+Kab. Kebumen,Sadang,23000,3 - 6
+Kab. Kebumen,Sruweng,23000,3 - 6
+Kab. Kebumen,Gombong,23000,3 - 6
+Kab. Kebumen,Ayah,23000,3 - 6
+Kab. Kebumen,Buayan,23000,3 - 6
+Kab. Kebumen,Rowokele,23000,3 - 6
+Kab. Kebumen,Bonorowo,23000,3 - 6
+Kab. Kebumen,Karangsambung,23000,3 - 6
+Kab. Kebumen,Padureso,23000,3 - 6
+Kab. Kebumen,Poncowarno,23000,3 - 6
+Kab. Kebumen,Sempor,23000,3 - 6
+Kab. Wonosobo,Wonosobo,22000,2 - 3
+Kab. Wonosobo,Garung,23000,3 - 6
+Kab. Wonosobo,Kalikajar,23000,3 - 6
+Kab. Wonosobo,Kaliwiro,23000,3 - 6
+Kab. Wonosobo,Kejajar,23000,3 - 6
+Kab. Wonosobo,Kepil,23000,3 - 6
+Kab. Wonosobo,Kertek,23000,3 - 6
+Kab. Wonosobo,Leksono,23000,3 - 6
+Kab. Wonosobo,Mojotengah,23000,3 - 6
+Kab. Wonosobo,Sapuran,23000,3 - 6
+Kab. Wonosobo,Selomerto,23000,3 - 6
+Kab. Wonosobo,Wadaslintang,23000,3 - 6
+Kab. Wonosobo,Watumalang,23000,3 - 6
+Kab. Wonosobo,Kalibawang,23000,3 - 6
+Kab. Wonosobo,Sukoharjo,23000,3 - 6
+Kab. Purworejo,Purworejo,22000,2 - 3
+Kab. Purworejo,Bagelen,23000,3 - 6
+Kab. Purworejo,Banyuurip,23000,3 - 6
+Kab. Purworejo,Bener,23000,3 - 6
+Kab. Purworejo,Gebang,23000,3 - 6
+Kab. Purworejo,Kaligesing,23000,3 - 6
+Kab. Purworejo,Loano,23000,3 - 6
+Kab. Purworejo,Ngombol,23000,3 - 6
+Kab. Purworejo,Purwodadi,22000,2 - 3
+Kab. Purworejo,Kutoarjo,23000,3 - 6
+Kab. Purworejo,Kemiri,23000,3 - 6
+Kab. Purworejo,Pituruh,23000,3 - 6
+Kab. Purworejo,Butuh,23000,3 - 6
+Kab. Purworejo,Bruno,23000,3 - 6
+Kab. Purworejo,Grabag,23000,3 - 6
+Kab. Purworejo,Bayan,23000,3 - 6
+Kab. Temanggung,Temanggung,22000,2 - 3
+Kab. Temanggung,Bulu,23000,3 - 6
+Kab. Temanggung,Candiroto,23000,3 - 6
+Kab. Temanggung,Jumo,23000,3 - 6
+Kab. Temanggung,Kaloran,23000,3 - 6
+Kab. Temanggung,Kandangan,23000,3 - 6
+Kab. Temanggung,Kedu,23000,3 - 6
+Kab. Temanggung,Kranggan,23000,3 - 6
+Kab. Temanggung,Ngadirejo,23000,3 - 6
+Kab. Temanggung,Parakan,23000,3 - 6
+Kab. Temanggung,Pringsurat,23000,3 - 6
+Kab. Temanggung,Tembarak,23000,3 - 6
+Kab. Temanggung,Tretep,23000,3 - 6
+Kab. Temanggung,Bejen,23000,3 - 6
+Kab. Temanggung,Tlogomulyo,23000,3 - 6
+Kab. Temanggung,Kledung,23000,3 - 6
+Kab. Temanggung,Wonoboyo,23000,3 - 6
+Kab. Temanggung,Gemawang,23000,3 - 6
+Kab. Temanggung,Bansari,23000,3 - 6
+Kab. Temanggung,Selopampang,23000,3 - 6
+Kab. Magelang,Mungkid,22000,2 - 3
+Kab. Magelang,Salam,23000,3 - 6
+Kab. Magelang,Bandongan,23000,3 - 6
+Kab. Magelang,Candimulyo,23000,3 - 6
+Kab. Magelang,Grabag,23000,3 - 6
+Kab. Magelang,Kajoran,23000,3 - 6
+Kab. Magelang,Kaliangkrik,23000,3 - 6
+Kab. Magelang,MERTOYUDAN,23000,3 - 6
+Kab. Magelang,Ngablak,23000,3 - 6
+Kab. Magelang,Pakis,23000,3 - 6
+Kab. Magelang,Salaman,23000,3 - 6
+Kab. Magelang,Secang,23000,3 - 6
+Kab. Magelang,Tegalrejo,23000,3 - 6
+Kab. Magelang,Tempuran,23000,3 - 6
+Kab. Magelang,WINDUSARI,23000,3 - 6
+Kab. Magelang,Srumbung,23000,3 - 6
+Kab. Magelang,Dukun,23000,3 - 6
+Kab. Magelang,Sawangan,23000,3 - 6
+Kab. Magelang,Muntilan,23000,3 - 6
+Kab. Magelang,Ngluwar,23000,3 - 6
+Kab. Magelang,Borobudur,23000,3 - 6
+Kab. Mojokerto,Mojokerto,20000,1 - 2
+Kab. Mojokerto,Bangsal,20000,1 - 2
+Kab. Mojokerto,Dawarblandong,20000,1 - 2
+Kab. Mojokerto,Dlanggu,20000,1 - 2
+Kab. Mojokerto,Gedeg,20000,1 - 2
+Kab. Mojokerto,Gondang,20000,1 - 2
+Kab. Mojokerto,Jatirejo,20000,1 - 2
+Kab. Mojokerto,Jetis,20000,1 - 2
+Kab. Mojokerto,Kemlagi,20000,1 - 2
+Kab. Mojokerto,Kutorejo,20000,1 - 2
+Kab. Mojokerto,Mojosari,20000,1 - 2
+Kab. Mojokerto,Ngoro,20000,1 - 2
+Kab. Mojokerto,Pacet,20000,1 - 2
+Kab. Mojokerto,Pungging,20000,1 - 2
+Kab. Mojokerto,Puri,20000,1 - 2
+Kab. Mojokerto,Sooko,20000,1 - 2
+Kab. Mojokerto,Trawas,20000,1 - 2
+Kab. Mojokerto,Trowulan,20000,1 - 2
+Kab. Sidoarjo,Balongbendo,20000,1 - 2
+Kab. Mojokerto,Mojoanyar,20000,1 - 2
+Kota Mojokerto,Magersari,20000,1 - 2
+Kota Mojokerto,Parajurit Kulon,20000,1 - 2
+Kab. Sidoarjo,Tarik,20000,1 - 2
+Kab. Sidoarjo,Prambon,20000,1 - 2
+Kota Malang,Malang,20000,1 - 2
+Kota Malang,Blimbing,20000,1 - 2
+Kota Malang,Kedungkandang,20000,1 - 2
+Kota Malang,Klojen,20000,1 - 2
+Kota Malang,Lowokwaru,20000,1 - 2
+Kota Malang,Sukun,20000,1 - 2
+Kab. Blitar,Blitar,24000,2 - 3
+Kab. Blitar,Bakung,29000,3 - 6
+Kab. Blitar,Binangun,29000,3 - 6
+Kab. Blitar,Doko,29000,3 - 6
+Kab. Blitar,Gandusari,29000,3 - 6
+Kab. Blitar,Garum,29000,3 - 6
+Kab. Blitar,Kademangan,29000,3 - 6
+Kab. Blitar,Kanigoro,29000,3 - 6
+Kab. Blitar,Kesamben,29000,3 - 6
+Kab. Blitar,Nglegok,29000,3 - 6
+Kab. Blitar,Panggungrejo,29000,3 - 6
+Kab. Blitar,Ponggok,29000,3 - 6
+Kab. Blitar,Sanankulon,29000,3 - 6
+Kab. Blitar,Selorejo,29000,3 - 6
+Kab. Blitar,Srengat,29000,3 - 6
+Kab. Blitar,Sutojayan,29000,3 - 6
+Kab. Blitar,Talun,29000,3 - 6
+Kab. Blitar,Udanawu,29000,3 - 6
+Kab. Blitar,Wates,29000,3 - 6
+Kab. Blitar,Wlingi,24000,2 - 3
+Kab. Blitar,Wonodadi,29000,3 - 6
+Kab. Blitar,Wonotirto,29000,3 - 6
+Kab. Blitar,Selopuro,29000,3 - 6
+Kota Blitar,Kepanjenkidul,29000,3 - 6
+Kota Blitar,Sananwetan,29000,3 - 6
+Kota Blitar,Sukorejo,29000,3 - 6
+Kota Batu,Batu,24000,2 - 3
+Kota Batu,Bumiaji,29000,3 - 6
+Kota Batu,Junrejo,29000,3 - 6
+Kab. Malang,Kepanjen,24000,2 - 3
+Kab. Malang,Ampelgading,29000,3 - 6
+Kab. Malang,Bantur,29000,3 - 6
+Kab. Malang,Bululawang,29000,3 - 6
+Kab. Malang,Dampit,29000,3 - 6
+Kab. Malang,Dau,29000,3 - 6
+Kab. Malang,Donomulyo,29000,3 - 6
+Kab. Malang,Gedangan,29000,3 - 6
+Kab. Malang,Gondanglegi,29000,3 - 6
+Kab. Malang,Jabung,29000,3 - 6
+Kab. Malang,Kalipare,29000,3 - 6
+Kab. Malang,Karangploso,29000,3 - 6
+Kab. Malang,Kromengan,29000,3 - 6
+Kab. Malang,Ngajum,29000,3 - 6
+Kab. Malang,Pagak,29000,3 - 6
+Kab. Malang,Pakis,29000,3 - 6
+Kab. Malang,Pakisaji,29000,3 - 6
+Kab. Malang,Poncokusumo,29000,3 - 6
+Kab. Malang,Singosari,29000,3 - 6
+Kab. Malang,Sumberpucung,29000,3 - 6
+Kab. Malang,Sumbermanjing Wetan,29000,3 - 6
+Kab. Malang,Tajinan,29000,3 - 6
+Kab. Malang,Tirtoyudo,29000,3 - 6
+Kab. Malang,Turen,29000,3 - 6
+Kab. Malang,Tumpang,29000,3 - 6
+Kab. Malang,Wagir,29000,3 - 6
+Kab. Malang,Wajak,29000,3 - 6
+Kab. Malang,Wonosari,29000,3 - 6
+Kab. Malang,Ngantang,29000,3 - 6
+Kab. Malang,Pujon,29000,3 - 6
+Kab. Malang,Kasembon,29000,3 - 6
+Kab. Malang,Lawang,29000,3 - 6
+Kab. Malang,Pagelaran,29000,3 - 6
+Kab. Nabire,Nabire,98000,4 - 6
+Kab. Nabire,Dipa,157000,8 - 10
+Kab. Nabire,Makimi,157000,8 - 10
+Kab. Nabire,Mapia,157000,8 - 10
+Kab. Nabire,Menou,157000,8 - 10
+Kab. Nabire,Nabire barat,157000,8 - 10
+Kab. Nabire,Napan,157000,8 - 10
+Kab. Nabire,Obano,157000,8 - 10
+Kab. Nabire,Siriwo,157000,8 - 10
+Kab. Nabire,Teluk Kimi,157000,8 - 10
+Kab. Nabire,Teluk Umar,157000,8 - 10
+Kab. Nabire,Uwapa,157000,8 - 10
+Kab. Nabire,Wanggar,157000,8 - 10
+Kab. Nabire,Wapoga,157000,8 - 10
+Kab. Nabire,Yaro,157000,8 - 10
+Kab. Nabire,Yaur,157000,8 - 10
+Kab. Dogiyai,Kamu,125000,6 - 8
+Kab. Dogiyai,Kamu Selatan,157000,8 - 10
+Kab. Dogiyai,Kamu Timur,157000,8 - 10
+Kab. Dogiyai,Kamu Utara,157000,8 - 10
+Kab. Dogiyai,Sukikai,157000,8 - 10
+Kab. Dogiyai,Sukikai Selatan,157000,8 - 10
+Kab. Paniai,Enarotali,125000,6 - 8
+Kab. Paniai,Agisiga,157000,8 - 10
+Kab. Paniai,Aradide,157000,8 - 10
+Kab. Paniai,Biandoga,157000,8 - 10
+Kab. Paniai,Bibida,157000,8 - 10
+Kab. Paniai,Bogoboida,157000,8 - 10
+Kab. Paniai,Homeyo,157000,8 - 10
+Kab. Paniai,Paniai Barat,157000,8 - 10
+Kab. Paniai,Paniai Barat,157000,8 - 10
+Kab. Puncak Jaya,Mulia,125000,6 - 8
+Kab. Puncak Jaya,Beoga,157000,8 - 10
+Kab. Puncak Jaya,Fawi,157000,8 - 10
+Kab. Puncak Jaya,Ilaga,157000,8 - 10
+Kab. Puncak Jaya,Ilu,157000,8 - 10
+Kab. Puncak Jaya,Sinak,157000,8 - 10
+Kab. Mappi,Kepi,125000,6 - 8
+Kab. Mappi,Assue,157000,8 - 10
+Kab. Mappi,Citak Mitak,157000,8 - 10
+Kab. Mappi,Edera,157000,8 - 10
+Kab. Mappi,Haju,157000,8 - 10
+Kab. Mappi,Nambioman Bapai,157000,8 - 10
+Kab. Mappi,Obaa,157000,8 - 10
+Kab. Intan Jaya,Sugapa,125000,6 - 8
+Kab. Intan Jaya,Agisiga,157000,8 - 10
+Kab. Intan Jaya,Biandoga,157000,8 - 10
+Kab. Intan Jaya,Hitadipa,157000,8 - 10
+Kab. Intan Jaya,Homeyo,157000,8 - 10
+Kab. Intan Jaya,Intan Jaya,157000,8 - 10
+Kab. Intan Jaya,Wandai,157000,8 - 10
+Kab. Deiyai,Tigi,125000,6 - 8
+Kab. Deiyai,Bowobado,157000,8 - 10
+Kab. Deiyai,Kapiraya,157000,8 - 10
+Kab. Deiyai,Tigi Timur,157000,8 - 10
+Kab. Deiyai,Tigi Barat,157000,8 - 10
+Kab. Probolinggo,Probolinggo,20000,1 - 2
+Kab. Probolinggo,Banyuanyar,29000,3 - 6
+Kab. Probolinggo,Bantaran,29000,3 - 6
+Kab. Probolinggo,Besuk,29000,3 - 6
+Kab. Probolinggo,Dringu,29000,3 - 6
+Kab. Probolinggo,Gending,29000,3 - 6
+Kab. Probolinggo,Kotaanyar,29000,3 - 6
+Kab. Probolinggo,Kraksaan,24000,1 - 2
+Kab. Probolinggo,Krejengan,29000,3 - 6
+Kab. Probolinggo,Krucil,29000,3 - 6
+Kab. Probolinggo,Kuripan,29000,3 - 6
+Kab. Probolinggo,Leces,29000,3 - 6
+Kab. Probolinggo,Lumbang,29000,3 - 6
+Kab. Probolinggo,Maron,29000,3 - 6
+Kab. Probolinggo,Paiton,24000,2 - 3
+Kab. Probolinggo,Pajarakan,29000,3 - 6
+Kab. Probolinggo,Pakuniran,29000,3 - 6
+Kab. Probolinggo,Sukapura,29000,3 - 6
+Kab. Probolinggo,Sumber,29000,3 - 6
+Kab. Probolinggo,Sumberasih,29000,3 - 6
+Kab. Probolinggo,Tegalsiwalan,29000,3 - 6
+Kab. Probolinggo,Tiris,29000,3 - 6
+Kab. Probolinggo,Tongas,29000,3 - 6
+Kab. Probolinggo,Wonomerto,29000,3 - 6
+Kota Probolinggo,Kademangan,24000,2 - 3
+Kota Probolinggo,Mayangan,24000,2 - 3
+Kab. Probolinggo,Gading,29000,3 - 6
+Kota Probolinggo,Wonoasih,24000,2 - 3
+Kota Probolinggo,Kedopok,24000,2 - 3
+Kota Probolinggo,Kanigaran,24000,2 - 3
+Kab. Lumajang,Lumajang,24000,2 - 3
+Kab. Lumajang,Candipuro,29000,3 - 6
+Kab. Lumajang,Gucialit,29000,3 - 6
+Kab. Lumajang,Jatiroto,29000,3 - 6
+Kab. Lumajang,Klakah,29000,3 - 6
+Kab. Lumajang,Kedungjajang,29000,3 - 6
+Kab. Lumajang,Kunir,29000,3 - 6
+Kab. Lumajang,Pasirian,29000,3 - 6
+Kab. Lumajang,Pronojiwo,29000,3 - 6
+Kab. Lumajang,Randuagung,29000,3 - 6
+Kab. Lumajang,Ranuyoso,29000,3 - 6
+Kab. Lumajang,Rowokangkung,29000,3 - 6
+Kab. Lumajang,Senduro,29000,3 - 6
+Kab. Lumajang,Sukodono,29000,3 - 6
+Kab. Lumajang,Tekung,29000,3 - 6
+Kab. Lumajang,Tempursari,29000,3 - 6
+Kab. Lumajang,Tempeh,29000,3 - 6
+Kab. Lumajang,Yosowilangun,29000,3 - 6
+Kab. Lumajang,Padang,29000,3 - 6
+Kab. Lumajang,Pasrujambe,29000,3 - 6
+Kab. Lumajang,Sumbersoko,29000,3 - 6
+Kab Situbondo,Situbondo,24000,2 - 3
+Kab Situbondo,Arjasa,29000,3 - 6
+Kab Situbondo,Asembagus,29000,3 - 6
+Kab Situbondo,Banyuputih,29000,3 - 6
+Kab Situbondo,Banyuglugur,29000,3 - 6
+Kab Situbondo,Besuki,29000,3 - 6
+Kab Situbondo,Bungatan,29000,3 - 6
+Kab Situbondo,Jangkar,29000,3 - 6
+Kab Situbondo,Jatibanteng,29000,3 - 6
+Kab Situbondo,Kapongan,29000,3 - 6
+Kab Situbondo,Kendit,29000,3 - 6
+Kab Situbondo,Mangaran,29000,3 - 6
+Kab Situbondo,Mlandingan,29000,3 - 6
+Kab Situbondo,Panarukan,29000,3 - 6
+Kab Situbondo,Suboh,29000,3 - 6
+Kab Situbondo,Sumber Malang,29000,3 - 6
+Kab Situbondo,Panji,29000,3 - 6
+Kota Padang,Padang,25000,1 - 2
+Kota Padang,Bungus Teluk Kabung,25000,1 - 2
+Kota Padang,Koto Tangah,25000,1 - 2
+Kota Padang,Kuranji,25000,1 - 2
+Kota Padang,Lubuk Begalung,25000,1 - 2
+Kota Padang,Lubuk Kilangan,25000,1 - 2
+Kota Padang,Nanggalo,25000,1 - 2
+Kota Padang,Padang Barat,25000,1 - 2
+Kota Padang,Padang Selatan,25000,1 - 2
+Kota Padang,Padang Timur,25000,1 - 2
+Kota Padang,Padang Utara,25000,1 - 2
+Kota Padang,Pauh,25000,1 - 2
+Kab. Tanah Datar,Batu Sangkar,34000,2 - 3
+Kab. Tanah Datar,Batipuh,43000,3 - 6
+Kab. Tanah Datar,Lintau Buo,43000,3 - 6
+Kab. Tanah Datar,Pariangan,43000,3 - 6
+Kab. Tanah Datar,Rambatan,43000,3 - 6
+Kab. Tanah Datar,Salimpaung,43000,3 - 6
+Kab. Tanah Datar,Sungai Tarab,43000,3 - 6
+Kab. Tanah Datar,Sungayang,43000,3 - 6
+Kab. Tanah Datar,Tanjung Emas,43000,3 - 6
+Kab. Tanah Datar,Batipuh Selatan,43000,3 - 6
+Kab. Tanah Datar,Lima Kaum,43000,3 - 6
+Kab. Tanah Datar,Lintau Buo Utara,43000,3 - 6
+Kab. Tanah Datar,Padang Ganting,43000,3 - 6
+Kab. Tanah Datar,Sepuluh Koto,43000,3 - 6
+Kab. Tanah Datar,Tanjung Baru,43000,3 - 6
+Kota Bukit Tinggi,Bukit Tinggi,34000,2 - 3
+Kota Bukit Tinggi,Aur Birugo Tigo Baleh,34000,2 - 3
+Kota Bukit Tinggi,Mandiangin Koto Selayan,34000,2 - 3
+Kota Bukit Tinggi,Guguk Panjang,34000,2 - 3
+Kab. Pasaman,Lubuk Sikaping,34000,2 - 3
+Kab. Pasaman,Bonjol,43000,3 - 6
+Kab. Pasaman,Panti,43000,3 - 6
+Kab. Pasaman,RAO MAPAT TUNGGUL,43000,3 - 6
+Kab. Pasaman,III Nagari,43000,3 - 6
+Kab. Pasaman,Mapat Tunggul Selatan,43000,3 - 6
+Kab. Pasaman,II Koto,43000,3 - 6
+Kab. Pasaman,Mapat Tunggul,43000,3 - 6
+Kab. Pesisir Selatan,Painan,34000,2 - 3
+Kab. Pesisir Selatan,Batang Kapas,43000,3 - 6
+Kab. Pesisir Selatan,Bayang,43000,3 - 6
+Kab. Pesisir Selatan,Koto XI Tarusan,43000,3 - 6
+Kab. Pesisir Selatan,Lengayang,43000,3 - 6
+Kab. Pesisir Selatan,Pancung Soal,43000,3 - 6
+Kab. Pesisir Selatan,Ranah Pesisir,43000,3 - 6
+Kab. Pesisir Selatan,Basa IV Balai Tapan,43000,3 - 6
+Kab. Pesisir Selatan,Bayang Utara,43000,3 - 6
+Kab. Pesisir Selatan,Linggo Sari Baganti,43000,3 - 6
+Kab. Pesisir Selatan,Lunang Silaut,43000,3 - 6
+Kab. Pesisir Selatan,Sutera,43000,3 - 6
+Kab. Pesisir Selatan,IV Jurai,43000,3 - 6
+Kab. Padang Pariaman,Pariaman,34000,2 - 3
+Kab. Padang Pariaman,Batang Anai,43000,3 - 6
+Kab. Padang Pariaman,II.X.XI.VI Lingkung,43000,3 - 6
+Kab. Padang Pariaman,V Koto Kp Dalam,43000,3 - 6
+Kab. Padang Pariaman,Lubuk Alung,34000,2 - 3
+Kab. Padang Pariaman,Nan Sabaris,43000,3 - 6
+Kab. Padang Pariaman,Sungai Limau,43000,3 - 6
+Kab. Padang Pariaman,Sungai Geringging,43000,3 - 6
+Kab. Padang Pariaman,VII Koto Sungai Sarik,43000,3 - 6
+Kab. Padang Pariaman,Batang Gasan,43000,3 - 6
+Kab. Padang Pariaman,Padang Sago,43000,3 - 6
+Kab. Padang Pariaman,Patamuan,43000,3 - 6
+Kab. Padang Pariaman,Sintuk Toboh Gadang,43000,3 - 6
+Kab. Padang Pariaman,Ulakan Tapakis,43000,3 - 6
+Kota Pariaman,Pariaman Selatan,34000,2 - 3
+Kota Pariaman,Pariaman Tengah,34000,2 - 3
+Kota Pariaman,Pariaman Utara,34000,2 - 3
+Kab. Padang Pariaman,IV Koto Aur Malintang,43000,3 - 6
+Kab. Padang Pariaman,V Koto Timur,43000,3 - 6
+Kab. Padang Pariaman,VI Lingkung,43000,3 - 6
+Kab. Padang Pariaman,2 X 11 Kayu Tanam,43000,3 - 6
+Kota Payakumbuh,Payakumbuh,34000,2 - 3
+Kota Payakumbuh,Payakumbuh Barat,34000,2 - 3
+Kota Payakumbuh,Payakumbuh Timur,34000,2 - 3
+Kota Payakumbuh,Payakumbuh Utara,34000,2 - 3
+Kota Sawahlunto,Sawahlunto,34000,2 - 3
+Kota Sawahlunto,Barangin,34000,2 - 3
+Kota Sawahlunto,Lembah Segar,34000,2 - 3
+Kota Sawahlunto,Silungkang,34000,2 - 3
+Kota Sawahlunto,Talawi,34000,2 - 3
+Kota Solok,Solok,34000,2 - 3
+Kota Solok,Lubuk Sikarah,34000,2 - 3
+Kota Solok,Tanjung Harapan,34000,2 - 3
+Kota Padang Panjang,Padang Panjang,34000,2 - 3
+Kota Padang Panjang,Padang Panjang Barat,34000,2 - 3
+Kota Padang Panjang,Padang Panjang Timur,34000,2 - 3
+Kab. Dharmasraya,Pulau Punjung,34000,2 - 3
+Kab. Dharmasraya,Koto Baru,43000,3 - 6
+Kab. Dharmasraya,Sitiung,43000,3 - 6
+Kab. Dharmasraya,Sungai Rumbai,43000,3 - 6
+Kab. Lima Puluh Kota,Sarilamak,34000,2 - 3
+Kab. Lima Puluh Kota,Akabiluru,43000,3 - 6
+Kab. Lima Puluh Kota,Bukit Barisan,43000,3 - 6
+Kab. Lima Puluh Kota,Guguk,43000,3 - 6
+Kab. Lima Puluh Kota,Gunung Mas,43000,3 - 6
+Kab. Lima Puluh Kota,Harau,43000,3 - 6
+Kab. Lima Puluh Kota,Kapur IX,43000,3 - 6
+Kab. Lima Puluh Kota,Lareh Sago Halaban,43000,3 - 6
+Kab. Lima Puluh Kota,Mungka,43000,3 - 6
+Kab. Lima Puluh Kota,Pangkalan Koto Baru,43000,3 - 6
+Kab. Lima Puluh Kota,Payakumbuh,43000,3 - 6
+Kab. Lima Puluh Kota,Situjuh Lima Nagari,43000,3 - 6
+Kab. Lima Puluh Kota,Suliki Gunung Mas,43000,3 - 6
+Kab. Lima Puluh Kota,Luhak,43000,3 - 6
+Kab. Kepulauan Mentawai,Tuapejat,34000,2 - 3
+Kab. Kepulauan Mentawai,Pagai Selatan,34000,2 - 3
+Kab. Kepulauan Mentawai,Pagai Utara,34000,2 - 3
+Kab. Kepulauan Mentawai,Siberut Selatan,43000,3 - 6
+Kab. Kepulauan Mentawai,Siberut Utara,43000,3 - 6
+Kab. Kepulauan Mentawai,Sipora,43000,3 - 6
+Kab. Pasaman Barat,Simpang Empat,34000,2 - 3
+Kab. Pasaman Barat,Gunung Tuleh,43000,3 - 6
+Kab. Pasaman Barat,Kinali,43000,3 - 6
+Kab. Pasaman Barat,Lembah Melintang,43000,3 - 6
+Kab. Pasaman Barat,Luhak Nan Duo,43000,3 - 6
+Kab. Pasaman Barat,Pasaman,43000,3 - 6
+Kab. Pasaman Barat,Ranah Balingka,43000,3 - 6
+Kab. Pasaman Barat,Ranah Batahan,43000,3 - 6
+Kab. Pasaman Barat,Ranah Pesisir,43000,3 - 6
+Kab. Pasaman Barat,Sungai Aur,43000,3 - 6
+Kab. Pasaman Barat,Sungai Beremas,43000,3 - 6
+Kab. Pasaman Barat,Talamau,43000,3 - 6
+Kab. Solok,Arosuka,34000,2 - 3
+Kab. Solok,IX Koto Sungai Lasi,43000,3 - 6
+Kab. Solok,X Koto Diatas,43000,3 - 6
+Kab. Solok,X Koto Singkarak,43000,3 - 6
+Kab. Solok,Bukit Sundi,43000,3 - 6
+Kab. Solok,Danau Kembar,43000,3 - 6
+Kab. Solok,Gunung Talang,43000,3 - 6
+Kab. Solok,Hiliran Gumanti,43000,3 - 6
+Kab. Solok,Junjung Sirih,43000,3 - 6
+Kab. Solok,Kubung,43000,3 - 6
+Kab. Solok,Lembah Gumanti,43000,3 - 6
+Kab. Solok,Lembang Jaya,43000,3 - 6
+Kab. Solok,Pantai Cermin,43000,3 - 6
+Kab. Solok,Payung Sekaki,43000,3 - 6
+Kab. Solok,Tigo Lurah,43000,3 - 6
+Kab. Solok Selatan,Padang Aro,34000,2 - 3
+Kab. Solok Selatan,Koto Parik Gadang Diateh,43000,3 - 6
+Kab. Solok Selatan,Sangir,43000,3 - 6
+Kab. Solok Selatan,Sangir Batanghari,43000,3 - 6
+Kab. Solok Selatan,Sangir Jujuan,43000,3 - 6
+Kab. Solok Selatan,Sungai Pagu,43000,3 - 6
+Kab. Sijunjung,Muaro Sijunjung,34000,2 - 3
+Kab. Sijunjung,Koto Tujuh,43000,3 - 6
+Kab. Sijunjung,IV Nagari,43000,3 - 6
+Kab. Sijunjung,Kamang Baru,43000,3 - 6
+Kab. Sijunjung,Kupitan,43000,3 - 6
+Kab. Sijunjung,Lubuk Tarok,43000,3 - 6
+Kab. Sijunjung,Sumpur Kudus,43000,3 - 6
+Kab. Sijunjung,Tanjung Gadang,43000,3 - 6
+Kab. Agam,Lubuk Basung,34000,2 - 3
+Kab. Agam,Palupuh,43000,3 - 6
+Kab. Agam,Tanjung Mutiara,43000,3 - 6
+Kab. Agam,Tanjung Raya,43000,3 - 6
+Kab. Agam,IV Angkat Canduang,43000,3 - 6
+Kab. Agam,Banuhampu,43000,3 - 6
+Kab. Agam,Baso,43000,3 - 6
+Kab. Agam,IV Koto,43000,3 - 6
+Kab. Agam,Candung,43000,3 - 6
+Kab. Agam,Matur,43000,3 - 6
+Kab. Agam,Palembayan,43000,3 - 6
+Kab. Agam,Tilatang Kamang,43000,3 - 6
+Kab. Agam,Ampek Nagari,43000,3 - 6
+Kab. Agam,Kamang Magek,43000,3 - 6
+Kab. Agam,Sungai Puar,43000,3 - 6
+Kab. Pasuruan,Pandaan,20000,1 - 2
+Kab. Pasuruan,Bangil,29000,3 - 6
+Kab. Pasuruan,Beji,29000,3 - 6
+Kab. Pasuruan,Gempol,29000,3 - 6
+Kab. Pasuruan,Gondang Wetan,29000,3 - 6
+Kab. Pasuruan,Grati,29000,3 - 6
+Kab. Pasuruan,Kejayan,29000,3 - 6
+Kab. Pasuruan,Kraton,29000,3 - 6
+Kab. Pasuruan,Lekok,29000,3 - 6
+Kab. Pasuruan,Lumbang,29000,3 - 6
+Kab. Pasuruan,Nguling,29000,3 - 6
+Kab. Pasuruan,Pasrepan,29000,3 - 6
+Kab. Pasuruan,Pohjentrek,29000,3 - 6
+Kab. Pasuruan,Prigen,29000,3 - 6
+Kab. Pasuruan,Purwodadi,29000,3 - 6
+Kab. Pasuruan,Purwosari,29000,3 - 6
+Kab. Pasuruan,Puspo,29000,3 - 6
+Kab. Pasuruan,Rejoso,29000,3 - 6
+Kab. Pasuruan,Rembang,29000,3 - 6
+Kab. Pasuruan,Sukorejo,29000,3 - 6
+Kab. Pasuruan,Tosari,29000,3 - 6
+Kab. Pasuruan,Tutur,29000,3 - 6
+Kab. Pasuruan,Winongan,29000,3 - 6
+Kab. Pasuruan,Wonorejo,29000,3 - 6
+Kab. Pasuruan,Kedawung,29000,3 - 6
+Kab. Pasuruan,Nongko Jajar,29000,3 - 6
+Kota Pasuruan,Pasuruan,24000,2 - 3
+Kota Pasuruan,Bugulkidul,24000,2 - 3
+Kota Pasuruan,Gadingrejo,24000,2 - 3
+Kota Pasuruan,Purworejo,24000,2 - 3
+Kota Pangkal Pinang,Pangkal Pinang,20000,1 - 2
+Kota Pangkal Pinang,Rangkui,20000,1 - 2
+Kota Pangkal Pinang,Bukit Intan,20000,1 - 2
+Kota Pangkal Pinang,Pangkal Balam,20000,1 - 2
+Kota Pangkal Pinang,Gerunggang,20000,1 - 2
+Kab. Bangka,Sungai liat,32000,2 - 3
+Kab. Bangka,Belinyu,32000,2 - 3
+Kab. Bangka,Riau Silip,40000,3 - 6
+Kab. Bangka,Bakam,40000,3 - 6
+Kab. Bangka,Pemali,40000,3 - 6
+Kab. Bangka,Mendo Barat,40000,3 - 6
+Kab. Bangka,Merawang,40000,3 - 6
+Kab. Bangka,Puding Besar,40000,3 - 6
+Kab. Bangka Barat,Kelapa,32000,2 - 3
+Kab. Bangka Barat,Mentok,32000,2 - 3
+Kab. Bangka Barat,Tempilang,40000,3 - 6
+Kab. Bangka Barat,Simpang Teritip,40000,3 - 6
+Kab. Bangka Barat,Jebus,32000,2 - 3
+Kab. Bangka Tengah,Koba,32000,2 - 3
+Kab. Bangka Tengah,Sungai Selan,40000,3 - 6
+Kab. Bangka Tengah,Simpang Katis,40000,3 - 6
+Kab. Bangka Tengah,Pangkalan Baru,40000,3 - 6
+Kab. Bangka Selatan,Toboali,32000,2 - 3
+Kab. Bangka Selatan,Lepar Pongok,40000,3 - 6
+Kab. Bangka Selatan,Payung,40000,3 - 6
+Kab. Bangka Selatan,Air Gegas,40000,3 - 6
+Kab. Bangka Selatan,Simpang Rima,40000,3 - 6
+Kota Pekanbaru,Pekanbaru,25000,1 - 2
+Kota Pekanbaru,Payung,25000,1 - 2
+Kota Pekanbaru,Lima Puluh,25000,1 - 2
+Kota Pekanbaru,Marpoyan Damai,25000,1 - 2
+Kota Pekanbaru,Sail,25000,1 - 2
+Kota Pekanbaru,Senapelan,25000,1 - 2
+Kota Pekanbaru,Sukajadi,25000,1 - 2
+Kota Pekanbaru,Bukit Raya,25000,1 - 2
+Kota Pekanbaru,Tampan,25000,1 - 2
+Kota Pekanbaru,Rumbai Pesisir,25000,1 - 2
+Kota Pekanbaru,Tenayan Raya,25000,1 - 2
+Kota Pekanbaru,Rumbai,37000,1 - 2
+Kota Dumai,Dumai,37000,2 - 3
+Kota Dumai,Bukit Kapur,37000,2 - 3
+Kota Dumai,Dumai Barat,37000,2 - 3
+Kota Dumai,Dumai Timur,37000,2 - 3
+Kota Dumai,Medang Kampai,37000,2 - 3
+Kota Dumai,Sungai Sembilan,37000,2 - 3
+Kab. Kampar,Bangkinang,37000,2 - 3
+Kab. Kampar,Kampar,47000,3 - 6
+Kab. Kampar,Siak Hulu,47000,3 - 6
+Kab. Kampar,Kampar Kiri,47000,3 - 6
+Kab. Kampar,Bangkinang Barat,47000,3 - 6
+Kab. Kampar,Bangkinang Seberang,47000,3 - 6
+Kab. Kampar,Gunung Sahilan,47000,3 - 6
+Kab. Kampar,Kampar Kiri Hilir,47000,3 - 6
+Kab. Kampar,Kampar Kiri Hulu,47000,3 - 6
+Kab. Kampar,Kampar Timur,47000,3 - 6
+Kab. Kampar,Kampar Utara,47000,3 - 6
+Kab. Kampar,Perhentian Raja,47000,3 - 6
+Kab. Kampar,Rumbio Jaya,47000,3 - 6
+Kab. Kampar,Salo,47000,3 - 6
+Kab. Kampar,Tambang,47000,3 - 6
+Kab. Kampar,Tapung,47000,3 - 6
+Kab. Kampar,Tapung Hilir,47000,3 - 6
+Kab. Kampar,Tapung Hulu,47000,3 - 6
+Kab. Kampar,XIII Koto Kampar,71000,+ 10
+Kab. Bengkalis,Bengkalis,37000,2 - 3
+Kab. Bengkalis,Bukit Batu,47000,3 - 6
+Kab. Bengkalis,Mandau,47000,3 - 6
+Kab. Bengkalis,Rupat,71000,+ 10
+Kab. Bengkalis,Bantan,47000,3 - 6
+Kab. Bengkalis,Pinggir,47000,3 - 6
+Kab. Bengkalis,Rupat Utara,71000,+ 10
+Kab. Bengkalis,Siak Kecil,47000,3 - 6
+Kab. Bengkalis,Duri Mandau,37000,2 - 3
+Kab. Indragiri Hulu,Rengat,37000,2 - 3
+Kab. Indragiri Hulu,Pasir Penyu,47000,3 - 6
+Kab. Indragiri Hulu,Peranap,47000,3 - 6
+Kab. Indragiri Hulu,Seberida,47000,3 - 6
+Kab. Indragiri Hulu,Lirik,47000,3 - 6
+Kab. Indragiri Hulu,Batang Cenaku,47000,3 - 6
+Kab. Indragiri Hulu,Batang Gansal,47000,3 - 6
+Kab. Indragiri Hulu,Kelayang,47000,3 - 6
+Kab. Indragiri Hulu,Rengat Barat,47000,3 - 6
+Kab. Indragiri Hilir,Tembilahan,37000,2 - 3
+Kab. Indragiri Hilir,Batang Tuaka,71000,+ 10
+Kab. Indragiri Hilir,Enok,71000,+ 10
+Kab. Indragiri Hilir,Gaung Anak Serka,71000,+ 10
+Kab. Indragiri Hilir,Kateman,71000,+ 10
+Kab. Indragiri Hilir,Keritang,71000,+ 10
+Kab. Indragiri Hilir,Kuala Indragiri,71000,+ 10
+Kab. Indragiri Hilir,Mandah,71000,+ 10
+Kab. Indragiri Hilir,Reteh,71000,+ 10
+Kab. Indragiri Hilir,Tanah Merah,71000,+ 10
+Kab. Indragiri Hilir,Tempuling,71000,+ 10
+Kab. Indragiri Hilir,Gaung,71000,+ 10
+Kab. Indragiri Hilir,Kemuning,71000,+ 10
+Kab. Indragiri Hilir,Pelangiran,71000,+ 10
+Kab. Indragiri Hilir,Pulau Burung,47000,3 - 6
+Kab. Indragiri Hilir,Teluk Balengkong,47000,3 - 6
+Kab. Indragiri Hilir,Tembilahan Hulu,47000,3 - 6
+Kab. Rokan Hilir,Bagan Siapi-api,37000,2 - 3
+Kab. Rokan Hilir,Kubu,71000,+ 10
+Kab. Rokan Hilir,Rimba Melintang,71000,+ 10
+Kab. Rokan Hilir,Tanah Putih,47000,3 - 6
+Kab. Rokan Hilir,Bagan Sinembah,47000,3 - 6
+Kab. Rokan Hilir,Bangko,47000,3 - 6
+Kab. Rokan Hilir,Bangko Pusako,47000,3 - 6
+Kab. Rokan Hilir,Batu Hampar,47000,3 - 6
+Kab. Rokan Hilir,Pasir Limau Kapas,71000,+ 10
+Kab. Rokan Hilir,Pujud,71000,+ 10
+Kab. Rokan Hilir,Rantau Kopar,71000,+ 10
+Kab. Rokan Hilir,Simpang Kanan,71000,+ 10
+Kab. Rokan Hilir,Sinaboi,71000,+ 10
+Kab. Rokan Hilir,Tanah Putih Tanjung Melawan,47000,3 - 6
+Kab. Kuantan Sengingi,Teluk Kuantan,37000,2 - 3
+Kab. Kuantan Sengingi,Kuantan Hilir,47000,3 - 6
+Kab. Kuantan Sengingi,Kuantan Mudik,47000,3 - 6
+Kab. Kuantan Sengingi,Benai,47000,3 - 6
+Kab. Kuantan Sengingi,Cerenti,47000,3 - 6
+Kab. Kuantan Sengingi,Gunung Toar,47000,3 - 6
+Kab. Kuantan Sengingi,Hulu Kuantan,47000,3 - 6
+Kab. Kuantan Sengingi,Inuman,47000,3 - 6
+Kab. Kuantan Sengingi,Kuantan Tengah,47000,3 - 6
+Kab. Kuantan Sengingi,Logas Tanah Darat,47000,3 - 6
+Kab. Kuantan Sengingi,Pangean,47000,3 - 6
+Kab. Kuantan Sengingi,Singingi,47000,3 - 6
+Kab. Kuantan Sengingi,Singingi Hilir,47000,3 - 6
+Kab. Palalawan,Pangkalan Kerinci,37000,2 - 3
+Kab. Palalawan,Bunut,47000,3 - 6
+Kab. Palalawan,Kerumutan,47000,3 - 6
+Kab. Palalawan,Kuala Kampar,47000,3 - 6
+Kab. Palalawan,Langgam,71000,+ 10
+Kab. Palalawan,Pangkalan Kuras,47000,3 - 6
+Kab. Palalawan,Pangkalan Lesung,47000,3 - 6
+Kab. Palalawan,Pelalawan,47000,3 - 6
+Kab. Palalawan,Teluk Meranti,47000,3 - 6
+Kab. Palalawan,Ukui,47000,3 - 6
+Kab. Palalawan,Sorek,47000,3 - 6
+Kab. Rokan Hulu,Pasir Pangaraian,37000,2 - 3
+Kab. Rokan Hulu,Bangun Purba,47000,3 - 6
+Kab. Rokan Hulu,Kabun,47000,3 - 6
+Kab. Rokan Hulu,Kepenuhan,47000,3 - 6
+Kab. Rokan Hulu,Kuntodarussalam,71000,+ 10
+Kab. Rokan Hulu,Rambah,47000,3 - 6
+Kab. Rokan Hulu,Rambah Hilir,47000,3 - 6
+Kab. Rokan Hulu,Rambah Samo,47000,3 - 6
+Kab. Rokan Hulu,Rokan IV Koto,47000,3 - 6
+Kab. Rokan Hulu,Tandun,47000,3 - 6
+Kab. Rokan Hulu,Tembusai,47000,3 - 6
+Kab. Rokan Hulu,Tembusai Utara,47000,3 - 6
+Kab. Rokan Hulu,Ujung Batu,37000,2 - 3
+Kab. Siak,Siak Indrapura,37000,2 - 3
+Kab. Siak,Bunga Raya,47000,3 - 6
+Kab. Siak,Dayun,47000,3 - 6
+Kab. Siak,Kandis,47000,3 - 6
+Kab. Siak,Kerinci Kanan,47000,3 - 6
+Kab. Siak,Koto Gasip,47000,3 - 6
+Kab. Siak,Lubuk Dalam,47000,3 - 6
+Kab. Siak,Minas,37000,2 - 3
+Kab. Siak,Siak,47000,3 - 6
+Kab. Siak,Sungai Apit,47000,3 - 6
+Kab. Siak,Sungai Mandau,47000,3 - 6
+Kab. Siak,Tualang,47000,3 - 6
+Kab. Meranti,Meranti,37000,2 - 3
+Kab. Meranti,Selat Panjang,47000,3 - 6
+Kab. Meranti,Merbau,71000,+ 10
+Kab. Meranti,Rangsang,71000,+ 10
+Kab. Meranti,Rangsang Barat,71000,+ 10
+Kab. Meranti,Tebing Tinggi,47000,3 - 6
+Kab. Meranti,Tebing Tinggi Barat,47000,3 - 6
+Kota Palangkaraya,Palangkaraya,30000,1 - 2
+Kota Palangkaraya,Bukit Batu,30000,1 - 2
+Kota Palangkaraya,Jekan Raya,30000,1 - 2
+Kota Palangkaraya,Pahandut,30000,1 - 2
+Kota Palangkaraya,Rakumpit,93000,+ 10
+Kota Palangkaraya,Sebangau,30000,1 - 2
+Kab. Katingan,Kasongan,49000,3 - 5
+Kab. Katingan,Kamipang,93000,+ 10
+Kab. Katingan,Katingan Hulu,93000,+ 10
+Kab. Katingan,Katingan Kuala,93000,+ 10
+Kab. Katingan,Katingan Tengah,62000,5 - 7
+Kab. Katingan,Marikit,93000,+ 10
+Kab. Katingan,Pulau Malan,62000,5 - 7
+Kab. Katingan,Sanaman Mantikei,93000,+ 10
+Kab. Katingan,Tasik Payawan,93000,+ 10
+Kab. Katingan,Tewang Sangalang Garing,93000,+ 10
+Kab. Katingan,Mendawai,62000,5 - 7
+Kab. Katingan,Katingan Hilir,62000,5 - 7
+Kab. Kapuas,Kuala Kapuas,49000,3 - 5
+Kab. Kapuas,Basarang,62000,5 - 7
+Kab. Kapuas,Kapuas Barat,62000,5 - 7
+Kab. Kapuas,Kapuas Murung,62000,5 - 7
+Kab. Kapuas,Kapuas Tengah,62000,5 - 7
+Kab. Kapuas,Kapuas Timur,62000,5 - 7
+Kab. Kapuas,Kapuas Kuala,62000,5 - 7
+Kab. Kapuas,Mantangai,62000,5 - 7
+Kab. Kapuas,Pulau Petak,62000,5 - 7
+Kab. Kapuas,Timpah,62000,5 - 7
+Kab. Kapuas,Kapuas Hulu,62000,5 - 7
+Kab. Kapuas,Kapuas Hilir,62000,5 - 7
+Kab. Kapuas,Selat,62000,5 - 7
+Kab. Gunung Mas,Kuala Kurun,49000,3 - 5
+Kab. Gunung Mas,Kahayan Hulu Utara,93000,+ 10
+Kab. Gunung Mas,Rungan,93000,+ 10
+Kab. Gunung Mas,Sepang,62000,5 - 7
+Kab. Gunung Mas,Tewah,93000,+ 10
+Kab. Gunung Mas,Munuhing,93000,+ 10
+Kab. Seruyan,Kuala Pembuang,49000,3 - 5
+Kab. Seruyan,Danau Sembuluh,62000,5 - 7
+Kab. Seruyan,Hanau,93000,+ 10
+Kab. Seruyan,Seruyan Hulu,93000,+ 10
+Kab. Seruyan,Seruyan Tengah,93000,+ 10
+Kab. Seruyan,Seruyan Hilir,62000,5 - 7
+Kab. Kotawaringin Barat,Pangkalan Bun,49000,3 - 5
+Kab. Kotawaringin Barat,Arut Utara,62000,5 - 7
+Kab. Kotawaringin Barat,Kota Waringin Lama,62000,5 - 7
+Kab. Kotawaringin Barat,Kumai,62000,5 - 7
+Kab. Kotawaringin Barat,Arut Selatan,62000,5 - 7
+Kab. Kotawaringin Barat,Pangkalan Lada,62000,5 - 7
+Kab. Kotawaringin Barat,Pangkalan Banteng,62000,5 - 7
+Kab. Kotawaringin Timur,Sampit,49000,3 - 5
+Kab. Kotawaringin Timur,Cempaga,62000,5 - 7
+Kab. Kotawaringin Timur,Kota Besi,62000,5 - 7
+Kab. Kotawaringin Timur,Mentaya Hilir Selatan,62000,5 - 7
+Kab. Kotawaringin Timur,Mentaya Hulu,62000,5 - 7
+Kab. Kotawaringin Timur,Mentaya Hilir Utara,62000,5 - 7
+Kab. Kotawaringin Timur,Parenggean,62000,5 - 7
+Kab. Kotawaringin Timur,Pulau Hanaut,62000,5 - 7
+Kab. Kotawaringin Timur,Antang Kalang,62000,5 - 7
+Kab. Kotawaringin Timur,Baamang,62000,5 - 7
+Kab. Kotawaringin Timur,Mentawa Baru,62000,5 - 7
+Kab. Lamandau,Nanga Bulik,49000,3 - 5
+Kab. Lamandau,Bulik,62000,5 - 7
+Kab. Lamandau,Delang,93000,+ 10
+Kab. Lamandau,Lamandau,62000,5 - 7
+Kab. Pulang Pisau,Pulang Pisau,49000,3 - 5
+Kab. Pulang Pisau,Banamatingang,62000,5 - 7
+Kab. Pulang Pisau,Kahayan Hilir,62000,5 - 7
+Kab. Pulang Pisau,Kahayan Tengah,62000,5 - 7
+Kab. Pulang Pisau,Kahayan Kuala,93000,+ 10
+Kab. Pulang Pisau,Pandih Batu,62000,5 - 7
+Kab. Pulang Pisau,Maliku,93000,+ 10
+Kab. Sukamara,Sukamara,49000,3 - 5
+Kab. Sukamara,Balai Riam,62000,5 - 7
+Kab. Sukamara,Jelai,62000,5 - 7
+Kota Palembang,Palembang,20000,1 - 2
+Kota Palembang,Plaju,20000,1 - 2
+Kota Palembang,Alang-Alang Lebar,20000,1 - 2
+Kota Palembang,Bukit Kecil,20000,1 - 2
+Kota Palembang,Gandus,20000,1 - 2
+Kota Palembang,Ilir Barat I,20000,1 - 2
+Kota Palembang,Ilir Barat II,20000,1 - 2
+Kota Palembang,Ilir Timur I,20000,1 - 2
+Kota Palembang,Ilir Timur II,20000,1 - 2
+Kota Palembang,Kalidoni,20000,1 - 2
+Kota Palembang,Kemuning,20000,1 - 2
+Kota Palembang,Kertapati,20000,1 - 2
+Kota Palembang,Sako,20000,1 - 2
+Kota Palembang,Seberang Ulu I,20000,1 - 2
+Kota Palembang,Seberang Ulu II,20000,1 - 2
+Kota Palembang,Sematang Borang,20000,1 - 2
+Kota Palembang,Sukarame,20000,1 - 2
+Kab. Musi Rawas,Muara Beliti Baru,31000,2 - 3
+Kab. Musi Rawas,BKL Ulu Terawas,39000,3 - 6
+Kab. Musi Rawas,BTS Ulu,39000,3 - 6
+Kab. Musi Rawas,Jayaloka,39000,3 - 6
+Kab. Musi Rawas,Karang Dapo,39000,3 - 6
+Kab. Musi Rawas,Karang Jaya,39000,3 - 6
+Kab. Musi Rawas,Megang Sakti,39000,3 - 6
+Kab. Musi Rawas,Muara Beliti,39000,3 - 6
+Kab. Musi Rawas,Muara Kelingi,39000,3 - 6
+Kab. Musi Rawas,Muara Lakitan,39000,3 - 6
+Kab. Musi Rawas,Muara Rupit,39000,3 - 6
+Kab. Musi Rawas,Nibung,39000,3 - 6
+Kab. Musi Rawas,Purwodadi,39000,3 - 6
+Kab. Musi Rawas,Rawas Ulu,39000,3 - 6
+Kab. Musi Rawas,Selangit,39000,3 - 6
+Kab. Musi Rawas,Tugumulyo,39000,3 - 6
+Kab. Musi Rawas,Ulu Rawas,39000,3 - 6
+Kab. Musi Rawas,Rawas Ilir,39000,3 - 6
+Kab. Ogan Komering Ulu,Baturaja,31000,2 - 3
+Kab. Ogan Komering Ulu,Peninjauan,39000,3 - 6
+Kab. Ogan Komering Ulu,Pengandonan,39000,3 - 6
+Kab. Ogan Komering Ulu,Sosoh Buay Rayap,39000,3 - 6
+Kab. Ogan Komering Ulu,Baturaja Barat,39000,3 - 6
+Kab. Ogan Komering Ulu,Baturaja Timur,39000,3 - 6
+Kab. Ogan Komering Ulu,Lengkiti,39000,3 - 6
+Kab. Ogan Komering Ulu,Lubuk Batang,39000,3 - 6
+Kab. Ogan Komering Ulu,Semidang Aji,39000,3 - 6
+Kab. Ogan Komering Ulu,Ulu Ogan,39000,3 - 6
+Kab. Ogan Komering Ilir,Kota Kayu Agung,31000,2 - 3
+Kab. Ogan Komering Ilir,Mesuji,39000,3 - 6
+Kab. Ogan Komering Ilir,Pampangan,39000,3 - 6
+Kab. Ogan Komering Ilir,Pedamaran,39000,3 - 6
+Kab. Ogan Komering Ilir,Sirah Pulau Padang,39000,3 - 6
+Kab. Ogan Komering Ilir,Tanjung Lubuk,39000,3 - 6
+Kab. Ogan Komering Ilir,Tulung Selapan,39000,3 - 6
+Kab. Ogan Komering Ilir,Air Sugihan,39000,3 - 6
+Kab. Ogan Komering Ilir,Cengal,39000,3 - 6
+Kab. Ogan Komering Ilir,Jejawi,39000,3 - 6
+Kab. Ogan Komering Ilir,Lempuing,39000,3 - 6
+Kab. Ogan Komering Ilir,Pematang Panggang,39000,3 - 6
+Kab. Lahat,Lahat,31000,2 - 3
+Kab. Lahat,Merapi,39000,3 - 6
+Kab. Lahat,Pulau Pinang,39000,3 - 6
+Kab. Lahat,Tanjung Sakti,39000,3 - 6
+Kab. Lahat,Jarai,39000,3 - 6
+Kab. Lahat,Kikim Barat,39000,3 - 6
+Kab. Lahat,Kikim Selatan,39000,3 - 6
+Kab. Lahat,Kikim Tengah,39000,3 - 6
+Kab. Lahat,Kikim Timur,39000,3 - 6
+Kab. Lahat,Kota Agung,39000,3 - 6
+Kab. Lahat,Mulak Ulu,39000,3 - 6
+Kab. Lahat,Pajar Bulan,39000,3 - 6
+Kab. Muara Enim,Muara Enim,31000,2 - 3
+Kab. Muara Enim,Gunung Megang,39000,3 - 6
+Kab. Muara Enim,Tanjung Agung,39000,3 - 6
+Kab. Muara Enim,Gelumbang,39000,3 - 6
+Kab. Muara Enim,Rembang Dangku,39000,3 - 6
+Kab. Muara Enim,Rembang,39000,3 - 6
+Kab. Muara Enim,Benakat,39000,3 - 6
+Kab. Muara Enim,Lawang Kidul,31000,2 - 3
+Kab. Muara Enim,Lembak,39000,3 - 6
+Kab. Muara Enim,Lubai,39000,3 - 6
+Kab. Muara Enim,Penukal Abab,39000,3 - 6
+Kab. Muara Enim,Penukal Utara,39000,3 - 6
+Kab. Muara Enim,Semende Darat Laut,39000,3 - 6
+Kab. Muara Enim,Semende Darat Tengah,39000,3 - 6
+Kab. Muara Enim,Semende Darat Ulu,39000,3 - 6
+Kab. Muara Enim,Sungai Rotan,39000,3 - 6
+Kab. Muara Enim,Talang Ubi,39000,3 - 6
+Kab. Muara Enim,Tanah Abang,39000,3 - 6
+Kab. Muara Enim,Ujan Mas,39000,3 - 6
+Kab. Muara Enim,Abab (Penukal Abab),39000,3 - 6
+Kab. Muara Enim,Muara Belikan,39000,3 - 6
+Kab. Muara Enim,Kelekar,39000,3 - 6
+Kota Pagar Alam,Pagar Alam,31000,2 - 3
+Kota Pagar Alam,Pagar Alam Utara,31000,2 - 3
+Kota Pagar Alam,Pagar Alam Selatan,31000,2 - 3
+Kota Pagar Alam,Dempo Selatan,31000,2 - 3
+Kota Pagar Alam,Dempo Tengah,31000,2 - 3
+Kota Pagar Alam,Dempo Utara,31000,2 - 3
+Kota Prabumulih,Prabumulih,31000,2 - 3
+Kota Prabumulih,Cambai,31000,2 - 3
+Kota Prabumulih,Prabumulih Barat,31000,2 - 3
+Kota Prabumulih,Rambang Kapak Tengah,31000,2 - 3
+Kota Prabumulih,Prabumulih Timur,31000,2 - 3
+Kab. Musi Banyuasin,Sekayu,31000,2 - 3
+Kab. Musi Banyuasin,Babat Toman,39000,3 - 6
+Kab. Musi Banyuasin,Bayung Lencir,39000,3 - 6
+Kab. Musi Banyuasin,Sungai Lilin,31000,2 - 3
+Kab. Musi Banyuasin,Batang Harileko,39000,3 - 6
+Kab. Musi Banyuasin,Keluang,39000,3 - 6
+Kab. Musi Banyuasin,Lais,39000,3 - 6
+Kab. Musi Banyuasin,Sanga Desa,39000,3 - 6
+Kab. Musi Banyuasin,Sungai Keruh,39000,3 - 6
+Kab. Banyuasin,Pangkalan Balai,31000,2 - 3
+Kab. Banyuasin,Banyuasin I,39000,3 - 6
+Kab. Banyuasin,Banyuasin II,39000,3 - 6
+Kab. Banyuasin,Banyuasin III,39000,3 - 6
+Kab. Banyuasin,Betung,39000,3 - 6
+Kab. Banyuasin,Makarti Jaya,39000,3 - 6
+Kab. Banyuasin,Muara Telang,39000,3 - 6
+Kab. Banyuasin,Pulau Rimau,39000,3 - 6
+Kab. Banyuasin,Rambutan,39000,3 - 6
+Kab. Banyuasin,Rantau Bayur,39000,3 - 6
+Kab. Banyuasin,Talang Kelapa,39000,3 - 6
+Kab. Banyuasin,Muara Padang,39000,3 - 6
+Kab. Empat Lawang,Tebing Tinggi,31000,2 - 3
+Kab. Empat Lawang,Lintang Kanan,39000,3 - 6
+Kab. Empat Lawang,Muara Pinang,39000,3 - 6
+Kab. Empat Lawang,Pasemah Air Keruh,39000,3 - 6
+Kab. Empat Lawang,Pendopo,39000,3 - 6
+Kab. Empat Lawang,Talang Padang,39000,3 - 6
+Kab. Empat Lawang,Ulu Musi,39000,3 - 6
+Kab. Ogan Ilir,Indralaya,31000,2 - 3
+Kab. Ogan Ilir,Muara Kuang,39000,3 - 6
+Kab. Ogan Ilir,Pemulutan,39000,3 - 6
+Kab. Ogan Ilir,Rantau Alai,39000,3 - 6
+Kab. Ogan Ilir,Tanjung Batu,39000,3 - 6
+Kab. Ogan Ilir,Tanjung Raja,39000,3 - 6
+Kab. Ogan Komering Ulu Timur,Martapura,31000,2 - 3
+Kab. Ogan Komering Ulu Timur,Belitang,39000,3 - 6
+Kab. Ogan Komering Ulu Timur,Belitang II,39000,3 - 6
+Kab. Ogan Komering Ulu Timur,Belitang III,39000,3 - 6
+Kab. Ogan Komering Ulu Timur,Buay Madang,39000,3 - 6
+Kab. Ogan Komering Ulu Timur,Buay Pemuka Peliung,39000,3 - 6
+Kab. Ogan Komering Ulu Timur,Cempaka,39000,3 - 6
+Kab. Ogan Komering Ulu Timur,Madang Suku I,39000,3 - 6
+Kab. Ogan Komering Ulu Timur,Madang Suku II,39000,3 - 6
+Kab. Ogan Komering Ulu Timur,Semendawa Suku III,39000,3 - 6
+Kab. Ogan Komering Ulu Timur,MADANG SUKU III,39000,3 - 6
+Kab. Ogan Komering Ulu Selatan,Muaradua,31000,2 - 3
+Kab. Ogan Komering Ulu Selatan,Banding Agung,39000,3 - 6
+Kab. Ogan Komering Ulu Selatan,Buay Pemaca,39000,3 - 6
+Kab. Ogan Komering Ulu Selatan,Buay Runjung,39000,3 - 6
+Kab. Ogan Komering Ulu Selatan,Buay Sandang Aji,39000,3 - 6
+Kab. Ogan Komering Ulu Selatan,Kisam Tinggi,39000,3 - 6
+Kab. Ogan Komering Ulu Selatan,Mekakau Ilir,39000,3 - 6
+Kab. Ogan Komering Ulu Selatan,Muaradua Kisam,39000,3 - 6
+Kab. Ogan Komering Ulu Selatan,Pulau Beringin,39000,3 - 6
+Kab. Ogan Komering Ulu Selatan,Simpang,39000,3 - 6
+Kota Lubuk Linggau,Lubuk Linggau,31000,2 - 3
+Kota Lubuk Linggau,Lubuklinggau Barat I,31000,2 - 3
+Kota Lubuk Linggau,Lubuklinggau Barat II,31000,2 - 3
+Kota Lubuk Linggau,Lubuklinggau Selatan I,31000,2 - 3
+Kota Lubuk Linggau,Lubuklinggau Selatan II,31000,2 - 3
+Kota Lubuk Linggau,Lubuklinggau Timur I,31000,2 - 3
+Kota Lubuk Linggau,Lubuklinggau Timur II,31000,2 - 3
+Kota Lubuk Linggau,Lubuklinggau Utara I,31000,2 - 3
+Kota Lubuk Linggau,Lubuklinggau Utara II,31000,2 - 3
+Kota Palu,Palu,40000,2 - 3
+Kota Palu,Palu Barat,40000,2 - 3
+Kota Palu,Palu Selatan,40000,2 - 3
+Kota Palu,Palu Timur,40000,2 - 3
+Kota Palu,Palu Utara,40000,2 - 3
+Kab. Banggai,Luwuk,58000,3 - 5
+Kab. Banggai,Balantak,73000,5 - 7
+Kab. Banggai,Batui,73000,5 - 7
+Kab. Banggai,Bunta,73000,5 - 7
+Kab. Banggai,Kintom,73000,5 - 7
+Kab. Banggai,Lamala,73000,5 - 7
+Kab. Banggai,Pagimana,73000,5 - 7
+Kab. Banggai,Boalemo,73000,5 - 7
+Kab. Banggai,Toili,73000,5 - 7
+Kab. Poso,Poso Kota,58000,3 - 5
+Kab. Poso,Lage,73000,5 - 7
+Kab. Poso,Lore Utara,73000,5 - 7
+Kab. Poso,Lore Selatan,73000,5 - 7
+Kab. Poso,Pamona Selatan,73000,5 - 7
+Kab. Poso,Pamona Utara,73000,5 - 7
+Kab. Poso,Poso Pesisir,73000,5 - 7
+Kab. Poso,Lore Tengah,73000,5 - 7
+Kab. Poso,Pamona Timur,73000,5 - 7
+Kab. Toli-Toli,Toli-Toli,58000,3 - 5
+Kab. Toli-Toli,Dampal Utara,73000,5 - 7
+Kab. Toli-Toli,Dampal Selatan,73000,5 - 7
+Kab. Toli-Toli,Dondo,73000,5 - 7
+Kab. Toli-Toli,Galang,73000,5 - 7
+Kab. Toli-Toli,Utara Toli Toli,73000,5 - 7
+Kab. Toli-Toli,Baolan,73000,5 - 7
+Kab. Toli-Toli,Basidondo,73000,5 - 7
+Kab. Toli-Toli,Lampasio,73000,5 - 7
+Kab. Toli-Toli,Ogo Deide,73000,5 - 7
+Kab. Banggai Kepulauan,Banggai,58000,3 - 5
+Kab. Banggai Kepulauan,Bokan Kepulauan,73000,5 - 7
+Kab. Banggai Kepulauan,Buko,73000,5 - 7
+Kab. Banggai Kepulauan,Bulagi,73000,5 - 7
+Kab. Banggai Kepulauan,Bulagi Selatan,73000,5 - 7
+Kab. Banggai Kepulauan,Liang,73000,5 - 7
+Kab. Banggai Kepulauan,Lo Bangkurung,73000,5 - 7
+Kab. Banggai Kepulauan,Tinangkung,73000,5 - 7
+Kab. Banggai Kepulauan,Totikum,73000,5 - 7
+Kab. Buol,Buol,58000,3 - 5
+Kab. Buol,Biau,73000,5 - 7
+Kab. Buol,Bokat,73000,5 - 7
+Kab. Buol,Bukal,73000,5 - 7
+Kab. Buol,Bunobogu,73000,5 - 7
+Kab. Buol,Gadung,73000,5 - 7
+Kab. Buol,Lipunoto,73000,5 - 7
+Kab. Buol,Momunu,73000,5 - 7
+Kab. Buol,Paleleh,73000,5 - 7
+Kab. Buol,Tiolan,73000,5 - 7
+Kab. Donggala,Banawa,40000,2 - 3
+Kab. Donggala,Balaesang,73000,5 - 7
+Kab. Donggala,Damsol,73000,5 - 7
+Kab. Donggala,Dolo,73000,5 - 7
+Kab. Donggala,Kulawi,73000,5 - 7
+Kab. Donggala,Marawola,73000,5 - 7
+Kab. Donggala,Palolo,73000,5 - 7
+Kab. Donggala,Pipikoro,73000,5 - 7
+Kab. Donggala,Riopakawa,73000,5 - 7
+Kab. Donggala,Sigi Biromaru,73000,5 - 7
+Kab. Donggala,Sindue,73000,5 - 7
+Kab. Donggala,Sirenja,73000,5 - 7
+Kab. Donggala,Sojol,73000,5 - 7
+Kab. Donggala,Tawaeli,73000,5 - 7
+Kab. Morowali,Bungku,58000,3 - 5
+Kab. Morowali,Bungku Barat,73000,5 - 7
+Kab. Morowali,Bungku Selatan,73000,5 - 7
+Kab. Morowali,Bungku Tengah,73000,5 - 7
+Kab. Morowali,Bungku Utara,73000,5 - 7
+Kab. Morowali,Bahodopi,73000,5 - 7
+Kab. Morowali,Bumi Raya,73000,5 - 7
+Kab. Morowali,Lembo,73000,5 - 7
+Kab. Morowali,Mamosalato,73000,5 - 7
+Kab. Morowali,Menui Kepulauan,73000,5 - 7
+Kab. Morowali,Mori Atas,73000,5 - 7
+Kab. Morowali,Petasia,73000,5 - 7
+Kab. Morowali,Soyo Jaya,73000,5 - 7
+Kab. Morowali,Wita Ponda,73000,5 - 7
+Kab. Parigi Moutong,Parigi,58000,3 - 5
+Kab. Parigi Moutong,Ampibabo,73000,5 - 7
+Kab. Parigi Moutong,Bolano Lambunu,73000,5 - 7
+Kab. Parigi Moutong,Kasimbar,73000,5 - 7
+Kab. Parigi Moutong,Moutong,73000,5 - 7
+Kab. Parigi Moutong,Sausu,73000,5 - 7
+Kab. Parigi Moutong,Tinombo,73000,5 - 7
+Kab. Parigi Moutong,Tinombo Selatan,73000,5 - 7
+Kab. Parigi Moutong,Tomini,73000,5 - 7
+Kab. Parigi Moutong,Torue,73000,5 - 7
+Kab. Tojo Una-Una,Ampana Kota,58000,3 - 5
+Kab. Tojo Una-Una,Ampana Tete,73000,5 - 7
+Kab. Tojo Una-Una,Togean,73000,5 - 7
+Kab. Tojo Una-Una,Tojo,73000,5 - 7
+Kab. Tojo Una-Una,Tojo Barat,73000,5 - 7
+Kab. Tojo Una-Una,Ulu Bongka,73000,5 - 7
+Kab. Tojo Una-Una,Una-Una,73000,5 - 7
+Kab. Tojo Una-Una,Walea Kepulauan,73000,5 - 7
+Kota Pontianak,Pontianak,27000,1 - 2
+Kota Pontianak,Pontianak Barat,27000,1 - 2
+Kota Pontianak,Pontianak Kota,27000,1 - 2
+Kota Pontianak,Pontianak Selatan,27000,1 - 2
+Kota Pontianak,Pontianak Tenggara,27000,1 - 2
+Kota Pontianak,Pontianak Timur/ Jungkat,27000,1 - 2
+Kota Pontianak,Pontianak Utara,27000,1 - 2
+Kab. Ketapang,Ketapang,42000,3 - 5
+Kab. Ketapang,Jelai Hulu,53000,5 - 7
+Kab. Ketapang,Kendawangan,53000,5 - 7
+Kab. Ketapang,Manis Mata,53000,5 - 7
+Kab. Ketapang,Marau,53000,5 - 7
+Kab. Ketapang,Nanga Tayap,53000,5 - 7
+Kab. Ketapang,Sandai,53000,5 - 7
+Kab. Ketapang,Simpang Hulu,53000,5 - 7
+Kab. Ketapang,Sungai Laur,53000,5 - 7
+Kab. Ketapang,Tumbang Titi,53000,5 - 7
+Kab. Ketapang,Benua Kayong,53000,5 - 7
+Kab. Ketapang,Air Upas,53000,5 - 7
+Kab. Ketapang,Delta Pawan,53000,5 - 7
+Kab. Ketapang,Hulu Sungai,53000,5 - 7
+Kab. Ketapang,Matan Hilir Selatan,53000,5 - 7
+Kab. Ketapang,Matan Hilir Utara,53000,5 - 7
+Kab. Ketapang,Muara Pawan,53000,5 - 7
+Kab. Ketapang,Pemaham,53000,5 - 7
+Kab. Ketapang,Simpang Dua,53000,5 - 7
+Kab. Ketapang,Singkup,53000,5 - 7
+Kab. Sanggau,Sanggau,42000,3 - 5
+Kab. Sanggau,Balai,53000,5 - 7
+Kab. Sanggau,Beduwai,53000,5 - 7
+Kab. Sanggau,Bonti,53000,5 - 7
+Kab. Sanggau,Jangkang,53000,5 - 7
+Kab. Sanggau,Kembayan,53000,5 - 7
+Kab. Sanggau,Meliau,53000,5 - 7
+Kab. Sanggau,Mukok,53000,5 - 7
+Kab. Sanggau,Noyan,53000,5 - 7
+Kab. Sanggau,Parindu,53000,5 - 7
+Kab. Sanggau,Sekayam,53000,5 - 7
+Kab. Sanggau,Tayan Hulu,53000,5 - 7
+Kab. Sanggau,Tayan Hilir,53000,5 - 7
+Kab. Sanggau,Toba,53000,5 - 7
+Kab. Sanggau,Entikong,53000,5 - 7
+Kota Singkawang,Singkawang,42000,3 - 5
+Kota Singkawang,Singkawang Barat,42000,3 - 5
+Kota Singkawang,Singkawang Utara,42000,3 - 5
+Kota Singkawang,Singkawang Selatan,42000,3 - 5
+Kota Singkawang,Singkawang Timur,42000,3 - 5
+Kota Singkawang,Singkawang Tengah,42000,3 - 5
+Kab. Sintang,Sintang,42000,3 - 5
+Kab. Sintang,Ambalau,53000,5 - 7
+Kab. Sintang,Dedai,53000,5 - 7
+Kab. Sintang,Kayan Hulu,53000,5 - 7
+Kab. Sintang,Kayan Hilir,53000,5 - 7
+Kab. Sintang,Ketungau Hilir,53000,5 - 7
+Kab. Sintang,Ketungau Tengah,53000,5 - 7
+Kab. Sintang,Ketungau Hulu,53000,5 - 7
+Kab. Sintang,Sepauk,53000,5 - 7
+Kab. Sintang,Tempunak,53000,5 - 7
+Kab. Sintang,Binjai Hulu,53000,5 - 7
+Kab. Sintang,Kelam Permai,53000,5 - 7
+Kab. Sintang,Sungai Tebelian,53000,5 - 7
+Kab. Kapuas Hulu,Putussibau,42000,3 - 5
+Kab. Kapuas Hulu,Badau,53000,5 - 7
+Kab. Kapuas Hulu,Batang Lupar,53000,5 - 7
+Kab. Kapuas Hulu,Bunut Hilir,53000,5 - 7
+Kab. Kapuas Hulu,Bunut Hulu,53000,5 - 7
+Kab. Kapuas Hulu,Embaloh Hilir,53000,5 - 7
+Kab. Kapuas Hulu,Embaloh Hulu,53000,5 - 7
+Kab. Kapuas Hulu,Embau,53000,5 - 7
+Kab. Kapuas Hulu,Empanang,53000,5 - 7
+Kab. Kapuas Hulu,Hulu Gurung,53000,5 - 7
+Kab. Kapuas Hulu,Manday,53000,5 - 7
+Kab. Kapuas Hulu,Seberuang,53000,5 - 7
+Kab. Kapuas Hulu,Selimbau,53000,5 - 7
+Kab. Kapuas Hulu,Semitau,53000,5 - 7
+Kab. Kapuas Hulu,Silat Hilir,53000,5 - 7
+Kab. Kapuas Hulu,Silat Hulu,53000,5 - 7
+Kab. Kapuas Hulu,Batu Datu,53000,5 - 7
+Kab. Kapuas Hulu,Boyan Tanjung,53000,5 - 7
+Kab. Kapuas Hulu,Kalis,53000,5 - 7
+Kab. Kapuas Hulu,Kedamin,53000,5 - 7
+Kab. Kapuas Hulu,Mentebah,53000,5 - 7
+Kab. Kapuas Hulu,Puring Kencana,53000,5 - 7
+Kab. Kapuas Hulu,Suhaid,53000,5 - 7
+Kab. Bengkayang,Bengkayang,42000,3 - 5
+Kab. Bengkayang,Ledo,53000,5 - 7
+Kab. Bengkayang,Samalantan,53000,5 - 7
+Kab. Bengkayang,Sanggau Ledo,53000,5 - 7
+Kab. Bengkayang,Seluas,53000,5 - 7
+Kab. Bengkayang,Sungai Raya,42000,3 - 5
+Kab. Bengkayang,Jagoi Babang,53000,5 - 7
+Kab. Bengkayang,Monterado,53000,5 - 7
+Kab. Bengkayang,Suti Semarang,53000,5 - 7
+Kab. Bengkayang,Teriak,53000,5 - 7
+Kab. Landak,Ngabang,42000,3 - 5
+Kab. Landak,Air Besar,53000,5 - 7
+Kab. Landak,Mandor,53000,5 - 7
+Kab. Landak,Mempawah Hulu,53000,5 - 7
+Kab. Landak,Menjalin,53000,5 - 7
+Kab. Landak,Menyuke,53000,5 - 7
+Kab. Landak,Sengah Temila,53000,5 - 7
+Kab. Landak,Kuala Behe,53000,5 - 7
+Kab. Landak,Meranti,53000,5 - 7
+Kab. Landak,Sebangki,53000,5 - 7
+Kab. Melawi,Nanga Pinoh,42000,3 - 5
+Kab. Melawi,Ambalau,53000,5 - 7
+Kab. Melawi,Belimbing,53000,5 - 7
+Kab. Melawi,Ella Hilir,53000,5 - 7
+Kab. Melawi,Menukung,53000,5 - 7
+Kab. Melawi,Sayan,53000,5 - 7
+Kab. Melawi,Serawai,53000,5 - 7
+Kab. Melawi,Sokan,53000,5 - 7
+Kab. Melawi,Tanah Pinoh,53000,5 - 7
+Kab. Pontianak,Mempawah,42000,3 - 5
+Kab. Pontianak,Kubu,53000,5 - 7
+Kab. Pontianak,Sungai Ambawang,53000,5 - 7
+Kab. Pontianak,Sungai Kakap,53000,5 - 7
+Kab. Pontianak,Sungai Kunyit,53000,5 - 7
+Kab. Pontianak,Sungai Pinyuh,53000,5 - 7
+Kab. Pontianak,Sungai Raya,53000,5 - 7
+Kab. Pontianak,Siantan / Wajok,42000,3 - 5
+Kab. Pontianak,Telok Pa'kedai,53000,5 - 7
+Kab. Pontianak,Toho,53000,5 - 7
+Kab. Pontianak,Rasau Jaya,53000,5 - 7
+Kab. Sambas,Sambas,42000,3 - 5
+Kab. Sambas,Jawai,53000,5 - 7
+Kab. Sambas,Paloh,53000,5 - 7
+Kab. Sambas,Pemangkat,53000,5 - 7
+Kab. Sambas,Sejangkung,53000,5 - 7
+Kab. Sambas,Selakau,53000,5 - 7
+Kab. Sambas,Tebas,53000,5 - 7
+Kab. Sambas,Teluk Keramat,53000,5 - 7
+Kab. Sambas,Galing,53000,5 - 7
+Kab. Sambas,Jawai Selatan,53000,5 - 7
+Kab. Sambas,Sajingan,53000,5 - 7
+Kab. Sambas,Sajad,53000,5 - 7
+Kab. Sambas,Sebawi,53000,5 - 7
+Kab. Sambas,Semparuk,53000,5 - 7
+Kab. Sambas,Subah,53000,5 - 7
+Kab. Sambas,Tanggaran,53000,5 - 7
+Kab. Sambas,Tekarang,53000,5 - 7
+Kab. Sekadau,Sekadau Hilir,42000,3 - 5
+Kab. Sekadau,Belitang Hilir,53000,5 - 7
+Kab. Sekadau,Belitang Hulu,53000,5 - 7
+Kab. Sekadau,Nanga Taman,53000,5 - 7
+Kab. Sekadau,Nanga Mahap,53000,5 - 7
+Kab. Sekadau,Sekadau Hulu,53000,5 - 7
+Kab. Sekadau,Belitang,53000,5 - 7
+Kab. Kubu Raya,Kubu Raya,42000,3 - 5
+Kab. Kubu Raya,Kuala Mandor,53000,5 - 7
+Kab. Kubu Raya,Sui Ambawang,53000,5 - 7
+Kab. Kubu Raya,Sui Kakap,53000,5 - 7
+Kab. Kubu Raya,Sui Raya,53000,5 - 7
+Kab. Kubu Raya,Teluk Pakedai,53000,5 - 7
+Kab. Kubu Raya,Terentang,53000,5 - 7
+Kab. Kubu Raya,Rasau Jaya,53000,5 - 7
+Kab. Kubu Raya,Batu Ampar,53000,5 - 7
+Kab. Kubu Raya,Sungai Raya,53000,5 - 7
+Kab. Kayong Utara,Sukadana,42000,3 - 5
+Kab. Kayong Utara,Pulau Maya Karimata,53000,5 - 7
+Kab. Kayong Utara,Simpang Hilir,53000,5 - 7
+Kab. Kayong Utara,Teluk Batang,53000,5 - 7
+Kab. Kayong Utara,Seponti Jaya,53000,5 - 7
+Kota Samarinda,Samarinda,41000,2 - 3
+Kota Samarinda,Samarinda Seberang,41000,2 - 3
+Kota Samarinda,Palaran,41000,2 - 3
+Kota Samarinda,Samarinda Ilir,41000,2 - 3
+Kota Samarinda,Samarinda Ulu,41000,2 - 3
+Kota Samarinda,Samarinda Utara,41000,2 - 3
+Kota Samarinda,Sungai Kunjang,41000,2 - 3
+Kab. Kutai Kartanegara,Tenggarong,55000,3 - 5
+Kab. Kutai Kartanegara,Kembang Janggut,104000,+ 10
+Kab. Kutai Kartanegara,Kenohan,104000,+ 10
+Kab. Kutai Kartanegara,Kota Bangun,69000,5 - 7
+Kab. Kutai Kartanegara,Loa Kulu,55000,3 - 5
+Kab. Kutai Kartanegara,Muara Kaman,69000,5 - 7
+Kab. Kutai Kartanegara,Muara Muntai,69000,5 - 7
+Kab. Kutai Kartanegara,Sebulu,69000,5 - 7
+Kab. Kutai Kartanegara,Tabang,104000,+ 10
+Kab. Kutai Kartanegara,Loa Janan,69000,5 - 7
+Kab. Kutai Kartanegara,Muara Badak,55000,3 - 5
+Kab. Kutai Kartanegara,Sanga-Sanga,55000,3 - 5
+Kab. Kutai Kartanegara,Marang Kayu,69000,5 - 7
+Kab. Kutai Kartanegara,Muara Wis,69000,5 - 7
+Kab. Kutai Kartanegara,Tenggarong Seberang,69000,5 - 7
+Kab. Kutai Kartanegara,Anggana,69000,5 - 7
+Kab. Kutai Barat,Sendawar,55000,3 - 5
+Kab. Kutai Barat,Barong Tongkok,69000,5 - 7
+Kab. Kutai Barat,Bentian Besar,104000,+ 10
+Kab. Kutai Barat,Bongan,104000,+ 10
+Kab. Kutai Barat,Damai,104000,+ 10
+Kab. Kutai Barat,Jempang,104000,+ 10
+Kab. Kutai Barat,Long Apari,104000,+ 10
+Kab. Kutai Barat,Long Iram,104000,+ 10
+Kab. Kutai Barat,Long Pahangai,104000,+ 10
+Kab. Kutai Barat,Long Bagun,104000,+ 10
+Kab. Kutai Barat,Melak,69000,5 - 7
+Kab. Kutai Barat,Muara Pahu,69000,5 - 7
+Kab. Kutai Barat,Muara Lawa,69000,5 - 7
+Kab. Kutai Barat,Penyinggahan,69000,5 - 7
+Kab. Kutai Barat,Linggang Bigung,69000,5 - 7
+Kab. Kutai Barat,Long Hubung,104000,+ 10
+Kab. Kutai Barat,Nyuwatan,69000,5 - 7
+Kab. Sukabumi,Sukabumi,9000,1 - 2
+Kab. Sukabumi,Bantargadung,15000,3 - 6
+Kota Sukabumi,Baros,9000,1 - 2
+Kab. Sukabumi,Bojong Genteng,15000,3 - 6
+Kab. Sukabumi,Caringin,15000,3 - 6
+Kab. Sukabumi,Cibadak,15000,3 - 6
+Kab. Sukabumi,Cibitung,15000,3 - 6
+Kab. Sukabumi,Cicurug,15000,3 - 6
+Kab. Sukabumi,Cicantayan,15000,3 - 6
+Kab. Sukabumi,Cidahu,15000,3 - 6
+Kab. Sukabumi,Cidolog,15000,3 - 6
+Kab. Sukabumi,Cidadap,15000,3 - 6
+Kab. Sukabumi,Ciemas,15000,3 - 6
+Kab. Sukabumi,Cikidang,15000,3 - 6
+Kab. Sukabumi,Cikembar,15000,3 - 6
+Kab. Sukabumi,Cikakak,15000,3 - 6
+Kab. Sukabumi,Ciracap,15000,3 - 6
+Kab. Sukabumi,Cireunghas,15000,3 - 6
+Kab. Sukabumi,Cisaat,15000,3 - 6
+Kab. Sukabumi,Cisolok,15000,3 - 6
+Kab. Sukabumi,Curugkembar,15000,3 - 6
+Kab. Sukabumi,Gegerbitung,15000,3 - 6
+Kab. Sukabumi,Gunung Guruh,15000,3 - 6
+Kab. Sukabumi,Jampang Kulon,15000,3 - 6
+Kab. Sukabumi,Jampang Tengah,15000,3 - 6
+Kab. Sukabumi,Kabandungan,15000,3 - 6
+Kab. Sukabumi,Kadudampit,15000,3 - 6
+Kab. Sukabumi,Kalapa Nunggal,15000,3 - 6
+Kab. Sukabumi,Kalibunder,15000,3 - 6
+Kab. Sukabumi,Kebonpedes,15000,3 - 6
+Kab. Sukabumi,Lengkong,15000,3 - 6
+Kab. Sukabumi,Nagrak,15000,3 - 6
+Kab. Sukabumi,Nyalindung,15000,3 - 6
+Kab. Sukabumi,Pabuaran,15000,3 - 6
+Kab. Sukabumi,Parung Kuda,15000,3 - 6
+Kab. Sukabumi,Parakan Salak,15000,3 - 6
+Kab. Sukabumi,Pelabuhan Ratu,12000,2 - 3
+Kab. Sukabumi,Purabaya,15000,3 - 6
+Kab. Sukabumi,Sagaranten,15000,3 - 6
+Kab. Sukabumi,Simpenan,15000,3 - 6
+Kab. Sukabumi,Sukalarang,15000,3 - 6
+Kab. Sukabumi,Sukaraja,15000,3 - 6
+Kab. Sukabumi,Surade,15000,3 - 6
+Kab. Sukabumi,Tegal Buleud,15000,3 - 6
+Kab. Sukabumi,Waluran,15000,3 - 6
+Kab. Sukabumi,Warung Kiara,15000,3 - 6
+Kota Sukabumi,LEMBUR SITU,9000,1 - 2
+Kota Sukabumi,Cikole,9000,1 - 2
+Kota Sukabumi,Citamiang,9000,1 - 2
+Kota Sukabumi,GUNUNG PUYUH,9000,1 - 2
+Kota Sukabumi,Warudoyong,9000,1 - 2
+Kota Sukabumi,Cibeureum,9000,1 - 2
+Kab. Cianjur,Cianjur,12000,2 - 3
+Kab. Cianjur,Agrabinta,15000,3 - 6
+Kab. Cianjur,Bojongpicung,15000,3 - 6
+Kab. Cianjur,Campaka,15000,3 - 6
+Kab. Cianjur,Cibeber,15000,3 - 6
+Kab. Cianjur,Cibinong,15000,3 - 6
+Kab. Cianjur,Cidaun,15000,3 - 6
+Kab. Cianjur,CIKALONG KULON,15000,3 - 6
+Kab. Cianjur,Cilaku,15000,3 - 6
+Kab. Cianjur,Ciranjang,15000,3 - 6
+Kab. Cianjur,Cugenang,15000,3 - 6
+Kab. Cianjur,Kadupandak,15000,3 - 6
+Kab. Cianjur,Karangtengah,15000,3 - 6
+Kab. Cianjur,Mande,15000,3 - 6
+Kab. Cianjur,Naringgul,15000,3 - 6
+Kab. Cianjur,Pacet,15000,3 - 6
+Kab. Cianjur,Pagelaran,15000,3 - 6
+Kab. Cianjur,Sindangbarang,15000,3 - 6
+Kab. Cianjur,Sukaluyu,15000,3 - 6
+Kab. Cianjur,Sukanagara,15000,3 - 6
+Kab. Cianjur,Sukaresmi,15000,3 - 6
+Kab. Cianjur,Takokak,15000,3 - 6
+Kab. Cianjur,Tanggeung,15000,3 - 6
+Kab. Cianjur,Warungkondang,15000,3 - 6
+Kab. Cianjur,Cipanas,15000,3 - 6
+Kab. Cianjur,Campaka Mulya,15000,3 - 6
+Kab. Cianjur,Cijati,15000,3 - 6
+Kab. Cianjur,Cikadu,15000,3 - 6
+Kab. Cianjur,Gekbrong,15000,3 - 6
+Kab. Cianjur,Leles,15000,3 - 6
+Kota Surakarta,Solo,16000,1 - 2
+Kota Surakarta,Banjarsari,16000,1 - 2
+Kota Surakarta,Jebres,16000,1 - 2
+Kota Surakarta,Laweyan,16000,1 - 2
+Kota Surakarta,Pasar Kliwon,16000,1 - 2
+Kota Surakarta,Serengan,16000,1 - 2
+Kab. Boyolali,Boyolali,20000,2 - 3
+Kab. Boyolali,Ampel,25000,3 - 6
+Kab. Boyolali,Andong,25000,3 - 6
+Kab. Boyolali,Banyudono,25000,3 - 6
+Kab. Boyolali,Cepogo,25000,3 - 6
+Kab. Boyolali,Juwangi,25000,3 - 6
+Kab. Boyolali,Karanggede,25000,3 - 6
+Kab. Boyolali,Kemusu,25000,3 - 6
+Kab. Boyolali,Klego,25000,3 - 6
+Kab. Boyolali,Ngemplak,25000,3 - 6
+Kab. Boyolali,Nogosari,25000,3 - 6
+Kab. Boyolali,Sambi,25000,3 - 6
+Kab. Boyolali,Sawit,25000,3 - 6
+Kab. Boyolali,Selo,25000,3 - 6
+Kab. Boyolali,Simo,25000,3 - 6
+Kab. Boyolali,Teras,25000,3 - 6
+Kab. Boyolali,Wonosegoro,25000,3 - 6
+Kab. Boyolali,Musuk,25000,3 - 6
+Kab. Boyolali,Mojosongo,25000,3 - 6
+Kab. Karang Anyar,Karanganyar,20000,2 - 3
+Kab. Karang Anyar,Jatipuro,25000,3 - 6
+Kab. Karang Anyar,Jatiyoso,25000,3 - 6
+Kab. Karang Anyar,Jenawi,25000,3 - 6
+Kab. Karang Anyar,Jumantono,25000,3 - 6
+Kab. Karang Anyar,Jumapolo,25000,3 - 6
+Kab. Karang Anyar,Karangpandan,25000,3 - 6
+Kab. Karang Anyar,Kebakkramat,25000,3 - 6
+Kab. Karang Anyar,Kerjo,25000,3 - 6
+Kab. Karang Anyar,Matesih,25000,3 - 6
+Kab. Karang Anyar,Mojogedang,25000,3 - 6
+Kab. Karang Anyar,Ngargoyoso,25000,3 - 6
+Kab. Karang Anyar,Tawangmangu,25000,3 - 6
+Kab. Karang Anyar,Colomadu,25000,3 - 6
+Kab. Karang Anyar,Gondangrejo,25000,3 - 6
+Kab. Karang Anyar,Jaten,25000,3 - 6
+Kab. Karang Anyar,Tasikmadu,25000,3 - 6
+Kab. Klaten,Klaten,20000,2 - 3
+Kab. Klaten,Bayat,25000,3 - 6
+Kab. Klaten,Cawas,25000,3 - 6
+Kab. Klaten,Ceper,25000,3 - 6
+Kab. Klaten,Delanggu,25000,3 - 6
+Kab. Klaten,Gantiwarno,25000,3 - 6
+Kab. Klaten,Jatinom,25000,3 - 6
+Kab. Klaten,Jogonalan,25000,3 - 6
+Kab. Klaten,Juwiring,25000,3 - 6
+Kab. Klaten,Kalikotes,25000,3 - 6
+Kab. Klaten,Karangnongko,25000,3 - 6
+Kab. Klaten,Karanganom,25000,3 - 6
+Kab. Klaten,Karangdowo,25000,3 - 6
+Kab. Klaten,Kebonarum,25000,3 - 6
+Kab. Klaten,Kemalang,25000,3 - 6
+Kab. Klaten,Manisrenggo,25000,3 - 6
+Kab. Klaten,Ngawen,25000,3 - 6
+Kab. Klaten,Pedan,25000,3 - 6
+Kab. Klaten,Polanharjo,25000,3 - 6
+Kab. Klaten,Prambanan,25000,3 - 6
+Kab. Klaten,Trucuk,25000,3 - 6
+Kab. Klaten,Tulung,25000,3 - 6
+Kab. Klaten,Wedi,25000,3 - 6
+Kab. Klaten,Wonosari,25000,3 - 6
+Kab. Klaten,Klaten Selatan,25000,3 - 6
+Kab. Klaten,Klaten Tengah,25000,3 - 6
+Kab. Klaten,Klaten Utara,25000,3 - 6
+Kab. Sragen,Sragen,20000,2 - 3
+Kab. Sragen,Gesi,25000,3 - 6
+Kab. Sragen,Gemolong,25000,3 - 6
+Kab. Sragen,Gondang,25000,3 - 6
+Kab. Sragen,Jenar,25000,3 - 6
+Kab. Sragen,Kalijambe,25000,3 - 6
+Kab. Sragen,Kedawung,25000,3 - 6
+Kab. Sragen,Miri,25000,3 - 6
+Kab. Sragen,Masaran,25000,3 - 6
+Kab. Sragen,Mondokan,25000,3 - 6
+Kab. Sragen,Ngrampal,25000,3 - 6
+Kab. Sragen,Plupuh,25000,3 - 6
+Kab. Sragen,Sambungmacan,25000,3 - 6
+Kab. Sragen,Sambirejo,25000,3 - 6
+Kab. Sragen,Sidoharjo,25000,3 - 6
+Kab. Sragen,Sukodono,25000,3 - 6
+Kab. Sragen,Sumberlawang,25000,3 - 6
+Kab. Sragen,Tanon,25000,3 - 6
+Kab. Sragen,Tangen,25000,3 - 6
+Kab. Sragen,Karangmalang,25000,3 - 6
+Kab. Sukoharjo,Sukoharjo,20000,2 - 3
+Kab. Sukoharjo,Bulu,25000,3 - 6
+Kab. Sukoharjo,Mojolaban / Palur,25000,3 - 6
+Kab. Sukoharjo,Nguter,25000,3 - 6
+Kab. Sukoharjo,Polokarto,25000,3 - 6
+Kab. Sukoharjo,Tawangsari,25000,3 - 6
+Kab. Sukoharjo,Weru,25000,3 - 6
+Kab. Sukoharjo,Baki,25000,3 - 6
+Kab. Sukoharjo,Bendosari,25000,3 - 6
+Kab. Sukoharjo,Gatak,25000,3 - 6
+Kab. Sukoharjo,Grogol,25000,3 - 6
+Kab. Sukoharjo,Kartasura,20000,2 - 3
+Kab. Wonogiri,Wonogiri,20000,2 - 3
+Kab. Wonogiri,Baturetno,25000,3 - 6
+Kab. Wonogiri,Batuwarno,25000,3 - 6
+Kab. Wonogiri,Bulukerto,25000,3 - 6
+Kab. Wonogiri,Eromoko,25000,3 - 6
+Kab. Wonogiri,Girimarto,25000,3 - 6
+Kab. Wonogiri,Giritontro,25000,3 - 6
+Kab. Wonogiri,Giriwoyo,25000,3 - 6
+Kab. Wonogiri,Jatipurno,25000,3 - 6
+Kab. Wonogiri,Jatiroto,25000,3 - 6
+Kab. Wonogiri,Jatisrono,25000,3 - 6
+Kab. Wonogiri,Karangtengah,25000,3 - 6
+Kab. Wonogiri,Kismantoro,25000,3 - 6
+Kab. Wonogiri,Manyaran,25000,3 - 6
+Kab. Wonogiri,Ngadirojo,25000,3 - 6
+Kab. Wonogiri,Nguntoronadi,25000,3 - 6
+Kab. Wonogiri,Pracimantoro,25000,3 - 6
+Kab. Wonogiri,Purwantoro,25000,3 - 6
+Kab. Wonogiri,Selogiri,25000,3 - 6
+Kab. Wonogiri,Sidoharjo,25000,3 - 6
+Kab. Wonogiri,Slogohimo,25000,3 - 6
+Kab. Wonogiri,Tirtomoyo,25000,3 - 6
+Kab. Wonogiri,Wuryantoro,25000,3 - 6
+Kab. Wonogiri,Puhpelem,25000,3 - 6
+Kab. Wonogiri,Paranggupito,25000,3 - 6
+Kab. Manokwari,Manokwari,115000,4 - 6
+Kab. Manokwari,Amberbaken,144000,6 - 9
+Kab. Manokwari,Anggi,144000,6 - 9
+Kab. Manokwari,Kebar,144000,6 - 9
+Kab. Manokwari,Oransbari,144000,6 - 9
+Kab. Manokwari,Ransiki,144000,6 - 9
+Kab. Manokwari,Warmare,144000,6 - 9
+Kab. Manokwari,Masni,144000,6 - 9
+Kab. Manokwari,Minyambouw,144000,6 - 9
+Kab. Manokwari,Prafi,144000,6 - 9
+Kab. Manokwari,Sugurey,144000,6 - 9
+Kab. Sorong,Sorong,80000,2 - 4
+Kab. Sorong,Makbon,144000,6 - 9
+Kab. Sorong,Moraid,144000,6 - 9
+Kab. Sorong,Salawati,144000,6 - 9
+Kab. Sorong,Sausapor,144000,6 - 9
+Kab. Sorong,Seget,144000,6 - 9
+Kab. Sorong,Abun,144000,6 - 9
+Kab. Sorong,Aimas,144000,6 - 9
+Kab. Sorong,Beraur,144000,6 - 9
+Kab. Sorong,Fef,144000,6 - 9
+Kab. Sorong,Klamono,144000,6 - 9
+Kab. Sorong,Sayosa,144000,6 - 9
+Kab. Sorong,Segun,144000,6 - 9
+Kota Sorong,Sorong Barat,80000,2 - 4
+Kota Sorong,Sorong Timur,80000,2 - 4
+Kab. Fak-Fak,FAK-FAK,115000,4 - 6
+Kab. Fak-Fak,Fakfak Barat,144000,6 - 9
+Kab. Fak-Fak,Fakfak Timur,144000,6 - 9
+Kab. Fak-Fak,Kokas,144000,6 - 9
+Kab. Kaimana,Kaimana,115000,4 - 6
+Kab. Kaimana,Buruwai,144000,6 - 9
+Kab. Kaimana,Teluk Arguni,144000,6 - 9
+Kab. Kaimana,Teluk Etna,144000,6 - 9
+Kab. Raja Ampat,Waisai,115000,4 - 6
+Kab. Raja Ampat,Kepulauan Ayau,144000,6 - 9
+Kab. Raja Ampat,Kofiau,144000,6 - 9
+Kab. Raja Ampat,Misool,144000,6 - 9
+Kab. Raja Ampat,Misool Timur Selatan,144000,6 - 9
+Kab. Raja Ampat,Samate,144000,6 - 9
+Kab. Raja Ampat,Teluk Mayalibit,144000,6 - 9
+Kab. Raja Ampat,Waigeo Barat,144000,6 - 9
+Kab. Raja Ampat,Waigeo Selatan,144000,6 - 9
+Kab. Raja Ampat,Waigeo Timur,144000,6 - 9
+Kab. Raja Ampat,Waigeo Utara,144000,6 - 9
+Kab. Sorong Selatan,Teminabuan,115000,4 - 6
+Kab. Sorong Selatan,Aifat,144000,6 - 9
+Kab. Sorong Selatan,Aifat Timur,144000,6 - 9
+Kab. Sorong Selatan,Aitinyo,144000,6 - 9
+Kab. Sorong Selatan,Ayamaru,144000,6 - 9
+Kab. Sorong Selatan,Ayamaru Utara,144000,6 - 9
+Kab. Sorong Selatan,Inanwatan,144000,6 - 9
+Kab. Sorong Selatan,Kais,144000,6 - 9
+Kab. Sorong Selatan,Kokoda,144000,6 - 9
+Kab. Sorong Selatan,Mare,144000,6 - 9
+Kab. Sorong Selatan,Moswaren,144000,6 - 9
+Kab. Sorong Selatan,Sawiat,144000,6 - 9
+Kab. Sorong Selatan,Seremuk,144000,6 - 9
+Kab. Sorong Selatan,Wayer,144000,6 - 9
+Kab. Teluk Bintuni,Bintuni,115000,4 - 6
+Kab. Teluk Bintuni,Aranday,144000,6 - 9
+Kab. Teluk Bintuni,Babo,144000,6 - 9
+Kab. Teluk Bintuni,Fafuwar,144000,6 - 9
+Kab. Teluk Bintuni,Door,144000,6 - 9
+Kab. Teluk Bintuni,Kuri,144000,6 - 9
+Kab. Teluk Bintuni,Merdey,144000,6 - 9
+Kab. Teluk Bintuni,Moskona Selatan,144000,6 - 9
+Kab. Teluk Bintuni,Moskona Utara,144000,6 - 9
+Kab. Teluk Bintuni,Tembuni,144000,6 - 9
+Kab. Teluk Wondama,Rasei,115000,4 - 6
+Kab. Teluk Wondama,Rumberpon,144000,6 - 9
+Kab. Teluk Wondama,Wamesa,144000,6 - 9
+Kab. Teluk Wondama,Wasior,144000,6 - 9
+Kab. Teluk Wondama,Wasior Barat,144000,6 - 9
+Kab. Teluk Wondama,Wasior Selatan,144000,6 - 9
+Kab. Teluk Wondama,Wasior Utara,144000,6 - 9
+Kab. Teluk Wondama,Windesi,144000,6 - 9
+Kota Semarang,Semarang,16000,1 - 2
+Kota Semarang,Banyumanik,16000,1 - 2
+Kota Semarang,Candisari,16000,1 - 2
+Kota Semarang,Gajahmungkur,16000,1 - 2
+Kota Semarang,Gayamsari,16000,1 - 2
+Kota Semarang,Genuk,16000,1 - 2
+Kota Semarang,Gunungpati,16000,1 - 2
+Kota Semarang,Mijen,16000,1 - 2
+Kota Semarang,Ngaliyan,16000,1 - 2
+Kota Semarang,Pedurungan,16000,1 - 2
+Kota Semarang,Semarang Barat,16000,1 - 2
+Kota Semarang,Semarang Selatan,16000,1 - 2
+Kota Semarang,Semarang Tengah,16000,1 - 2
+Kota Semarang,Semarang Timur,16000,1 - 2
+Kota Semarang,Semarang Utara,16000,1 - 2
+Kota Semarang,Tembalang,16000,1 - 2
+Kota Semarang,Tugu,16000,1 - 2
+Kab. Jepara,Jepara,20000,2 - 3
+Kab. Jepara,Bangsri,25000,3 - 6
+Kab. Jepara,Batealit,25000,3 - 6
+Kab. Jepara,Karimunjawa,38000,+ 10
+Kab. Jepara,Kedung,25000,3 - 6
+Kab. Jepara,Keling,25000,3 - 6
+Kab. Jepara,Mayong,25000,3 - 6
+Kab. Jepara,Mlonggo,25000,3 - 6
+Kab. Jepara,Nalumsari,25000,3 - 6
+Kab. Jepara,Pecangaan,25000,3 - 6
+Kab. Jepara,Welahan,25000,3 - 6
+Kab. Jepara,Kalinyamatan,25000,3 - 6
+Kab. Jepara,Kembang,25000,3 - 6
+Kab. Jepara,Tahunan,25000,3 - 6
+Kab. Kudus,Kudus,20000,2 - 3
+Kab. Kudus,Dawe,25000,3 - 6
+Kab. Kudus,Jekulo,25000,3 - 6
+Kab. Kudus,Mejobo,25000,3 - 6
+Kab. Kudus,Undaan,25000,3 - 6
+Kab. Kudus,Gebog,25000,3 - 6
+Kab. Kudus,Jati,25000,3 - 6
+Kab. Kudus,Kaliwungu,25000,3 - 6
+Kab. Kudus,Bae,25000,3 - 6
+Kota Pekalongan,Pekalongan,20000,2 - 3
+Kota Pekalongan,Pekalongan Barat,20000,2 - 3
+Kota Pekalongan,Pekalongan Selatan,20000,2 - 3
+Kota Pekalongan,Pekalongan Timur,20000,2 - 3
+Kota Pekalongan,Pekalongan Utara,20000,2 - 3
+Kab. Banyumas,Purwokerto,20000,2 - 3
+Kab. Banyumas,Ajibarang,20000,2 - 3
+Kab. Banyumas,Banyumas,20000,2 - 3
+Kab. Banyumas,Baturaden,25000,3 - 6
+Kab. Banyumas,Cilongok,25000,3 - 6
+Kab. Banyumas,Gumelar,25000,3 - 6
+Kab. Banyumas,Jatilawang,25000,3 - 6
+Kab. Banyumas,Kalibagor,25000,3 - 6
+Kab. Banyumas,Karanglewas,25000,3 - 6
+Kab. Banyumas,Kebasen,25000,3 - 6
+Kab. Banyumas,Kedungbanteng,25000,3 - 6
+Kab. Banyumas,Kembaran,25000,3 - 6
+Kab. Banyumas,Kemranjen,25000,3 - 6
+Kab. Banyumas,Lumbir,25000,3 - 6
+Kab. Banyumas,Pakuncen,25000,3 - 6
+Kab. Banyumas,Patikraja,25000,3 - 6
+Kab. Banyumas,Purwojati,25000,3 - 6
+Kab. Banyumas,Rawalo,25000,3 - 6
+Kab. Banyumas,Sokaraja,25000,3 - 6
+Kab. Banyumas,Somagede,25000,3 - 6
+Kab. Banyumas,Sumpyuh /Sumpiuh,25000,3 - 6
+Kab. Banyumas,Sumbang,25000,3 - 6
+Kab. Banyumas,Tambak,25000,3 - 6
+Kab. Banyumas,Wangon,25000,3 - 6
+Kab. Banyumas,Purwokerto Barat,25000,3 - 6
+Kab. Banyumas,Purwokerto Selatan,25000,3 - 6
+Kab. Banyumas,Purwokerto Timur,25000,3 - 6
+Kab. Banyumas,Purwokerto Utara,25000,3 - 6
+Kab. Batang,Batang,20000,2 - 3
+Kab. Batang,Bandar,25000,3 - 6
+Kab. Batang,Bawang,25000,3 - 6
+Kab. Batang,Blado,25000,3 - 6
+Kab. Batang,Gringsing,25000,3 - 6
+Kab. Batang,Limpung,25000,3 - 6
+Kab. Batang,Reban,25000,3 - 6
+Kab. Batang,Subah,25000,3 - 6
+Kab. Batang,Tersono,25000,3 - 6
+Kab. Batang,Tulis,25000,3 - 6
+Kab. Batang,Warungasem,25000,3 - 6
+Kab. Batang,Wonotunggal,25000,3 - 6
+Kab. Batang,Banyuputih,25000,3 - 6
+Kab. Batang,Kandeman,25000,3 - 6
+Kab. Batang,Pecalungan,25000,3 - 6
+Kab. Blora,Blora,20000,2 - 3
+Kab. Blora,Banjarejo,25000,3 - 6
+Kab. Blora,Bogorejo,25000,3 - 6
+Kab. Blora,Japah,25000,3 - 6
+Kab. Blora,Jepon,25000,3 - 6
+Kab. Blora,Kunduran,25000,3 - 6
+Kab. Blora,Ngawen,25000,3 - 6
+Kab. Blora,Todanan,25000,3 - 6
+Kab. Blora,Tunjungan,25000,3 - 6
+Kab. Blora,Cepu,20000,2 - 3
+Kab. Blora,Jati,25000,3 - 6
+Kab. Blora,Jiken,25000,3 - 6
+Kab. Blora,Kedungtuban,25000,3 - 6
+Kab. Blora,Kradenan /menden,25000,3 - 6
+Kab. Blora,Randublatung,25000,3 - 6
+Kab. Blora,Sambong,25000,3 - 6
+Kab. Bojonegoro,Bojonegoro,20000,2 - 3
+Kab. Bojonegoro,Balen,25000,3 - 6
+Kab. Bojonegoro,Baureno,25000,3 - 6
+Kab. Bojonegoro,Bubulan,25000,3 - 6
+Kab. Bojonegoro,Dander,25000,3 - 6
+Kab. Bojonegoro,Kalitidu,25000,3 - 6
+Kab. Bojonegoro,Kanor,25000,3 - 6
+Kab. Bojonegoro,Kapas,25000,3 - 6
+Kab. Bojonegoro,Kasiman,25000,3 - 6
+Kab. Bojonegoro,Kedungadem,25000,3 - 6
+Kab. Bojonegoro,Kepohbaru,25000,3 - 6
+Kab. Bojonegoro,Malo,25000,3 - 6
+Kab. Bojonegoro,Margomulyo,25000,3 - 6
+Kab. Bojonegoro,Ngambon,25000,3 - 6
+Kab. Bojonegoro,Ngasem,25000,3 - 6
+Kab. Bojonegoro,Ngraho,25000,3 - 6
+Kab. Bojonegoro,Padangan,25000,3 - 6
+Kab. Bojonegoro,Purwosari,25000,3 - 6
+Kab. Bojonegoro,Sugihwaras,25000,3 - 6
+Kab. Bojonegoro,Sumberejo,25000,3 - 6
+Kab. Bojonegoro,Tambakrejo,25000,3 - 6
+Kab. Bojonegoro,Temayang,25000,3 - 6
+Kab. Bojonegoro,Trucuk,25000,3 - 6
+Kab. Bojonegoro,Kedewan,25000,3 - 6
+Kab. Bojonegoro,Sekar,25000,3 - 6
+Kab. Bojonegoro,Sukosewu,25000,3 - 6
+Kab. Bojonegoro,Gondang,25000,3 - 6
+Kab. Brebes,Brebes,20000,2 - 3
+Kab. Brebes,Banjarharjo,25000,3 - 6
+Kab. Brebes,Bantarkawung,25000,3 - 6
+Kab. Brebes,Bulakamba,25000,3 - 6
+Kab. Brebes,Bumiayu,20000,2 - 3
+Kab. Brebes,Jatibarang,25000,3 - 6
+Kab. Brebes,Kersana,25000,3 - 6
+Kab. Brebes,Ketanggungan,25000,3 - 6
+Kab. Brebes,Larangan,25000,3 - 6
+Kab. Brebes,Losari,25000,3 - 6
+Kab. Brebes,Paguyangan,25000,3 - 6
+Kab. Brebes,Salem,25000,3 - 6
+Kab. Brebes,Sirampog,25000,3 - 6
+Kab. Brebes,Songgom,25000,3 - 6
+Kab. Brebes,Tanjung,25000,3 - 6
+Kab. Brebes,Tonjong,25000,3 - 6
+Kab. Brebes,Wanasari,25000,3 - 6
+Kab. Demak,Demak,20000,2 - 3
+Kab. Demak,Bonang,25000,3 - 6
+Kab. Demak,Dempet,25000,3 - 6
+Kab. Demak,Gajah,25000,3 - 6
+Kab. Demak,Guntur,25000,3 - 6
+Kab. Demak,Karangtengah,25000,3 - 6
+Kab. Demak,Karangawen,25000,3 - 6
+Kab. Demak,Karanganyar,25000,3 - 6
+Kab. Demak,Mijen,25000,3 - 6
+Kab. Demak,Mranggen,25000,3 - 6
+Kab. Demak,Sayung,25000,3 - 6
+Kab. Demak,Wedung,25000,3 - 6
+Kab. Demak,Wonosalam,25000,3 - 6
+Kab. Demak,Kebonagung,25000,3 - 6
+Kab. Kendal,Kendal,20000,2 - 3
+Kab. Kendal,Boja,25000,3 - 6
+Kab. Kendal,Brangsong,25000,3 - 6
+Kab. Kendal,Cepiring,25000,3 - 6
+Kab. Kendal,Gemuh,25000,3 - 6
+Kab. Kendal,Kaliwungu,25000,3 - 6
+Kab. Kendal,Limbangan,25000,3 - 6
+Kab. Kendal,Pagerruyung,25000,3 - 6
+Kab. Kendal,Patebon,25000,3 - 6
+Kab. Kendal,Patean,25000,3 - 6
+Kab. Kendal,Pegandon,25000,3 - 6
+Kab. Kendal,Plantungan,25000,3 - 6
+Kab. Kendal,Sukorejo,25000,3 - 6
+Kab. Kendal,Weleri,25000,3 - 6
+Kab. Kendal,Kangkung,25000,3 - 6
+Kab. Kendal,Ngampel,25000,3 - 6
+Kab. Kendal,Ringinarum,25000,3 - 6
+Kab. Kendal,Rowosari /Weleri Utara,25000,3 - 6
+Kab. Kendal,Singorojo,25000,3 - 6
+Kab. Pati,Pati,20000,2 - 3
+Kab. Pati,Batangan,25000,3 - 6
+Kab. Pati,Cluwak,25000,3 - 6
+Kab. Pati,Dukuhseti,25000,3 - 6
+Kab. Pati,Gabus,25000,3 - 6
+Kab. Pati,Gembong,25000,3 - 6
+Kab. Pati,Gunungwungkal,25000,3 - 6
+Kab. Pati,Jaken,25000,3 - 6
+Kab. Pati,Jakenan,25000,3 - 6
+Kab. Pati,Juwana,25000,3 - 6
+Kab. Pati,Kayen,25000,3 - 6
+Kab. Pati,Margorejo,25000,3 - 6
+Kab. Pati,Margoyoso,25000,3 - 6
+Kab. Pati,Pucakwangi,25000,3 - 6
+Kab. Pati,Sukolilo,25000,3 - 6
+Kab. Pati,Tambakromo,25000,3 - 6
+Kab. Pati,Tayu,25000,3 - 6
+Kab. Pati,Telogowungu,25000,3 - 6
+Kab. Pati,Trangkil,25000,3 - 6
+Kab. Pati,Wedarijaksa,25000,3 - 6
+Kab. Pati,Winong,25000,3 - 6
+Kab. Pemalang,Pemalang,20000,2 - 3
+Kab. Pemalang,Ampelgading,25000,3 - 6
+Kab. Pemalang,Bantarbolang,25000,3 - 6
+Kab. Pemalang,Belik,25000,3 - 6
+Kab. Pemalang,Bodeh,25000,3 - 6
+Kab. Pemalang,Comal,25000,3 - 6
+Kab. Pemalang,Moga,25000,3 - 6
+Kab. Pemalang,Petarukan,25000,3 - 6
+Kab. Pemalang,Pulosari,25000,3 - 6
+Kab. Pemalang,Randudongkal,25000,3 - 6
+Kab. Pemalang,Taman,25000,3 - 6
+Kab. Pemalang,Ulujami,25000,3 - 6
+Kab. Pemalang,Warungpring,25000,3 - 6
+Kab. Pemalang,Watukumpul,25000,3 - 6
+Kab. Grobogan,Purwodadi,20000,2 - 3
+Kab. Grobogan,Brati,25000,3 - 6
+Kab. Grobogan,Gabus,25000,3 - 6
+Kab. Grobogan,Geyer,25000,3 - 6
+Kab. Grobogan,Godong,25000,3 - 6
+Kab. Grobogan,Grobogan,25000,3 - 6
+Kab. Grobogan,Gubug,25000,3 - 6
+Kab. Grobogan,Karangrayung,25000,3 - 6
+Kab. Grobogan,Kedungjati,25000,3 - 6
+Kab. Grobogan,Klambu,25000,3 - 6
+Kab. Grobogan,Kradenan,25000,3 - 6
+Kab. Grobogan,Ngaringan,25000,3 - 6
+Kab. Grobogan,Penawangan,25000,3 - 6
+Kab. Grobogan,Pulokulon,25000,3 - 6
+Kab. Grobogan,Tanggungharjo,25000,3 - 6
+Kab. Grobogan,Tawangharjo,25000,3 - 6
+Kab. Grobogan,Tegowanu,25000,3 - 6
+Kab. Grobogan,Toroh,25000,3 - 6
+Kab. Grobogan,Wirosari,25000,3 - 6
+Kab. Rembang,Rembang,20000,2 - 3
+Kab. Rembang,Bulu,25000,3 - 6
+Kab. Rembang,Gunem,25000,3 - 6
+Kab. Rembang,Kaliori,25000,3 - 6
+Kab. Rembang,Kragan,25000,3 - 6
+Kab. Rembang,Lasem,25000,3 - 6
+Kab. Rembang,Pamotan,25000,3 - 6
+Kab. Rembang,Pancur,25000,3 - 6
+Kab. Rembang,Sale,25000,3 - 6
+Kab. Rembang,Sarang,25000,3 - 6
+Kab. Rembang,Sedan,25000,3 - 6
+Kab. Rembang,Sluke,25000,3 - 6
+Kab. Rembang,Sulang,25000,3 - 6
+Kab. Rembang,Sumber,25000,3 - 6
+Kota Salatiga,Salatiga,20000,2 - 3
+Kota Salatiga,Argomulyo,20000,2 - 3
+Kota Salatiga,Sidomukti,20000,2 - 3
+Kota Salatiga,Sidorejo,20000,2 - 3
+Kota Salatiga,Tingkir,20000,2 - 3
+Kab. Tegal,Slawi,20000,2 - 3
+Kab. Tegal,Balapulang,25000,3 - 6
+Kab. Tegal,Bojong,25000,3 - 6
+Kab. Tegal,Bumijawa,25000,3 - 6
+Kab. Tegal,Dukuhwaru,25000,3 - 6
+Kab. Tegal,Jatinegara,25000,3 - 6
+Kab. Tegal,Kedungbanteng,25000,3 - 6
+Kab. Tegal,Lebaksiu,25000,3 - 6
+Kab. Tegal,Margasari,25000,3 - 6
+Kab. Tegal,Pagerbarang,25000,3 - 6
+Kab. Tegal,Pangkah,25000,3 - 6
+Kab. Tegal,Adiwerna,25000,3 - 6
+Kab. Tegal,Dukuhturi,25000,3 - 6
+Kab. Tegal,Kramat,25000,3 - 6
+Kab. Tegal,Suradadi,25000,3 - 6
+Kab. Tegal,Talang,25000,3 - 6
+Kab. Tegal,Tarub,25000,3 - 6
+Kab. Tegal,Warureja,25000,3 - 6
+Kota Tegal,Tegal,20000,2 - 3
+Kota Tegal,Margadana,20000,2 - 3
+Kota Tegal,Tegal Barat,20000,2 - 3
+Kota Tegal,Tegal Selatan,20000,2 - 3
+Kota Tegal,Tegal Timur,20000,2 - 3
+Kab. Semarang,Ungaran,16000,1 - 2
+Kab. Semarang,Ambarawa,20000,2 - 3
+Kab. Semarang,Banyubiru,25000,3 - 6
+Kab. Semarang,Bancak,25000,3 - 6
+Kab. Semarang,Bawen / Doplang,25000,3 - 6
+Kab. Semarang,Bergas,25000,3 - 6
+Kab. Semarang,Bringin,25000,3 - 6
+Kab. Semarang,Getasan,25000,3 - 6
+Kab. Semarang,Jambu,25000,3 - 6
+Kab. Semarang,Kaliwungu,25000,3 - 6
+Kab. Semarang,Pabelan,25000,3 - 6
+Kab. Semarang,Pringapus,25000,3 - 6
+Kab. Semarang,Susukan,25000,3 - 6
+Kab. Semarang,Suruh,25000,3 - 6
+Kab. Semarang,Sumowono,25000,3 - 6
+Kab. Semarang,Tengaran,25000,3 - 6
+Kab. Semarang,Tuntang,25000,3 - 6
+Kab. Semarang,Ungaran Barat,25000,3 - 6
+Kab. Semarang,Ungaran Timur,25000,3 - 6
+Kab. Purbalingga,Purbalingga,20000,2 - 3
+Kab. Purbalingga,Bobotsari,25000,3 - 6
+Kab. Purbalingga,Bojongsari,25000,3 - 6
+Kab. Purbalingga,Bukateja,25000,3 - 6
+Kab. Purbalingga,Kaligondang,25000,3 - 6
+Kab. Purbalingga,Kalimanah,25000,3 - 6
+Kab. Purbalingga,Karanganyar,25000,3 - 6
+Kab. Purbalingga,Karangmoncol,25000,3 - 6
+Kab. Purbalingga,Karangreja,25000,3 - 6
+Kab. Purbalingga,Kejobong,25000,3 - 6
+Kab. Purbalingga,Kemangkon,25000,3 - 6
+Kab. Purbalingga,Kutasari,25000,3 - 6
+Kab. Purbalingga,Mrebet,25000,3 - 6
+Kab. Purbalingga,Rembang,20000,2 - 3
+Kab. Purbalingga,Karangjambu,25000,3 - 6
+Kab. Purbalingga,Kertanegara,25000,3 - 6
+Kab. Purbalingga,Padamara,25000,3 - 6
+Kab. Purbalingga,Pengadegan,25000,3 - 6
+Kab. Banjarnegara,Banjarnegara,20000,2 - 3
+Kab. Banjarnegara,Banjarmangu,25000,3 - 6
+Kab. Banjarnegara,Batur,25000,3 - 6
+Kab. Banjarnegara,Bawang,25000,3 - 6
+Kab. Banjarnegara,Kalibening,25000,3 - 6
+Kab. Banjarnegara,Karangkobar,25000,3 - 6
+Kab. Banjarnegara,Madukara,25000,3 - 6
+Kab. Banjarnegara,Mandiraja,25000,3 - 6
+Kab. Banjarnegara,Pagentan,25000,3 - 6
+Kab. Banjarnegara,Pejawaran,25000,3 - 6
+Kab. Banjarnegara,Punggelan,25000,3 - 6
+Kab. Banjarnegara,Purwanegara,25000,3 - 6
+Kab. Banjarnegara,Purworejo Klampok,25000,3 - 6
+Kab. Banjarnegara,Rakit,25000,3 - 6
+Kab. Banjarnegara,Sigaluh,25000,3 - 6
+Kab. Banjarnegara,Susukan,25000,3 - 6
+Kab. Banjarnegara,Wanadadi,25000,3 - 6
+Kab. Banjarnegara,Wanayasa,25000,3 - 6
+Kab. Pekalongan,Kajen,25000,3 - 6
+Kab. Pekalongan,Bojong,25000,3 - 6
+Kab. Pekalongan,Buaran,25000,3 - 6
+Kab. Pekalongan,Doro,25000,3 - 6
+Kab. Pekalongan,KANDANG SERANG,25000,3 - 6
+Kab. Pekalongan,Karanganyar,25000,3 - 6
+Kab. Pekalongan,Karangdadap,25000,3 - 6
+Kab. Pekalongan,Kedungwuni,25000,3 - 6
+Kab. Pekalongan,Kesesi,25000,3 - 6
+Kab. Pekalongan,LEBAK BARANG,25000,3 - 6
+Kab. Pekalongan,Paninggaran,25000,3 - 6
+Kab. Pekalongan,Petungkriono,25000,3 - 6
+Kab. Pekalongan,Siwalan,25000,3 - 6
+Kab. Pekalongan,Sragi,25000,3 - 6
+Kab. Pekalongan,Talun,25000,3 - 6
+Kab. Pekalongan,Tirto,25000,3 - 6
+Kab. Pekalongan,Wiradesa,25000,3 - 6
+Kab. Pekalongan,Wonokerto,25000,3 - 6
+Kab. Pekalongan,Wonopringgo,25000,3 - 6
+Kota Surabaya,Surabaya,17000,1 - 2
+Kota Surabaya,Asemrowo,17000,1 - 2
+Kota Surabaya,Benowo,17000,1 - 2
+Kota Surabaya,Bubutan,17000,1 - 2
+Kota Surabaya,Bulak,17000,1 - 2
+Kota Surabaya,Dukuh Pakis,17000,1 - 2
+Kota Surabaya,Gayungan,17000,1 - 2
+Kota Surabaya,Genteng,17000,1 - 2
+Kota Surabaya,Gubeng,17000,1 - 2
+Kota Surabaya,Gununganyar,17000,1 - 2
+Kota Surabaya,Jambangan,17000,1 - 2
+Kota Surabaya,Karangpilang,17000,1 - 2
+Kota Surabaya,Kenjeran,17000,1 - 2
+Kota Surabaya,Krembangan,17000,1 - 2
+Kota Surabaya,Lakarsantri,17000,1 - 2
+Kota Surabaya,Mulyorejo,17000,1 - 2
+Kota Surabaya,Pabean Cantikan,17000,1 - 2
+Kota Surabaya,Pakal,17000,1 - 2
+Kota Surabaya,Rungkut,17000,1 - 2
+Kota Surabaya,Sambikerep,17000,1 - 2
+Kota Surabaya,Sawahan,17000,1 - 2
+Kota Surabaya,Semampir,17000,1 - 2
+Kota Surabaya,Simokerto,17000,1 - 2
+Kota Surabaya,Sukolilo,17000,1 - 2
+Kota Surabaya,Sukomanunggal,17000,1 - 2
+Kota Surabaya,Tambaksari,17000,1 - 2
+Kota Surabaya,Tandes,17000,1 - 2
+Kota Surabaya,Tegalsari,17000,1 - 2
+Kota Surabaya,Tenggilis Mejoyo,17000,1 - 2
+Kota Surabaya,Wiyung,17000,1 - 2
+Kota Surabaya,Wonocolo,17000,1 - 2
+Kota Surabaya,Wonokromo,17000,1 - 2
+Kab.Gresik,Gresik,17000,1 - 2
+Kab.Gresik,Balongpanggang,27000,3 - 6
+Kab.Gresik,Benjeng,27000,3 - 6
+Kab.Gresik,Bungah,27000,3 - 6
+Kab.Gresik,Cerme,27000,3 - 6
+Kab.Gresik,Driyorejo,27000,3 - 6
+Kab.Gresik,Duduk Sampeyan,27000,3 - 6
+Kab.Gresik,Dukun,27000,3 - 6
+Kab.Gresik,Kedamean,27000,3 - 6
+Kab.Gresik,Manyar,27000,3 - 6
+Kab.Gresik,Menganti,27000,3 - 6
+Kab.Gresik,Panceng,27000,3 - 6
+Kab.Gresik,Sangkapura,27000,3 - 6
+Kab.Gresik,Sidayu,27000,3 - 6
+Kab.Gresik,Tambak,27000,3 - 6
+Kab.Gresik,Ujung Pangkah,27000,3 - 6
+Kab.Gresik,Wringinanom,27000,3 - 6
+Kab.Gresik,Kebomas,27000,3 - 6
+Kab. Lamongan,Lamongan,22000,2 - 3
+Kab. Lamongan,Babat,27000,3 - 6
+Kab. Lamongan,Bluluk,27000,3 - 6
+Kab. Lamongan,Brondong,27000,3 - 6
+Kab. Lamongan,Deket,27000,3 - 6
+Kab. Lamongan,Glagah,27000,3 - 6
+Kab. Lamongan,Kalitengah,27000,3 - 6
+Kab. Lamongan,Karangbinangun,27000,3 - 6
+Kab. Lamongan,Karanggeneng,27000,3 - 6
+Kab. Lamongan,Kedungpring,27000,3 - 6
+Kab. Lamongan,Kembangbahu,27000,3 - 6
+Kab. Lamongan,Laren,27000,3 - 6
+Kab. Lamongan,Mantup,27000,3 - 6
+Kab. Lamongan,Modo,27000,3 - 6
+Kab. Lamongan,Ngimbang,27000,3 - 6
+Kab. Lamongan,Paciran,27000,3 - 6
+Kab. Lamongan,Pucuk,27000,3 - 6
+Kab. Lamongan,Sambeng,27000,3 - 6
+Kab. Lamongan,Solokuro,27000,3 - 6
+Kab. Lamongan,Sekaran,27000,3 - 6
+Kab. Lamongan,Sugio,27000,3 - 6
+Kab. Lamongan,Sukodadi,27000,3 - 6
+Kab. Lamongan,Sukorame,27000,3 - 6
+Kab. Lamongan,Tikung,27000,3 - 6
+Kab. Lamongan,Turi,27000,3 - 6
+Kab. Lamongan,Maduran,27000,3 - 6
+Kab. Lamongan,Sarirejo,27000,3 - 6
+Kab. Bangkalan,Bangkalan,22000,2 - 3
+Kab. Bangkalan,Arosbaya,27000,3 - 6
+Kab. Bangkalan,Balega,27000,3 - 6
+Kab. Bangkalan,Galis,27000,3 - 6
+Kab. Bangkalan,Geger,27000,3 - 6
+Kab. Bangkalan,Kamal,27000,3 - 6
+Kab. Bangkalan,Kwanyar,27000,3 - 6
+Kab. Bangkalan,Klampis,27000,3 - 6
+Kab. Bangkalan,Kokop,27000,3 - 6
+Kab. Bangkalan,Konang,27000,3 - 6
+Kab. Bangkalan,Labang,27000,3 - 6
+Kab. Bangkalan,Modung,27000,3 - 6
+Kab. Bangkalan,Sepulu,27000,3 - 6
+Kab. Bangkalan,Socah,27000,3 - 6
+Kab. Bangkalan,Tanah Merah,27000,3 - 6
+Kab. Bangkalan,Tanjungbumi,27000,3 - 6
+Kab. Bangkalan,Tragah,27000,3 - 6
+Kab. Bangkalan,Burneh,27000,3 - 6
+Kab. Jombang,Jombang,22000,2 - 3
+Kab. Jombang,Bandar Kedungmulyo,27000,3 - 6
+Kab. Jombang,Bareng,27000,3 - 6
+Kab. Jombang,Diwek,27000,3 - 6
+Kab. Jombang,Gudo,27000,3 - 6
+Kab. Jombang,Jogoroto,27000,3 - 6
+Kab. Jombang,Kabuh,27000,3 - 6
+Kab. Jombang,Kesamben,27000,3 - 6
+Kab. Jombang,Kudu,27000,3 - 6
+Kab. Jombang,Megaluh,27000,3 - 6
+Kab. Jombang,Mojoagung,27000,3 - 6
+Kab. Jombang,Mojowarno,27000,3 - 6
+Kab. Jombang,Ngoro,27000,3 - 6
+Kab. Jombang,Perak,27000,3 - 6
+Kab. Jombang,Peterongan,27000,3 - 6
+Kab. Jombang,Plandaan,27000,3 - 6
+Kab. Jombang,Ploso,27000,3 - 6
+Kab. Jombang,Sumobito,27000,3 - 6
+Kab. Jombang,Tembelang,27000,3 - 6
+Kab. Jombang,Wonosalam,27000,3 - 6
+Kab. Jombang,Ngusikan,27000,3 - 6
+Kab. Nganjuk,Nganjuk,22000,2 - 3
+Kab. Nganjuk,Bagor,27000,3 - 6
+Kab. Nganjuk,Berbek,27000,3 - 6
+Kab. Nganjuk,Gondang,27000,3 - 6
+Kab. Nganjuk,Loceret,27000,3 - 6
+Kab. Nganjuk,Ngetos,27000,3 - 6
+Kab. Nganjuk,Ngluyu,27000,3 - 6
+Kab. Nganjuk,Pace,27000,3 - 6
+Kab. Nganjuk,Prambon,27000,3 - 6
+Kab. Nganjuk,Rejoso,27000,3 - 6
+Kab. Nganjuk,Sawahan,27000,3 - 6
+Kab. Nganjuk,Sukomoro,27000,3 - 6
+Kab. Nganjuk,Tanjunganom,27000,3 - 6
+Kab. Nganjuk,Wilangan,27000,3 - 6
+Kab. Nganjuk,Kertosono,27000,3 - 6
+Kab. Nganjuk,Baron,27000,3 - 6
+Kab. Nganjuk,Jatikalen,27000,3 - 6
+Kab. Nganjuk,Lengkong,27000,3 - 6
+Kab. Nganjuk,Ngronggot,27000,3 - 6
+Kab. Nganjuk,Patianrowo,27000,3 - 6
+Kab. Pamekasan,Pamekasan,22000,2 - 3
+Kab. Pamekasan,Batu Marmar,27000,3 - 6
+Kab. Pamekasan,Galis,27000,3 - 6
+Kab. Pamekasan,Kadur,27000,3 - 6
+Kab. Pamekasan,Larangan,27000,3 - 6
+Kab. Pamekasan,Pakong,27000,3 - 6
+Kab. Pamekasan,Palengaan,27000,3 - 6
+Kab. Pamekasan,Pasean,27000,3 - 6
+Kab. Pamekasan,Pegantenan,27000,3 - 6
+Kab. Pamekasan,Proppo,27000,3 - 6
+Kab. Pamekasan,Tlanakan,27000,3 - 6
+Kab. Pamekasan,Waru,27000,3 - 6
+Kab. Pamekasan,Pademawu,27000,3 - 6
+Kab. Sampang,Sampang,22000,2 - 3
+Kab. Sampang,Banyuates,27000,3 - 6
+Kab. Sampang,Camplong,27000,3 - 6
+Kab. Sampang,Jrengik,27000,3 - 6
+Kab. Sampang,KEDUNDUNG,27000,3 - 6
+Kab. Sampang,Ketapang,27000,3 - 6
+Kab. Sampang,Omben,27000,3 - 6
+Kab. Sampang,Robatal,27000,3 - 6
+Kab. Sampang,Sokobanah,27000,3 - 6
+Kab. Sampang,Sreseh,27000,3 - 6
+Kab. Sampang,Tambelangan,27000,3 - 6
+Kab. Sampang,Torjun,27000,3 - 6
+Kab. Sidoarjo,Sidoarjo,17000,1 - 2
+Kab. Sidoarjo,Buduran,17000,1 - 2
+Kab. Sidoarjo,Candi,17000,1 - 2
+Kab. Sidoarjo,Gedangan,17000,1 - 2
+Kab. Sidoarjo,Jabon,17000,1 - 2
+Kab. Sidoarjo,Krembung,17000,1 - 2
+Kab. Sidoarjo,Porong,17000,1 - 2
+Kab. Sidoarjo,Sedati,17000,1 - 2
+Kab. Sidoarjo,Sukodono,17000,1 - 2
+Kab. Sidoarjo,Tanggulangin,17000,1 - 2
+Kab. Sidoarjo,Tulangan,17000,1 - 2
+Kab. Sidoarjo,Waru,17000,1 - 2
+Kab. Sidoarjo,Wonoayu,17000,1 - 2
+Kab. Sidoarjo,Krian,17000,1 - 2
+Kab. Sidoarjo,Taman,17000,1 - 2
+Kab. Sumenep,Sumenep,22000,2 - 3
+Kab. Sumenep,Ambunten,27000,3 - 6
+Kab. Sumenep,Arjasa,41000,+ 10
+Kab. Sumenep,Batang Batang,27000,3 - 6
+Kab. Sumenep,Batuputih,27000,3 - 6
+Kab. Sumenep,Bluto,27000,3 - 6
+Kab. Sumenep,Dasuk,27000,3 - 6
+Kab. Sumenep,Dungkek,27000,3 - 6
+Kab. Sumenep,Ganding,27000,3 - 6
+Kab. Sumenep,Gapura,27000,3 - 6
+Kab. Sumenep,Gayam,41000,+ 10
+Kab. Sumenep,Giligenteng,41000,+ 10
+Kab. Sumenep,Guluk-Guluk,27000,3 - 6
+Kab. Sumenep,Kalianget,27000,3 - 6
+Kab. Sumenep,Lenteng,27000,3 - 6
+Kab. Sumenep,Manding,27000,3 - 6
+Kab. Sumenep,Masalembu,41000,+ 10
+Kab. Sumenep,Nonggunong,41000,+ 10
+Kab. Sumenep,Pasongsongan,27000,3 - 6
+Kab. Sumenep,Pragaan,27000,3 - 6
+Kab. Sumenep,Raas,41000,+ 10
+Kab. Sumenep,Rubaru,27000,3 - 6
+Kab. Sumenep,Sapeken,41000,+ 10
+Kab. Sumenep,Saronggi,27000,3 - 6
+Kab. Sumenep,Talango,41000,+ 10
+Kab. Sumenep,Batuan,27000,3 - 6
+Kab. Sumenep,Kangean,41000,+ 10
+Kab. Tuban,Tuban,22000,2 - 3
+Kab. Tuban,Bancar,27000,3 - 6
+Kab. Tuban,Bangilan,27000,3 - 6
+Kab. Tuban,Jatirogo,27000,3 - 6
+Kab. Tuban,Jenu,27000,3 - 6
+Kab. Tuban,Kenduruan,27000,3 - 6
+Kab. Tuban,Kerek,27000,3 - 6
+Kab. Tuban,Merakurak,27000,3 - 6
+Kab. Tuban,Montong,27000,3 - 6
+Kab. Tuban,Palang,27000,3 - 6
+Kab. Tuban,Parengan,27000,3 - 6
+Kab. Tuban,Plumbang,27000,3 - 6
+Kab. Tuban,Rengel,27000,3 - 6
+Kab. Tuban,Semanding,27000,3 - 6
+Kab. Tuban,Senori,27000,3 - 6
+Kab. Tuban,Singgahan,27000,3 - 6
+Kab. Tuban,Soko,27000,3 - 6
+Kab. Tuban,Tambakboyo,27000,3 - 6
+Kab. Tuban,Widang,27000,3 - 6
+Kab. Tuban,Grabagan,27000,3 - 6
+Kab. Tulungagung,Tulungagung,22000,2 - 3
+Kab. Tulungagung,Bandung,27000,3 - 6
+Kab. Tulungagung,Besuki,27000,3 - 6
+Kab. Tulungagung,Campurdarat,27000,3 - 6
+Kab. Tulungagung,Gondang,27000,3 - 6
+Kab. Tulungagung,Kalidawir,27000,3 - 6
+Kab. Tulungagung,Karangrejo,27000,3 - 6
+Kab. Tulungagung,Ngantru,27000,3 - 6
+Kab. Tulungagung,Ngunut,27000,3 - 6
+Kab. Tulungagung,Pagerwojo,27000,3 - 6
+Kab. Tulungagung,Pakel,27000,3 - 6
+Kab. Tulungagung,Pucanglaban,27000,3 - 6
+Kab. Tulungagung,Rejotangan,27000,3 - 6
+Kab. Tulungagung,Sendang,27000,3 - 6
+Kab. Tulungagung,Sumbergempol,27000,3 - 6
+Kab. Tulungagung,Tanggung Gunung,27000,3 - 6
+Kab. Tulungagung,Boyolangu,27000,3 - 6
+Kab. Tulungagung,Kauman,27000,3 - 6
+Kab. Tulungagung,Kedungwaru,27000,3 - 6
+Kab. Trenggalek,Trenggalek,22000,2 - 3
+Kab. Trenggalek,Bendungan,27000,3 - 6
+Kab. Trenggalek,Dongko,27000,3 - 6
+Kab. Trenggalek,Durenan,27000,3 - 6
+Kab. Trenggalek,Gandusari,27000,3 - 6
+Kab. Trenggalek,Kampak,27000,3 - 6
+Kab. Trenggalek,Karangan,27000,3 - 6
+Kab. Trenggalek,Munjungan,27000,3 - 6
+Kab. Trenggalek,Panggul,27000,3 - 6
+Kab. Trenggalek,Pogalan,27000,3 - 6
+Kab. Trenggalek,Pule,27000,3 - 6
+Kab. Trenggalek,Tugu,27000,3 - 6
+Kab. Trenggalek,Watulimo,27000,3 - 6
+Kab. Trenggalek,Suruh,27000,3 - 6
+Kota Tangerang,Tangerang,8000,1 - 2
+Kota Tangerang,Ciledug,8000,1 - 2
+Kota Tangerang,Batuceper,8000,1 - 2
+Kota Tangerang,Benda,8000,1 - 2
+Kota Tangerang,Cibodas,8000,1 - 2
+Kota Tangerang,Cipondoh,8000,1 - 2
+Kota Tangerang,Jatiuwung,8000,1 - 2
+Kota Tangerang,Karangtengah,8000,1 - 2
+Kota Tangerang,Karawaci,8000,1 - 2
+Kota Tangerang,Larangan,8000,1 - 2
+Kota Tangerang,Neglasari,8000,1 - 2
+Kota Tangerang,Periuk,8000,1 - 2
+Kota Tangerang,Pinang,8000,1 - 2
+Kab. Tangerang,Tigaraksa,8000,1 - 2
+Kab. Tangerang,Balaraja,8000,1 - 2
+Kab. Tangerang,Cikupa,8000,1 - 2
+Kab. Tangerang,Cisoka,8000,1 - 2
+Kab. Tangerang,Curug,8000,1 - 2
+Kab. Tangerang,Kronjo,8000,1 - 2
+Kab. Tangerang,Kresek,8000,1 - 2
+Kab. Tangerang,Legok,8000,1 - 2
+Kab. Tangerang,Mauk,8000,1 - 2
+Kab. Tangerang,PASAR KEMIS,8000,1 - 2
+Kab. Tangerang,Pakuhaji,8000,1 - 2
+Kab. Tangerang,Rajeg,8000,1 - 2
+Kab. Tangerang,Sepatan /Jatimulya/Cengklong,8000,1 - 2
+Kab. Tangerang,Serpong,8000,1 - 2
+Kab. Tangerang,Teluknaga,8000,1 - 2
+Kab. Tangerang,Pondok Aren / Jurang Mangu,8000,1 - 2
+Kab. Tangerang,Pamulang,8000,1 - 2
+Kab. Tangerang,Ciputat,8000,1 - 2
+Kab. Tangerang,Cisauk,8000,1 - 2
+Kab. Tangerang,Jambe,8000,1 - 2
+Kab. Tangerang,Jayanti,8000,1 - 2
+Kab. Tangerang,Kemiri,8000,1 - 2
+Kab. Tangerang,Kosambi /Salembaran jati,8000,1 - 2
+Kab. Tangerang,Pagedangan,8000,1 - 2
+Kab. Tangerang,Panongan,8000,1 - 2
+Kab. Tangerang,Sukadiri,8000,1 - 2
+Kab. Mimika,Timika,85000,2 - 4
+Kab. Mimika,Agimuga,138000,6 - 9
+Kab. Mimika,Jila,138000,6 - 9
+Kab. Mimika,Jita,138000,6 - 9
+Kab. Mimika,Kuala Kencana,138000,6 - 9
+Kab. Mimika,Mimika Barat,110000,2 - 4
+Kab. Mimika,Mimika Barat Jauh,110000,2 - 4
+Kab. Mimika,Mimika Barat Tengah,110000,2 - 4
+Kab. Mimika,Mimika Baru,110000,2 - 4
+Kab. Mimika,Mimika Timur,110000,2 - 4
+Kab. Mimika,Mimika Timur Jauh,110000,2 - 4
+Kab. Mimika,Mimika Timur Tengah,110000,2 - 4
+Kab. Mimika,Tembaga Pura,110000,4 - 6
+Kab. Belitung,Tanjung Pandan,23000,1 - 2
+Kab. Belitung,Membalong,33000,3 - 6
+Kab. Belitung,Selat Nasik,33000,3 - 6
+Kab. Belitung,Badau,33000,3 - 6
+Kab. Belitung,Sijuk,33000,3 - 6
+Kab. Belitung Timur,Manggar,26000,2 - 3
+Kab. Belitung Timur,Dendang,33000,3 - 6
+Kab. Belitung Timur,Gantung,33000,3 - 6
+Kab. Belitung Timur,Kelapa Kampit,33000,3 - 6
+Kota Bandar Lampung,Bandar Lampung,17000,1 - 2
+Kota Bandar Lampung,Kedaton,17000,1 - 2
+Kota Bandar Lampung,Kemiling,17000,1 - 2
+Kota Bandar Lampung,Panjang,17000,1 - 2
+Kota Bandar Lampung,Rajabasa,17000,1 - 2
+Kota Bandar Lampung,Sukabumi,17000,1 - 2
+Kota Bandar Lampung,Sukarame,17000,1 - 2
+Kota Bandar Lampung,Tanjung Karang Barat,17000,1 - 2
+Kota Bandar Lampung,Tanjung Karang Pusat,17000,1 - 2
+Kota Bandar Lampung,Tanjung Karang Timur,17000,1 - 2
+Kota Bandar Lampung,Tanjung Senang,17000,1 - 2
+Kota Bandar Lampung,Teluk Betung Barat,17000,1 - 2
+Kota Bandar Lampung,Teluk Betung Selatan,17000,1 - 2
+Kota Bandar Lampung,Teluk Betung Utara,17000,1 - 2
+Kab. Lampung Selatan,Kalianda,35000,2 - 3
+Kab. Lampung Selatan,Palas,44000,3 - 6
+Kab. Lampung Selatan,Panengahan,44000,3 - 6
+Kab. Lampung Selatan,Natar,44000,3 - 6
+Kab. Lampung Selatan,Tanjung Bintang,44000,3 - 6
+Kab. Lampung Selatan,Candipuro,44000,3 - 6
+Kab. Lampung Selatan,Jati Agung,44000,3 - 6
+Kab. Lampung Selatan,Katibung,44000,3 - 6
+Kab. Lampung Selatan,Ketapang,44000,3 - 6
+Kab. Lampung Selatan,Merbau Mataram,44000,3 - 6
+Kab. Lampung Selatan,Rajabasa,44000,3 - 6
+Kab. Lampung Selatan,Sidomulyo,44000,3 - 6
+Kab. Lampung Selatan,Sragi,44000,3 - 6
+Kab. Lampung Selatan,Bakauheuni,35000,2 - 3
+Kab. Lampung Selatan,Tanjungsari,44000,3 - 6
+Kab. Lampung Selatan,Way Panji,44000,3 - 6
+Kab. Lampung Selatan,Way Sulan,44000,3 - 6
+Kab. Lampung Utara,Kotabumi,35000,2 - 3
+Kab. Lampung Utara,Abung Barat,44000,3 - 6
+Kab. Lampung Utara,Abung Selatan,44000,3 - 6
+Kab. Lampung Utara,Abung Timur,44000,3 - 6
+Kab. Lampung Utara,Bukit Kemuning,35000,2 - 3
+Kab. Lampung Utara,Sungkai Selatan,44000,3 - 6
+Kab. Lampung Utara,Sungkai Utara,44000,3 - 6
+Kab. Lampung Utara,Tanjung Raja,44000,3 - 6
+Kab. Lampung Utara,Abung Semuli,44000,3 - 6
+Kab. Lampung Utara,Abung Surakarta,44000,3 - 6
+Kab. Lampung Utara,Abung Tengah,44000,3 - 6
+Kab. Lampung Utara,Abung Tinggi,44000,3 - 6
+Kab. Lampung Utara,Bunga Mayang,44000,3 - 6
+Kab. Lampung Utara,Kotabumi Selatan,44000,3 - 6
+Kab. Lampung Utara,Kotabumi Utara,44000,3 - 6
+Kab. Lampung Utara,Muara Sungkai,44000,3 - 6
+Kota Metro,Metro,35000,2 - 3
+Kota Metro,Metro Barat,35000,2 - 3
+Kota Metro,Metro Pusat,35000,2 - 3
+Kota Metro,Metro Selatan,35000,2 - 3
+Kota Metro,Metro Timur,35000,2 - 3
+Kota Metro,Metro Utara,35000,2 - 3
+Kab. Lampung Barat,Liwa,35000,2 - 3
+Kab. Lampung Barat,Balik Bukit,44000,3 - 6
+Kab. Lampung Barat,Belalau,44000,3 - 6
+Kab. Lampung Barat,Pesisir Utara,44000,3 - 6
+Kab. Lampung Barat,Pesisir Tengah / Krui,35000,2 - 3
+Kab. Lampung Barat,Pesisir Selatan,44000,3 - 6
+Kab. Lampung Barat,Sumber Jaya,35000,2 - 3
+Kab. Lampung Barat,Batu Brak,44000,3 - 6
+Kab. Lampung Barat,Bengkunat,44000,3 - 6
+Kab. Lampung Barat,Karya Penggawa,44000,3 - 6
+Kab. Lampung Barat,Lemong,44000,3 - 6
+Kab. Lampung Barat,Sekincau,44000,3 - 6
+Kab. Lampung Barat,Sukau,44000,3 - 6
+Kab. Lampung Barat,Suoh,66000,+ 10
+Kab. Lampung Barat,Way Tenong,44000,3 - 6
+Kab. Lampung Tengah,Gunung Sugih,35000,2 - 3
+Kab. Lampung Tengah,Padang Ratu,44000,3 - 6
+Kab. Lampung Tengah,Seputih Mataram,44000,3 - 6
+Kab. Lampung Tengah,Seputih Banyak,44000,3 - 6
+Kab. Lampung Tengah,Seputih Surabaya,44000,3 - 6
+Kab. Lampung Tengah,Seputih Raman,44000,3 - 6
+Kab. Lampung Tengah,Terbanggi Besar / Bandar Jaya,44000,3 - 6
+Kab. Lampung Tengah,Anak Tuha,44000,3 - 6
+Kab. Lampung Tengah,Bandar Mataram,44000,3 - 6
+Kab. Lampung Tengah,Bandar Surabaya,44000,3 - 6
+Kab. Lampung Tengah,Bangunrejo,44000,3 - 6
+Kab. Lampung Tengah,Bekri,44000,3 - 6
+Kab. Lampung Tengah,Bumi Nabung,44000,3 - 6
+Kab. Lampung Tengah,Bumi Ratu Nuban,44000,3 - 6
+Kab. Lampung Tengah,Kalirejo,44000,3 - 6
+Kab. Lampung Tengah,Kota Gajah,44000,3 - 6
+Kab. Lampung Tengah,Pubian,44000,3 - 6
+Kab. Lampung Tengah,Punggur,44000,3 - 6
+Kab. Lampung Tengah,Rumbia,44000,3 - 6
+Kab. Lampung Tengah,Selagai Lingga,66000,+ 10
+Kab. Lampung Tengah,Sendang Agung,44000,3 - 6
+Kab. Lampung Tengah,Seputih Agung,44000,3 - 6
+Kab. Lampung Tengah,Terusan Nunyai,44000,3 - 6
+Kab. Lampung Tengah,Trimurjo,44000,3 - 6
+Kab. Lampung Tengah,WAY PANGUBUAN,44000,3 - 6
+Kab. Lampung Tengah,Way Seputih,44000,3 - 6
+Kab. Lampung Tengah,Bandar Jaya,44000,3 - 6
+Kab. Lampung Timur,Sukadana,35000,2 - 3
+Kab. Lampung Timur,BATANG HARI,44000,3 - 6
+Kab. Lampung Timur,Jabung/Gunung balak,44000,3 - 6
+Kab. Lampung Timur,Labuhan Maringgai,44000,3 - 6
+Kab. Lampung Timur,Pekalongan,44000,3 - 6
+Kab. Lampung Timur,Purbolinggo,44000,3 - 6
+Kab. Lampung Timur,Raman Utara,44000,3 - 6
+Kab. Lampung Timur,Sekampung,44000,3 - 6
+Kab. Lampung Timur,Way Jepara,44000,3 - 6
+Kab. Lampung Timur,BANDAR SRIBAWANO,44000,3 - 6
+Kab. Lampung Timur,Batanghari Nuban,44000,3 - 6
+Kab. Lampung Timur,Braja Slebah,44000,3 - 6
+Kab. Lampung Timur,Bumi Agung,44000,3 - 6
+Kab. Lampung Timur,Gunung Pelindung,44000,3 - 6
+Kab. Lampung Timur,Labuhan Ratu,44000,3 - 6
+Kab. Lampung Timur,Margatiga,44000,3 - 6
+Kab. Lampung Timur,Mataram Baru,44000,3 - 6
+Kab. Lampung Timur,Melinting,44000,3 - 6
+Kab. Lampung Timur,Metro Kibang,44000,3 - 6
+Kab. Lampung Timur,Pasir Sakti,44000,3 - 6
+Kab. Lampung Timur,Sekampung Udik,44000,3 - 6
+Kab. Lampung Timur,Waway Karya,44000,3 - 6
+Kab. Lampung Timur,Way Bungur,44000,3 - 6
+Kab. Way Kanan,Blambangan umpu,35000,2 - 3
+Kab. Way Kanan,Bahuga,44000,3 - 6
+Kab. Way Kanan,Baradatu,44000,3 - 6
+Kab. Way Kanan,Kasui,44000,3 - 6
+Kab. Way Kanan,Banjit/Banjid,44000,3 - 6
+Kab. Way Kanan,Gunung Labuhan,44000,3 - 6
+Kab. Way Kanan,Negeri Batin,44000,3 - 6
+Kab. Way Kanan,Negeri Agung,66000,+ 10
+Kab. Way Kanan,Negeri Besar,66000,+ 10
+Kab. Way Kanan,Pakuan Ratu,44000,3 - 6
+Kab. Way Kanan,Rebang Tangkas,44000,3 - 6
+Kab. Way Kanan,Way Tuba,44000,3 - 6
+Kab. Tulang Bawang,Menggala,35000,2 - 3
+Kab. Tulang Bawang,Mesuji,44000,3 - 6
+Kab. Tulang Bawang,Tulang Bawang Tengah,44000,3 - 6
+Kab. Tulang Bawang,Tulang Bawang Udik,44000,3 - 6
+Kab. Tulang Bawang,Banjar Agung,44000,3 - 6
+Kab. Tulang Bawang,Gedung Aji,44000,3 - 6
+Kab. Tulang Bawang,Gedung Meneng,44000,3 - 6
+Kab. Tulang Bawang,Gunung Terang,44000,3 - 6
+Kab. Tulang Bawang,Lambu Kibang,44000,3 - 6
+Kab. Tulang Bawang,Penawar Tama,44000,3 - 6
+Kab. Tulang Bawang,Rawajitu Selatan,66000,+ 10
+Kab. Tulang Bawang,Rawajitu Utara,66000,+ 10
+Kab. Tulang Bawang,Simpang Pematang,44000,3 - 6
+Kab. Tulang Bawang,Tanjung Raya,44000,3 - 6
+Kab. Tulang Bawang,Tumi Jajar,44000,3 - 6
+Kab. Tulang Bawang,Way Serdang,44000,3 - 6
+Kab. Tanggamus,Kota Agung,35000,2 - 3
+Kab. Tanggamus,Gading Rejo,44000,3 - 6
+Kab. Tanggamus,Pagelaran,44000,3 - 6
+Kab. Tanggamus,Pringsewu,35000,2 - 3
+Kab. Tanggamus,Pulau Panggung,44000,3 - 6
+Kab. Tanggamus,Sukoharjo,44000,3 - 6
+Kab. Tanggamus,Talang Padang,35000,2 - 3
+Kab. Tanggamus,Wonosobo,44000,3 - 6
+Kab. Tanggamus,Adi Luwih,44000,3 - 6
+Kab. Tanggamus,Cukup Balak,44000,3 - 6
+Kab. Tanggamus,Kelumbayan,44000,3 - 6
+Kab. Tanggamus,Pardasuka,44000,3 - 6
+Kab. Tanggamus,Pematang Sawa,44000,3 - 6
+Kab. Tanggamus,Pugung,44000,3 - 6
+Kab. Tanggamus,Semaka,44000,3 - 6
+Kab. Tanggamus,Sumberejo,44000,3 - 6
+Kab. Tanggamus,Ulubelu,44000,3 - 6
+Kab. Pesawaran,Gedong Tataan,35000,2 - 3
+Kab. Pesawaran,Kedondong,44000,3 - 6
+Kab. Pesawaran,Padang Cermin,44000,3 - 6
+Kab. Pesawaran,Negeri Katon,44000,3 - 6
+Kab. Pesawaran,Pundung Pidada,44000,3 - 6
+Kab. Pesawaran,Tegineneng,44000,3 - 6
+Kab. Pesawaran,Way Lima,44000,3 - 6
+Kota Tanjung Pinang,Tanjung Pinang,32000,1 - 2
+Kota Tanjung Pinang,Bukit Bestari,32000,1 - 2
+Kota Tanjung Pinang,Tanjung Pinang Barat,32000,1 - 2
+Kota Tanjung Pinang,Tanjung Pinang Kota,32000,1 - 2
+Kota Tanjung Pinang,Tanjung Pinang Timur,32000,1 - 2
+Kota Tanjung Pinang,Senggarang,63000,3 - 6
+Kota Tanjung Pinang,Dompak,63000,3 - 6
+Kota Tanjung Pinang,Pulau Penyengat,63000,3 - 6
+Kab. Bintan,Bandar Sri Bintan,63000,3 - 6
+Kab. Bintan,Bintan Timur,63000,3 - 6
+Kab. Bintan,Tanjung Uban/Bintan Utara,50000,2 - 3
+Kab. Bintan,Gunung Kijang,63000,3 - 6
+Kab. Bintan,Tambelan,63000,3 - 6
+Kab. Bintan,Teluk Bintan,63000,3 - 6
+Kab. Bintan,Teluk Sebong,63000,3 - 6
+Kab. Bintan,Lagoi,63000,3 - 6
+Kota Tarakan,Tarakan,49000,2 - 3
+Kota Tarakan,Tarakan Barat,49000,2 - 3
+Kota Tarakan,Tarakan Tengah,49000,2 - 3
+Kota Tarakan,Tarakan Timur,49000,2 - 3
+Kota Tarakan,Tarakan Utara,49000,2 - 3
+Kab. Bulungan,Tanjung Selor,55000,3 - 5
+Kab. Bulungan,Peso / Longpeso,69000,5 - 7
+Kab. Bulungan,Pulau Bunyu,69000,5 - 7
+Kab. Bulungan,Peso Hilir,69000,5 - 7
+Kab. Bulungan,Sekatak,69000,5 - 7
+Kab. Bulungan,Tanjung Palas,69000,5 - 7
+Kab. Bulungan,Tanjung Palas Barat,69000,5 - 7
+Kab. Bulungan,Tanjung Palas Tengah,69000,5 - 7
+Kab. Bulungan,Tanjung Palas Timur,69000,5 - 7
+Kab. Bulungan,Tanjung Palas Utara,69000,5 - 7
+Kab. Malinau,Malinau,55000,3 - 5
+Kab. Malinau,Mentarang,69000,5 - 7
+Kab. Malinau,Kayan Hulu,69000,5 - 7
+Kab. Malinau,Kayan Hilir,69000,5 - 7
+Kab. Malinau,Pujungan,69000,5 - 7
+Kab. Malinau,Malinau Barat,55000,3 - 5
+Kab. Malinau,Malinau Selatan,55000,3 - 5
+Kab. Malinau,Malinau Utara,55000,3 - 5
+Kab. Malinau,Sungai Boh,69000,5 - 7
+Kab. Nunukan,Nunukan,55000,3 - 5
+Kab. Nunukan,Krayan,69000,5 - 7
+Kab. Nunukan,Lumbis,69000,5 - 7
+Kab. Nunukan,Krayan Selatan,69000,5 - 7
+Kab. Nunukan,Sebatik,55000,3 - 5
+Kab. Nunukan,Sebuku,69000,5 - 7
+Kab. Tana Tidung,Tanah Tidung,55000,3 - 5
+Kab. Tana Tidung,Sembakung,69000,5 - 7
+Kab. Tana Tidung,Sesayap,69000,5 - 7
+Kab. Tana Tidung,Sesayap Hilir,69000,5 - 7
+Kab. Tana Tidung,Tanah Lia,69000,5 - 7
+Kota Ternate,Ternate,55000,2 - 3
+Kota Ternate,Moti,78000,5 - 7
+Kota Ternate,Ternate Selatan,78000,5 - 7
+Kota Ternate,Ternate Utara,78000,5 - 7
+Kab. Halmahera Barat,Jailolo,62000,3 - 5
+Kab. Halmahera Barat,Jailolo Selatan,78000,5 - 7
+Kab. Halmahera Barat,Ibu,117000,+ 10
+Kab. Halmahera Barat,Loloda,117000,+ 10
+Kab. Halmahera Barat,Sahu,78000,5 - 7
+Kab. Halmahera Selatan,Labuha,62000,3 - 5
+Kab. Halmahera Selatan,Bacan,78000,5 - 7
+Kab. Halmahera Selatan,Bacan Selatan,78000,5 - 7
+Kab. Halmahera Selatan,Bacan Timur,78000,5 - 7
+Kab. Halmahera Selatan,Gane Barat,117000,+ 10
+Kab. Halmahera Selatan,Gane Timur,117000,+ 10
+Kab. Halmahera Selatan,Kayoa,117000,+ 10
+Kab. Halmahera Selatan,Obi,117000,+ 10
+Kab. Halmahera Selatan,Obi Selatan,117000,+ 10
+Kab. Halmahera Selatan,Pulau Makian,117000,+ 10
+Kab. Halmahera Tengah,Weda,62000,3 - 5
+Kab. Halmahera Tengah,Gebe,78000,5 - 7
+Kab. Halmahera Tengah,Patani,117000,+ 10
+Kab. Halmahera Timur,Maba,62000,3 - 5
+Kab. Halmahera Timur,Maba Selatan,78000,5 - 7
+Kab. Halmahera Timur,Wasile,117000,+ 10
+Kab. Halmahera Timur,Wasile Selatan,117000,+ 10
+Kab. Halmahera Utara,Tobelo,62000,3 - 5
+Kab. Halmahera Utara,Tobelo Selatan,78000,5 - 7
+Kab. Halmahera Utara,Galela,78000,5 - 7
+Kab. Halmahera Utara,Kao,78000,5 - 7
+Kab. Halmahera Utara,Loloda Utara,117000,+ 10
+Kab. Halmahera Utara,Malifut,117000,+ 10
+Kab. Halmahera Utara,Morotai Selatan,117000,+ 10
+Kab. Halmahera Utara,Morotai Selatan Barat,117000,+ 10
+Kab. Halmahera Utara,Morotai Utara,117000,+ 10
+Kab. Kepulauan Sula,Sanana,62000,3 - 5
+Kab. Kepulauan Sula,Mangoli Barat,78000,5 - 7
+Kab. Kepulauan Sula,Mangoli Timur,78000,5 - 7
+Kab. Kepulauan Sula,Nggele,117000,+ 10
+Kab. Kepulauan Sula,Sula Besi Barat,117000,+ 10
+Kab. Kepulauan Sula,Taliabu Barat,117000,+ 10
+Kab. Kepulauan Sula,Taliabu Timur,117000,+ 10
+Kota Tidore,Tidore,62000,3 - 5
+Kota Tidore,Oba,117000,+ 10
+Kota Tidore,Oba Utara,117000,+ 10
+Kota Tidore,Tidore Selatan,78000,5 - 7
+Kota Tidore,Tidore Utara,78000,5 - 7
+Kota Makassar,Ujung Pandang,32000,2 - 3
+Kota Makassar,Tamalate,32000,2 - 3
+Kota Makassar,Biring Kanaya,32000,2 - 3
+Kota Makassar,Bontoala,32000,2 - 3
+Kota Makassar,Mamajang,32000,2 - 3
+Kota Makassar,Manggala,32000,2 - 3
+Kota Makassar,Mariso,32000,2 - 3
+Kota Makassar,Panakkukang,32000,2 - 3
+Kota Makassar,Rappocini,32000,2 - 3
+Kota Makassar,Tallo,32000,2 - 3
+Kota Makassar,Tamalanrea,32000,2 - 3
+Kota Makassar,Ujung Tanah,32000,2 - 3
+Kota Makassar,Wajo,32000,2 - 3
+Kab. Bantaeng,Bantaeng,49000,3 - 5
+Kab. Bantaeng,Bissapu,62000,5 - 7
+Kab. Bantaeng,Tompobulu,62000,5 - 7
+Kab. Bantaeng,Eremerasa,62000,5 - 7
+Kab. Bantaeng,Pajukukang,62000,5 - 7
+Kab. Bantaeng,Uluere,62000,5 - 7
+Kab. Barru,Barru,49000,3 - 5
+Kab. Barru,Mallusetasi,62000,5 - 7
+Kab. Barru,Soppeng Riaja,62000,5 - 7
+Kab. Barru,Tanete Riaja,62000,5 - 7
+Kab. Barru,Tanete Rilau,62000,5 - 7
+Kab. Barru,Balusu,62000,5 - 7
+Kab. Barru,Pujananting,62000,5 - 7
+Kab. Bulukumba,Bulukumba,49000,3 - 5
+Kab. Bulukumba,Bonto Bahari,62000,5 - 7
+Kab. Bulukumba,Bontotiro,62000,5 - 7
+Kab. Bulukumba,Gantarang /Gantarangkindang/Ganking,62000,5 - 7
+Kab. Bulukumba,Hero Lange-Lange /Heralangelange/Her,62000,5 - 7
+Kab. Bulukumba,Kajang,62000,5 - 7
+Kab. Bulukumba,Kindang,62000,5 - 7
+Kab. Bulukumba,Riau Ale,62000,5 - 7
+Kab. Bulukumba,Ujung Bulu,62000,5 - 7
+Kab. Bulukumba,Ujung Loe,62000,5 - 7
+Kab. Enrekang,Enrekang,49000,3 - 5
+Kab. Enrekang,Alla,62000,5 - 7
+Kab. Enrekang,Anggeraja,62000,5 - 7
+Kab. Enrekang,Baraka,62000,5 - 7
+Kab. Enrekang,Maiwa,62000,5 - 7
+Kab. Enrekang,Alla Timur,62000,5 - 7
+Kab. Enrekang,Anggeraja Timur,62000,5 - 7
+Kab. Enrekang,Enrekang Selatan,62000,5 - 7
+Kab. Enrekang,Maiwa Atas,62000,5 - 7
+Kab. Jeneponto,Jeneponto,49000,3 - 5
+Kab. Jeneponto,Bangkala,62000,5 - 7
+Kab. Jeneponto,Batang,62000,5 - 7
+Kab. Jeneponto,Kelara,62000,5 - 7
+Kab. Jeneponto,Tamalatea,62000,5 - 7
+Kab. Jeneponto,Bangkala Barat,62000,5 - 7
+Kab. Jeneponto,Binamu,62000,5 - 7
+Kab. Jeneponto,Bontoramba,62000,5 - 7
+Kab. Jeneponto,Turatea,62000,5 - 7
+Kab. Jeneponto,Arungkeke,62000,5 - 7
+Kab. Tana Toraja,Makale,49000,3 - 5
+Kab. Tana Toraja,Bonggakaradeng,62000,5 - 7
+Kab. Tana Toraja,Mengkendek,62000,5 - 7
+Kab. Tana Toraja,Saluputti,62000,5 - 7
+Kab. Tana Toraja,Sangalla,62000,5 - 7
+Kab. Tana Toraja Utara,Rantepao,49000,3 - 5
+Kab. Tana Toraja Utara,Rindingalo,62000,5 - 7
+Kab. Tana Toraja Utara,Sanggalangi,62000,5 - 7
+Kab. Tana Toraja Utara,Sesean,62000,5 - 7
+Kab. Tana Toraja,Bituang,62000,5 - 7
+Kab. Tana Toraja Utara,Buntao Rantebua,62000,5 - 7
+Kab. Tana Toraja,Rantetayo,62000,5 - 7
+Kab. Tana Toraja Utara,Sa'dan Balusu,62000,5 - 7
+Kab. Tana Toraja,Simbuang,62000,5 - 7
+Kab. Tana Toraja Utara,Tondon Nanggala,62000,5 - 7
+Kab. Tana Toraja,Gandang Batu Silang,62000,5 - 7
+Kab. Tana Toraja,Kurra,62000,5 - 7
+Kab. Tana Toraja,Makale Selatan,62000,5 - 7
+Kab. Tana Toraja,Makale Utara,62000,5 - 7
+Kab. Tana Toraja,Mappak,62000,5 - 7
+Kab. Tana Toraja,Masanda,62000,5 - 7
+Kab. Tana Toraja,Malimbong Balepe,62000,5 - 7
+Kab. Tana Toraja,Rano,62000,5 - 7
+Kab. Tana Toraja,Rembon,62000,5 - 7
+Kab. Tana Toraja Utara,Soloara,62000,5 - 7
+Kab. Tana Toraja Utara,Awan Rante Karua,62000,5 - 7
+Kab. Tana Toraja Utara,Balusu,62000,5 - 7
+Kab. Tana Toraja Utara,Bangkelekila,62000,5 - 7
+Kab. Tana Toraja Utara,Baruppu,62000,5 - 7
+Kab. Tana Toraja Utara,Buntu Pepasan,62000,5 - 7
+Kab. Tana Toraja Utara,Denpina/Dende Piongan Napo,62000,5 - 7
+Kab. Tana Toraja Utara,Kapala Pitu,62000,5 - 7
+Kab. Tana Toraja Utara,Kesu,62000,5 - 7
+Kab. Tana Toraja Utara,Nanggala,62000,5 - 7
+Kab. Tana Toraja Utara,Rantebua,62000,5 - 7
+Kab. Tana Toraja Utara,Sopai,62000,5 - 7
+Kab. Tana Toraja Utara,Tallunglipu,62000,5 - 7
+Kab. Tana Toraja Utara,Tikala,62000,5 - 7
+Kab. Mamuju,Mamuju,49000,3 - 5
+Kab. Mamuju,Budong-Budong,62000,5 - 7
+Kab. Mamuju,Kalumpang,62000,5 - 7
+Kab. Mamuju,Kalukku,62000,5 - 7
+Kab. Mamuju,Tappalang,62000,5 - 7
+Kab. Mamuju,Bonehau,62000,5 - 7
+Kab. Mamuju,Karossa,62000,5 - 7
+Kab. Mamuju,Pangale,62000,5 - 7
+Kab. Mamuju,Papalang,62000,5 - 7
+Kab. Mamuju,Sampaga,62000,5 - 7
+Kab. Mamuju,Simboro dan Kepulauan,62000,5 - 7
+Kab. Mamuju,Tapalang Barat,62000,5 - 7
+Kab. Mamuju,Tobadak,62000,5 - 7
+Kab. Mamuju,Tommo,62000,5 - 7
+Kab. Mamuju,Topoyo,62000,5 - 7
+Kab. Maros,Maros,32000,2 - 3
+Kab. Maros,Bantimurung,62000,5 - 7
+Kab. Maros,Camba,62000,5 - 7
+Kab. Maros,Mallawa,62000,5 - 7
+Kab. Maros,Mandai,62000,5 - 7
+Kab. Maros,Maros Utara,62000,5 - 7
+Kab. Maros,Tanralili,62000,5 - 7
+Kab. Maros,Cenrana,62000,5 - 7
+Kab. Maros,Lau,62000,5 - 7
+Kab. Maros,Maros Baru,62000,5 - 7
+Kab. Maros,Marusu,62000,5 - 7
+Kab. Maros,Moncongloe,62000,5 - 7
+Kab. Maros,Simbang,62000,5 - 7
+Kab. Maros,Tompu Bulu,62000,5 - 7
+Kab. Maros,Turikale,62000,5 - 7
+Kab. Majene,Majene,49000,3 - 5
+Kab. Majene,Malunda,62000,5 - 7
+Kab. Majene,Pamboang,62000,5 - 7
+Kab. Majene,Sendana,62000,5 - 7
+Kab. Majene,Banggae,62000,5 - 7
+Kota Palopo,Palopo,49000,3 - 5
+Kota Palopo,Telluwanua,49000,3 - 5
+Kota Palopo,Wara,49000,3 - 5
+Kota Palopo,Wara Selatan,49000,3 - 5
+Kota Palopo,Wara Utara,49000,3 - 5
+Kab. Pinrang,Pinrang,49000,3 - 5
+Kab. Pinrang,Cempa,62000,5 - 7
+Kab. Pinrang,Duampanua,62000,5 - 7
+Kab. Pinrang,Lembang,62000,5 - 7
+Kab. Pinrang,Mattiro Bulu,62000,5 - 7
+Kab. Pinrang,Mattirosompe,62000,5 - 7
+Kab. Pinrang,Patampanua,62000,5 - 7
+Kab. Pinrang,Suppa,62000,5 - 7
+Kab. Pinrang,Batulappa,62000,5 - 7
+Kab. Pinrang,Lanrisang,62000,5 - 7
+Kab. Pinrang,Paleteang,62000,5 - 7
+Kab. Pinrang,Tiroang,62000,5 - 7
+Kab. Pinrang,Watang Sawitto,62000,5 - 7
+Kab. Polewali Mandar,Polewali,49000,3 - 5
+Kab. Polewali Mandar,Campalagian,62000,5 - 7
+Kab. Polewali Mandar,Tinambung,62000,5 - 7
+Kab. Polewali Mandar,Tutallu,62000,5 - 7
+Kab. Polewali Mandar,Wonomulyo,62000,5 - 7
+Kab. Polewali Mandar,Allu,62000,5 - 7
+Kab. Polewali Mandar,Anreapi,62000,5 - 7
+Kab. Polewali Mandar,Balanipa,62000,5 - 7
+Kab. Polewali Mandar,Binuang,62000,5 - 7
+Kab. Polewali Mandar,Limboro,62000,5 - 7
+Kab. Polewali Mandar,Luyo,62000,5 - 7
+Kab. Polewali Mandar,Mapilli,62000,5 - 7
+Kab. Polewali Mandar,Matakali,62000,5 - 7
+Kab. Polewali Mandar,Matangnga,62000,5 - 7
+Kab. Polewali Mandar,Tapango,62000,5 - 7
+Kab. Sindenreng Rappang,Sidenreng,49000,3 - 5
+Kab. Sindenreng Rappang,Baranti,62000,5 - 7
+Kab. Sindenreng Rappang,Duapitue,62000,5 - 7
+Kab. Sindenreng Rappang,Panca Rijang,62000,5 - 7
+Kab. Sindenreng Rappang,Panca Lautang,62000,5 - 7
+Kab. Sindenreng Rappang,Tellulimpo E,62000,5 - 7
+Kab. Sindenreng Rappang,Watang Pulu,62000,5 - 7
+Kab. Sindenreng Rappang,Kulo,62000,5 - 7
+Kab. Sindenreng Rappang,Maritengngae,62000,5 - 7
+Kab. Sindenreng Rappang,Pitu Riase,62000,5 - 7
+Kab. Sindenreng Rappang,Pitu Riawa,62000,5 - 7
+Kab. Sindenreng Rappang,Sidrap,62000,5 - 7
+Kab. Wajo,Sengkang,49000,3 - 5
+Kab. Wajo,Belawa,62000,5 - 7
+Kab. Wajo,Majauleng,62000,5 - 7
+Kab. Wajo,Maniang Pajo,62000,5 - 7
+Kab. Wajo,Pamanna,62000,5 - 7
+Kab. Wajo,Pitumpanua,62000,5 - 7
+Kab. Wajo,Sabbang Paru,62000,5 - 7
+Kab. Wajo,Sajoanging,62000,5 - 7
+Kab. Wajo,Takkalalla,62000,5 - 7
+Kab. Wajo,Tana Sitolo,62000,5 - 7
+Kab. Wajo,Bola,62000,5 - 7
+Kab. Wajo,Gilireng,62000,5 - 7
+Kab. Wajo,Keera,62000,5 - 7
+Kab. Wajo,Penrang,62000,5 - 7
+Kab. Wajo,Tempe,62000,5 - 7
+Kab. Sinjai,Sinjai,49000,3 - 5
+Kab. Sinjai,Sinjai Barat,62000,5 - 7
+Kab. Sinjai,Sinjai Selatan,62000,5 - 7
+Kab. Sinjai,Sinjai Tengah,62000,5 - 7
+Kab. Sinjai,Sinjai Timur,62000,5 - 7
+Kab. Sinjai,Sinjai Utara,62000,5 - 7
+Kab. Sinjai,Bulupoddo,62000,5 - 7
+Kab. Sinjai,Pulau Sembilan,62000,5 - 7
+Kab. Sinjai,Sinjai Borong,62000,5 - 7
+Kab. Sinjai,Tellu Limpoe,62000,5 - 7
+Kab. Goa,Sungguminasa,32000,2 - 3
+Kab. Goa,Bajeng,62000,5 - 7
+Kab. Goa,Bontomarannu,62000,5 - 7
+Kab. Goa,Bontonompo,62000,5 - 7
+Kab. Goa,Bungaya,62000,5 - 7
+Kab. Goa,Pallangga,62000,5 - 7
+Kab. Goa,Parangloe,62000,5 - 7
+Kab. Goa,Tinggimoncong,62000,5 - 7
+Kab. Goa,Tompobulu,62000,5 - 7
+Kab. Goa,Barombong,62000,5 - 7
+Kab. Goa,Biringbulu,62000,5 - 7
+Kab. Goa,Somba Opu,62000,5 - 7
+Kab. Goa,Tombolo Pao,62000,5 - 7
+Kab. Takalar,Takalar,49000,3 - 5
+Kab. Takalar,Galesong Selatan,62000,5 - 7
+Kab. Takalar,Galesong Utara,62000,5 - 7
+Kab. Takalar,Mangara Bombang,62000,5 - 7
+Kab. Takalar,Mappakasunggu,62000,5 - 7
+Kab. Takalar,Patallassang,62000,5 - 7
+Kab. Takalar,Polobangkeng Selatan,62000,5 - 7
+Kab. Takalar,Polobangkeng Utara,62000,5 - 7
+Kab. Bone,Watampone,49000,3 - 5
+Kab. Bone,Ajangale,62000,5 - 7
+Kab. Bone,Barebbo,62000,5 - 7
+Kab. Bone,Bontocani,62000,5 - 7
+Kab. Bone,Cenrana,62000,5 - 7
+Kab. Bone,Cina,62000,5 - 7
+Kab. Bone,Dua Boccoe,62000,5 - 7
+Kab. Bone,Kahu,62000,5 - 7
+Kab. Bone,Kajuara,62000,5 - 7
+Kab. Bone,Lamuru,62000,5 - 7
+Kab. Bone,Lappariaja,62000,5 - 7
+Kab. Bone,Libureng,62000,5 - 7
+Kab. Bone,Mare,62000,5 - 7
+Kab. Bone,Ponre,62000,5 - 7
+Kab. Bone,Salomekko,62000,5 - 7
+Kab. Bone,Sibulue,62000,5 - 7
+Kab. Bone,Tellu Siattinge,62000,5 - 7
+Kab. Bone,Tonra,62000,5 - 7
+Kab. Bone,Ulaweng,62000,5 - 7
+Kab. Bone,Amali,62000,5 - 7
+Kab. Bone,Awangpone,62000,5 - 7
+Kab. Bone,Bengo,62000,5 - 7
+Kab. Bone,Palakka,62000,5 - 7
+Kab. Bone,Patimpeng,62000,5 - 7
+Kab. Bone,Tanete Riattang,62000,5 - 7
+Kab. Bone,Tanete Riattang Barat,62000,5 - 7
+Kab. Bone,Tanete Riattang Timur,62000,5 - 7
+Kab. Soppeng,Watansoppeng,49000,3 - 5
+Kab. Soppeng,Donri Donri,62000,5 - 7
+Kab. Soppeng,Lili Riaja,62000,5 - 7
+Kab. Soppeng,Lili Rilau,62000,5 - 7
+Kab. Soppeng,Mario Riwawo,62000,5 - 7
+Kab. Soppeng,Mario Riawa,62000,5 - 7
+Kab. Soppeng,Ganra,62000,5 - 7
+Kab. Soppeng,Lalabata,62000,5 - 7
+Kab. Selayar,Benteng,49000,3 - 5
+Kab. Selayar,Bontosikuyu,62000,5 - 7
+Kab. Selayar,Bontomatene,62000,5 - 7
+Kab. Selayar,Pasimarannu,62000,5 - 7
+Kab. Selayar,Pasimasunggu,62000,5 - 7
+Kab. Selayar,Bontoharu,62000,5 - 7
+Kab. Selayar,Bontomanai,62000,5 - 7
+Kab. Selayar,Pasilambena,62000,5 - 7
+Kab. Selayar,Takabonerate,62000,5 - 7
+Kab. Pangkajene Kepulauan,Pangkajene,49000,3 - 5
+Kab. Pangkajene Kepulauan,Balocci,62000,5 - 7
+Kab. Pangkajene Kepulauan,Bungoro,62000,5 - 7
+Kab. Pangkajene Kepulauan,Labakkang,62000,5 - 7
+Kab. Pangkajene Kepulauan,Liukang Tangaya,62000,5 - 7
+Kab. Pangkajene Kepulauan,Liukang Tupabiring,62000,5 - 7
+Kab. Pangkajene Kepulauan,Ma'Rang,62000,5 - 7
+Kab. Pangkajene Kepulauan,Segeri,62000,5 - 7
+Kab. Pangkajene Kepulauan,Kalukuang Masalima,62000,5 - 7
+Kab. Pangkajene Kepulauan,Mandalle,62000,5 - 7
+Kab. Pangkajene Kepulauan,Minasa Te'ne,62000,5 - 7
+Kab. Pangkajene Kepulauan,Tondong Talasa,62000,5 - 7
+Kota Pare-Pare,Pare-Pare,49000,3 - 5
+Kota Pare-Pare,Bacukiki,49000,3 - 5
+Kota Pare-Pare,Soreang,49000,3 - 5
+Kota Pare-Pare,Ujung,49000,3 - 5
+Kab. Luwu Utara,Belopa,49000,3 - 5
+Kab. Luwu Utara,Bajo,62000,5 - 7
+Kab. Luwu Utara,Bassesangtempe,62000,5 - 7
+Kab. Luwu Utara,Bua,62000,5 - 7
+Kab. Luwu Utara,Bua Ponrang,62000,5 - 7
+Kab. Luwu Utara,Kamanre,62000,5 - 7
+Kab. Luwu Utara,Lamasi,62000,5 - 7
+Kab. Luwu Utara,Larompong,62000,5 - 7
+Kab. Luwu Utara,Laronpong Selatan,62000,5 - 7
+Kab. Luwu Utara,Latimojong,62000,5 - 7
+Kab. Luwu Utara,Poncang,62000,5 - 7
+Kab. Luwu Utara,Suli,62000,5 - 7
+Kab. Luwu Utara,Walenrang,62000,5 - 7
+Kab. Luwu Timur,Malili / Soroako,49000,3 - 5
+Kab. Luwu Timur,Angkona,62000,5 - 7
+Kab. Luwu Timur,Burau,62000,5 - 7
+Kab. Luwu Timur,Mangkutana,62000,5 - 7
+Kab. Luwu Timur,Nuha,62000,5 - 7
+Kab. Luwu Timur,Tomoni,62000,5 - 7
+Kab. Luwu Timur,Towuti,62000,5 - 7
+Kab. Luwu Timur,Wotu,62000,5 - 7
+Kab. Luwu Utara,Masamba,49000,3 - 5
+Kab. Luwu Utara,Baebunta,62000,5 - 7
+Kab. Luwu Utara,Bone-Bone,62000,5 - 7
+Kab. Luwu Utara,Limbong,62000,5 - 7
+Kab. Luwu Utara,Malangke,62000,5 - 7
+Kab. Luwu Utara,Malangke Barat,62000,5 - 7
+Kab. Luwu Utara,Mappedeceng,62000,5 - 7
+Kab. Luwu Utara,Rampi,62000,5 - 7
+Kab. Luwu Utara,Sabbang,62000,5 - 7
+Kab. Luwu Utara,Seko,62000,5 - 7
+Kab. Luwu Utara,Sukamaju,62000,5 - 7
+Kab. Mamasa,Mamasa,49000,3 - 5
+Kab. Mamasa,Aralle,62000,5 - 7
+Kab. Mamasa,Mambi,62000,5 - 7
+Kab. Mamasa,Messawa,62000,5 - 7
+Kab. Mamasa,Pana,62000,5 - 7
+Kab. Mamasa,Nosu,62000,5 - 7
+Kab. Mamasa,Sesena Padang,62000,5 - 7
+Kab. Mamasa,Sumarorong,62000,5 - 7
+Kab. Mamasa,Tabang,62000,5 - 7
+Kab. Mamasa,Tabulahan,62000,5 - 7
+Kab. Mamasa,Tanduk Kalua,62000,5 - 7
+Kab. Mamuju Utara,Pasangkayu,49000,3 - 5
+Kab. Mamuju Utara,Bambalamotu,62000,5 - 7
+Kab. Mamuju Utara,Baras,62000,5 - 7
+Kab. Mamuju Utara,Sarudu,62000,5 - 7
