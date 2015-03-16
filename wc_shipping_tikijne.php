@@ -91,7 +91,7 @@ if(!class_exists('WC_Shipping_Tikijne'))
 					// To display new shipping method in woocommerce shipping menu
 					add_action('woocommerce_update_options_shipping_methods', array(&$this, 'process_admin_options'));
 					add_action('woocommerce_update_options_payment_gateways',array(&$this, 'process_admin_options'));
-					add_filter( 'woocommerce_checkout_fields' , array(&$this, 'custom_checkout_fields' ));
+					
 					//add_action('init',array(&$this,'register_session'));
 					$this -> activate();
 		}
@@ -110,108 +110,7 @@ if(!class_exists('WC_Shipping_Tikijne'))
      				);
 	} // End init_form_fields()
 
- /* Customize order review fields when checkout */
-		 // Our hooked in function - $fields is passed via the filter! 
-	public function custom_checkout_fields( $fields ) {
-		 $fields['order']['order_comments']['label'] = __('JNE Shipping Class','woocommerce'); 
-		 $fields['order']['order_comments']['type'] = 'select';
-		 $fields['order']['order_comments']['required'] = true; 
-		 $fields['order']['order_comments']['options'] =  array ( 
-			'' => __('Please select', 'woocommerce'),
-			'REGULAR' => 'JNE REGULAR'
-		 );
-			$fields['order']['order_comments']['class'] = array (
-			'form-row','form-row-wide','address_field','validate-required','update_totals_on_change');//,'address-field','validate-required' );
 
-		 $billing_first_name_tmp = $fields['billing']['billing_first_name'];
-		 $billing_last_name_tmp = $fields['billing']['billing_last_name'];
-	         $shipping_first_name_tmp = $fields['shipping']['shipping_first_name'];
-		 $shipping_last_name_tmp = $fields['shipping']['shipping_last_name'];
-		 $billing_state_tmp = $fields['billing']['billing_state'];
-		 $shipping_state_tmp = $fields['shipping']['shipping_state'];
-		 $billing_address_1_tmp = $fields['billing']['billing_address_1'];
-		 $shipping_address_1_tmp = $fields['shipping']['shipping_address_1'];
-	  	 $billing_city_tmp = $fields['billing']['billing_city'];
-		 $shipping_city_tmp = $fields['shipping']['shipping_city'];
-		 $billing_address_2_tmp = $fields['billing']['billing_address_2'];
-		 $shipping_address_2_tmp = $fields['shipping']['shipping_address_2'];
-		 $billing_postcode_tmp = $fields['billing']['billing_postcode'];
-		 $shipping_postcode_tmp = $fields['shipping']['shipping_postcode'];
-		 $billing_phone_tmp = $fields['billing']['billing_phone'];
-		 $billing_email_tmp = $fields['billing']['billing_email'];
-		 $shipping_country_tmp = $fields['shipping']['shipping_country'];
-		 $billing_country_tmp = $fields['billing']['billing_country'];
-		 unset($fields['billing']);
-		 unset($fields['shipping']);
-		
-		 $fields['billing']['billing_first_name'] = $billing_first_name_tmp;
-		 $fields['billing']['billing_last_name'] = $billing_last_name_tmp;
-		
-		 $fields['shipping']['shipping_first_name'] = $shipping_first_name_tmp;
-		 $fields['shipping']['shipping_last_name'] = $shipping_last_name_tmp;
-			
-		 $fields['billing']['billing_address_1'] = $billing_address_1_tmp;
-                 $fields['billing']['billing_address_1']['label'] = 'Alamat Lengkap';
-                 $fields['billing']['billing_address_1']['placeholder'] = '';
-	
-		 $fields['shipping']['shipping_address_1'] = $shipping_address_1_tmp;
-                 $fields['shipping']['shipping_address_1']['label'] = 'Alamat Lengkap';
-                 $fields['shipping']['shipping_address_1']['placeholder'] = '';
-
-		 $list_of_kota_kabupaten = get_list_of_kota_kabupaten();
-
-		 $fields['billing']['billing_city'] = $billing_city_tmp;
-                 $fields['billing']['billing_city']['label'] = 'Kota/Kabupaten';
-                 $fields['billing']['billing_city']['placeholder'] = 'Select Kota/Kabupaten';
-                 $fields['billing']['billing_city']['type'] = 'select';
-                 $fields['billing']['billing_city']['options'] = $list_of_kota_kabupaten;
-
-                 $fields['shipping']['shipping_city'] = $shipping_city_tmp;
-                 $fields['shipping']['shipping_city']['label'] = 'Kota/Kabupaten';
-                 $fields['shipping']['shipping_city']['placeholder'] = 'Select Kota/Kabupaten';
-                 $fields['shipping']['shipping_city']['type'] = 'select';
-                 $fields['shipping']['shipping_city']['options'] = $list_of_kota_kabupaten;
-
-		 $list_of_kecamatan = get_list_of_kecamatan('init');
-		 $fields['billing']['billing_address_2'] = $billing_address_2_tmp;
-		 $fields['billing']['billing_address_2']['label'] = 'Kecamatan';
-		 $fields['billing']['billing_address_2']['type'] = 'select'; 
-		 $fields['billing']['billing_address_2']['placeholder'] = 'Select Kecamatan';
-		 $fields['billing']['billing_address_2']['required'] = true;
-		 $fields['billing']['billing_address_2']['class'] = array(
-                         'form-row','form-row-wide','address-field','validate-required','update_totals_on_change');
-		 $fields['billing']['billing_address_2']['options'] = $list_of_kecamatan;
-		
- 		 $fields['shipping']['shipping_address_2'] = $shipping_address_2_tmp;
-		 $fields['shipping']['shipping_address_2']['label'] = 'Kecamatan';
-		 $fields['shipping']['shipping_address_2']['type'] = 'select';
-		 $fields['shipping']['shipping_address_2']['placeholder'] = 'Select Kecamatan';
-		 $fields['shipping']['shipping_address_2']['required'] = true;
-		 $fields['shipping']['shipping_address_2']['class'] = array(
-                         'form-row','form-row-wide','address-field','validate-required','update_totals_on_change');
-	  	 $fields['shipping']['shipping_address_2']['options'] = $list_of_kecamatan;
-		
-		 $fields['billing']['billing_address_3']['label'] = 'Kelurahan';
-                 $fields['billing']['billing_address_3']['type'] = 'text';
-		 $fields['billing']['billing_address_3']['required'] = true;
-                 $fields['shipping']['shipping_address_3']['label'] = 'Kelurahan';
-		 $fields['shipping']['shipping_address_3']['required'] = true;
-                 $fields['shipping']['shipping_address_3']['type'] = 'text';
-	
-		 $fields['billing']['billing_state'] = $billing_state_tmp;
-		 $fields['billing']['billing_state']['class'] = array('form-row','form-row-first','address_field','validate-required','update_totals_on_change');
-	      	 $fields['billing']['billing_postcode'] = $billing_postcode_tmp;
-		 
-		 $fields['shipping']['shipping_state'] = $shipping_state_tmp;
-		 $fields['shipping']['shipping_state']['class'] = array('form-row','form-row-first','address_field','validate-required','update_totals_on_change');
-	  	 $fields['shipping']['shipping_postcode'] = $shipping_postcode_tmp;
-		 $fields['billing']['billing_country'] = $billing_country_tmp;
-		 $fields['billing']['billing_email'] = $billing_email_tmp;
-		 $fields['billing']['billing_phone'] = $billing_phone_tmp;
-		 $fields['shipping']['shipping_country'] = $shipping_country_tmp;
-
-		 return $fields;
-		}
 
    // Our hooked in function - $fields is passed via the filter!
 	public function admin_options() {
@@ -344,7 +243,109 @@ if(!class_exists('WC_Shipping_Tikijne'))
 		}
 		add_action('wp_footer','remove_manage_options_capability');
 
+	 /* Customize order review fields when checkout */
+		 // Our hooked in function - $fields is passed via the filter! 
+	function custom_checkout_fields( $fields ) {
+		 $fields['order']['order_comments']['label'] = __('JNE Shipping Class','woocommerce'); 
+		 $fields['order']['order_comments']['type'] = 'select';
+		 $fields['order']['order_comments']['required'] = true; 
+		 $fields['order']['order_comments']['options'] =  array ( 
+			'' => __('Please select', 'woocommerce'),
+			'REGULAR' => 'JNE REGULAR'
+		 );
+			$fields['order']['order_comments']['class'] = array (
+			'form-row','form-row-wide','address_field','validate-required','update_totals_on_change');//,'address-field','validate-required' );
+
+		 $billing_first_name_tmp = $fields['billing']['billing_first_name'];
+		 $billing_last_name_tmp = $fields['billing']['billing_last_name'];
+	         $shipping_first_name_tmp = $fields['shipping']['shipping_first_name'];
+		 $shipping_last_name_tmp = $fields['shipping']['shipping_last_name'];
+		 $billing_state_tmp = $fields['billing']['billing_state'];
+		 $shipping_state_tmp = $fields['shipping']['shipping_state'];
+		 $billing_address_1_tmp = $fields['billing']['billing_address_1'];
+		 $shipping_address_1_tmp = $fields['shipping']['shipping_address_1'];
+	  	 $billing_city_tmp = $fields['billing']['billing_city'];
+		 $shipping_city_tmp = $fields['shipping']['shipping_city'];
+		 $billing_address_2_tmp = $fields['billing']['billing_address_2'];
+		 $shipping_address_2_tmp = $fields['shipping']['shipping_address_2'];
+		 $billing_postcode_tmp = $fields['billing']['billing_postcode'];
+		 $shipping_postcode_tmp = $fields['shipping']['shipping_postcode'];
+		 $billing_phone_tmp = $fields['billing']['billing_phone'];
+		 $billing_email_tmp = $fields['billing']['billing_email'];
+		 $shipping_country_tmp = $fields['shipping']['shipping_country'];
+		 $billing_country_tmp = $fields['billing']['billing_country'];
+		 unset($fields['billing']);
+		 unset($fields['shipping']);
+		
+		 $fields['billing']['billing_first_name'] = $billing_first_name_tmp;
+		 $fields['billing']['billing_last_name'] = $billing_last_name_tmp;
+		
+		 $fields['shipping']['shipping_first_name'] = $shipping_first_name_tmp;
+		 $fields['shipping']['shipping_last_name'] = $shipping_last_name_tmp;
+			
+		 $fields['billing']['billing_address_1'] = $billing_address_1_tmp;
+                 $fields['billing']['billing_address_1']['label'] = 'Alamat Lengkap';
+                 $fields['billing']['billing_address_1']['placeholder'] = '';
 	
+		 $fields['shipping']['shipping_address_1'] = $shipping_address_1_tmp;
+                 $fields['shipping']['shipping_address_1']['label'] = 'Alamat Lengkap';
+                 $fields['shipping']['shipping_address_1']['placeholder'] = '';
+
+		 $list_of_kota_kabupaten = get_list_of_kota_kabupaten();
+
+		 $fields['billing']['billing_city'] = $billing_city_tmp;
+                 $fields['billing']['billing_city']['label'] = 'Kota/Kabupaten';
+                 $fields['billing']['billing_city']['placeholder'] = 'Select Kota/Kabupaten';
+                 $fields['billing']['billing_city']['type'] = 'select';
+                 $fields['billing']['billing_city']['options'] = $list_of_kota_kabupaten;
+
+                 $fields['shipping']['shipping_city'] = $shipping_city_tmp;
+                 $fields['shipping']['shipping_city']['label'] = 'Kota/Kabupaten';
+                 $fields['shipping']['shipping_city']['placeholder'] = 'Select Kota/Kabupaten';
+                 $fields['shipping']['shipping_city']['type'] = 'select';
+                 $fields['shipping']['shipping_city']['options'] = $list_of_kota_kabupaten;
+
+		 $list_of_kecamatan = get_list_of_kecamatan('init');
+		 $fields['billing']['billing_address_2'] = $billing_address_2_tmp;
+		 $fields['billing']['billing_address_2']['label'] = 'Kecamatan';
+		 $fields['billing']['billing_address_2']['type'] = 'select'; 
+		 $fields['billing']['billing_address_2']['placeholder'] = 'Select Kecamatan';
+		 $fields['billing']['billing_address_2']['required'] = true;
+		 $fields['billing']['billing_address_2']['class'] = array(
+                         'form-row','form-row-wide','address-field','validate-required','update_totals_on_change');
+		 $fields['billing']['billing_address_2']['options'] = $list_of_kecamatan;
+		
+ 		 $fields['shipping']['shipping_address_2'] = $shipping_address_2_tmp;
+		 $fields['shipping']['shipping_address_2']['label'] = 'Kecamatan';
+		 $fields['shipping']['shipping_address_2']['type'] = 'select';
+		 $fields['shipping']['shipping_address_2']['placeholder'] = 'Select Kecamatan';
+		 $fields['shipping']['shipping_address_2']['required'] = true;
+		 $fields['shipping']['shipping_address_2']['class'] = array(
+                         'form-row','form-row-wide','address-field','validate-required','update_totals_on_change');
+	  	 $fields['shipping']['shipping_address_2']['options'] = $list_of_kecamatan;
+		
+		 $fields['billing']['billing_address_3']['label'] = 'Kelurahan';
+                 $fields['billing']['billing_address_3']['type'] = 'text';
+		 $fields['billing']['billing_address_3']['required'] = true;
+                 $fields['shipping']['shipping_address_3']['label'] = 'Kelurahan';
+		 $fields['shipping']['shipping_address_3']['required'] = true;
+                 $fields['shipping']['shipping_address_3']['type'] = 'text';
+	
+		 $fields['billing']['billing_state'] = $billing_state_tmp;
+		 $fields['billing']['billing_state']['class'] = array('form-row','form-row-first','address_field','validate-required','update_totals_on_change');
+	      	 $fields['billing']['billing_postcode'] = $billing_postcode_tmp;
+		 
+		 $fields['shipping']['shipping_state'] = $shipping_state_tmp;
+		 $fields['shipping']['shipping_state']['class'] = array('form-row','form-row-first','address_field','validate-required','update_totals_on_change');
+	  	 $fields['shipping']['shipping_postcode'] = $shipping_postcode_tmp;
+		 $fields['billing']['billing_country'] = $billing_country_tmp;
+		 $fields['billing']['billing_email'] = $billing_email_tmp;
+		 $fields['billing']['billing_phone'] = $billing_phone_tmp;
+		 $fields['shipping']['shipping_country'] = $shipping_country_tmp;
+
+		 return $fields;
+		}
+	add_filter( 'woocommerce_checkout_fields' ,  'custom_checkout_fields' );
 
 	function js_change_select_class() {
 			wp_enqueue_script('init_controls',plugins_url('/js/init_controls.js',__FILE__), array('jquery'));
