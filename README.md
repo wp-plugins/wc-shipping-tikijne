@@ -60,6 +60,9 @@ Once plugin is installed please activate it from activate link in the wordpress 
 == Screenshots ==
 1. Configuration : Enabling Woo-commerce JNE Plugin, Dashboard > Woocommerce > Setting > Shipping > JNE
 2. Configuration : Enabling Shipping Debug Mode and Template Debug Mode, Dashboard > Woocommerce > System Status > Tools
+3. Configuration : Recommended configuration on woocommerce general setting
+4. Configuration : Recommended configuration on shipping options
+5. Configuration : Recommended configuration, make JNE as default shipping method
 
 
 == Change Log ==
