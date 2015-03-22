@@ -28,7 +28,7 @@ This plugin is built using WordPress best practises both on the front and the ba
 
 = Customizable =
 
-This version will allow you to get tariff JNE tariff from Jakarta to all around cities in Indonesia in Regular tariff only. Your business is unique, you may modify this plugin to meet your business requirement. You may refer to woocommerce plugin customization page and wordpress plugin development page to do it. We have full version of plugin with JNE OKE and YES and it supports volume metrics tariff. [buy full version now](http://www.epeken.com). Or, Any concerns and questions, you may submit them and contact me : imam.prkso-at-gmail.com.
+Your business is unique, you may modify this plugin to meet your business requirement. You may refer to woocommerce plugin customization page and wordpress plugin development page to do it. This version will allow you to get tariff JNE tariff from Jakarta to all around cities in Indonesia in Regular (JNE REG) tariff only. We have full version of plugin with JNE OKE and YES and it supports volume metrics tariff. [buy full version now](http://www.epeken.com). Or, Any concerns and questions, you may submit them and contact me : support@epeken.com.
 
 == Installation ==
 
