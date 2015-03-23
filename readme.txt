@@ -20,7 +20,9 @@ It is written simply and beautifully
 
 Add new shipping method into your woocommerce wordpress plugin. That is JNE shipping method for Indonesia marketplace. You would have shipping method using JNE based on kota/kabupaten(City) and Kecamatan by having this plugin.
 
-This plugin is developed by epeken. copyright (c) 2015 by epeken
+[Try Our Demo](http://www.epeken.com/demo)
+
+This plugin is developed by epeken. copyright (c) 2015 by [epeken](http://www.epeken.com)
 
 = Strength & flexibility =
 
