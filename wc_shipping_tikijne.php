@@ -5,7 +5,7 @@ Plugin Name: Woo-commerce JNE Plugin - Free Version
 Plugin URI: https://wordpress.org/plugins/wc-shipping-tikijne 
 Description: Woocommerce Shipping Tiki JNE for Indonesia Market Place ecommerce shipping. Free Version
 Version: 1.0
-Author: Imam Prakoso
+Author: Epeken
 Author URI: http://www.epeken.com
 License: GPL2
 */
