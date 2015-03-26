@@ -3,9 +3,9 @@ if ( ! defined( 'ABSPATH' ) ) exit;
 /*
 Plugin Name: Woo-commerce JNE Plugin - Free Version
 Plugin URI: https://wordpress.org/plugins/wc-shipping-tikijne 
-Description: Woocommerce Shipping Tiki JNE for Indonesia Market Place ecommerce shipping. Free Version
-Version: 1.0
-Author: Epeken
+Description: Woocommerce Shipping Tiki JNE for Indonesia Market Place ecommerce shipping. Free Version. Wan't to get volume metrics function ? Buy The Full Version.
+Version: 1.1
+Author: www.epeken.com
 Author URI: http://www.epeken.com
 License: GPL2
 */
@@ -63,7 +63,7 @@ if(!class_exists('WC_Shipping_Tikijne'))
 		public function div_loading(){
 			?>
 			<div id="div_load_trf" style='position: fixed; margin: 0 auto; top: 50%; left: 50%; width: 300px; height: 100px; background-color: #FFFFFF; border-radius: 10px;z-index: 9999;border-style: solid; border-color: #F1F1F1;'>
-                                        <p style='margin: 10px;'>Message from <?php echo $this->title.' '.'plugin:<br>'?>Please wait while waiting JNE tariff is being loaded. You may perform another activity while it is loading. It may take view minutes.</p>
+                                        <p style='margin: 10px;'>Message from <a href="http://www.epeken.com" target="_blank">epeken</a><br>Please wait while waiting JNE tariff is being loaded. You may perform another activity while it is loading. It may take view minutes.</p>
                                         <p style='position: relative; float: left; top: -80px; left: 120px; z-index: -1;'><img src='<?php echo plugins_url('assets/load.gif',__FILE__); ?>'</p> 
 			<script language='javascript'>
 				setTimeout("location.reload(true);",10000);
@@ -80,7 +80,6 @@ if(!class_exists('WC_Shipping_Tikijne'))
     				 ));
 		}
 
-	
 
 		public function init() {
 					// Load the settings API
