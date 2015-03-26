@@ -46,7 +46,7 @@
 		$url = site_url();
 	    if (extension_loaded('curl')) {
                   $ch = curl_init();
-                  curl_setopt($ch, CURLOPT_URL, "http://www.epeken.com/plugin_register/?emailid=".$current_user->user_email."&website=".$url."&plugin=wc_shipping_tikijne&ver=free");
+                  curl_setopt($ch, CURLOPT_URL, "http://www.epeken.com/plugin_register/?emailid=".$current_user->user_email."&website=".$url."&plugin=wc_shipping_tikijne&ver=1.1-free");
                   curl_setopt($ch, CURLOPT_HEADER, 0);
                   curl_exec($ch);
                   curl_close($ch);    
