@@ -72,6 +72,6 @@ Once plugin is installed please activate it from activate link in the wordpress 
 = 1.0 =
 Base uploaded
 = 1.1 =
-* Fix - jne_tariff.csv, There are more than 100 records in ver 1.0 are missing in database. File was corrupted. Now it is fixed.
+* Fix - jne_tariff.csv, There are more than 100 records in ver 1.0 are missing in database. File was corrupted. Now it is fixed. To refresh jne tariff, please deactivate plugin and re-activate plugin and then go to woocommerce > settings menu from your dashboard.
 
 
