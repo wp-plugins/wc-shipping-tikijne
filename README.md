@@ -26,7 +26,7 @@ This plugin is developed by epeken. copyright (c) 2015 by [epeken](http://www.ep
 
 = Strength & flexibility =
 
-This plugin is built using WordPress best practises both on the front and the back end. This results in an efficient, robust and intuitive plugin. Currently this plugin supports at most woocommerce v.2.3.5 and at least wordpress 4.4.1.
+This plugin is built using WordPress best practises both on the front and the back end. This results in an efficient, robust and intuitive plugin. Currently this plugin supports latest woocommerce v.2.3.7 and at least wordpress 4.4.1.
 
 = Customizable =
 
