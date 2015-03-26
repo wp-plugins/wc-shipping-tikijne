@@ -69,5 +69,9 @@ Once plugin is installed please activate it from activate link in the wordpress 
 
 == Change Log ==
 
-1.0. Base uploaded
-1.1. Fixing:jne_tariff.csv, There are more than 100 records in ver 1.0 are missing in database. File was corrupted. Now it is fixed.
+= 1.0 =
+Base uploaded
+= 1.1 =
+* Fix - jne_tariff.csv, There are more than 100 records in ver 1.0 are missing in database. File was corrupted. Now it is fixed.
+
+
