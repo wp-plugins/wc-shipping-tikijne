@@ -2,6 +2,7 @@
 (function($){
 	billing_kecamatan = function(){
 			 $('#billing_city').on('change',function(){
+						$('#div_epeken_popup').css('display','block');
                                                 $.get(PT_Ajax_Bill_Kec.ajaxurl, 
                                                                 {
                                                                         action: 'get_list_kecamatan',
@@ -19,6 +20,7 @@
                                                                         });
                                                                 $('#billing_address_2').trigger('chosen:updated');
                                                 });
+						$('#div_epeken_popup').css('display','none');
                                         });
 	}
 })(jQuery);

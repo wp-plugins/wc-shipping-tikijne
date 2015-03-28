@@ -4,7 +4,7 @@ if ( ! defined( 'ABSPATH' ) ) exit;
 Plugin Name: Woo-commerce JNE Plugin - Free Version
 Plugin URI: https://wordpress.org/plugins/wc-shipping-tikijne 
 Description: Woocommerce Shipping Tiki JNE for Indonesia Market Place ecommerce shipping. Free Version. Do you want to get volume metrics functionality ? Buy The Full Version.
-Version: 1.1
+Version: 1.1.1
 Author: www.epeken.com
 Author URI: http://www.epeken.com
 License: GPL2
@@ -21,6 +21,7 @@ if(!class_exists('WC_Shipping_Tikijne'))
 		public  $shipping_cost;
 	  	public  $shipping_kecamatan;	
 		public  $shipping_city;
+		public  $popup_message;
 		
 		public function __construct(){
 			$this -> id = 'wc_shipping_tikijne';
@@ -56,20 +57,34 @@ if(!class_exists('WC_Shipping_Tikijne'))
 			}
 			
 			if($is_creating_db === '1'){
-				 add_action ('woocommerce_settings_start',array(&$this,'div_loading'));
+				 $this -> popup_message = "Please wait while waiting JNE tariff is being loaded. You may perform another activity while it is loading. It may take view minutes.";
+				 add_action ('woocommerce_settings_start',array(&$this,'div_loading'), $message);
 			}
 		}
 
 		public function div_loading(){
 			?>
 			<div id="div_load_trf" style='position: fixed; margin: 0 auto; top: 50%; left: 50%; width: 300px; height: 100px; background-color: #FFFFFF; border-radius: 10px;z-index: 9999;border-style: solid; border-color: #F1F1F1;'>
-                                        <p style='margin: 10px;'>Message from <a href="http://www.epeken.com" target="_blank">epeken</a><br>Please wait while waiting JNE tariff is being loaded. You may perform another activity while it is loading. It may take view minutes.</p>
+                                        <p style='margin: 10px;'>Message from <a href="http://www.epeken.com" target="_blank">epeken</a><br>
+			<?php echo $this->popup_message; ?>
+					</p>
                                         <p style='position: relative; float: left; top: -80px; left: 120px; z-index: -1;'><img src='<?php echo plugins_url('assets/load.gif',__FILE__); ?>'</p> 
 			<script language='javascript'>
 				setTimeout("location.reload(true);",10000);
 			</script>
                         </div>
 			<?php
+		}
+
+		public function popup(){
+			?>
+			<div  id="div_epeken_popup" style='position: fixed; margin: 0 auto; top: 50%; left: 40%; width: 300px; height: 100px; background-color: #EEEEEE; border-radius: 10px;z-index: 9999;border-style: solid; border-color: #F1F1F1;display: none;'>
+                                        <p style='margin: 10px;'>Message from <a href="http://www.epeken.com" target="_blank">epeken</a><br>
+                        <?php echo $this->popup_message; ?>
+                                        </p>
+                                        <p style='position: relative; float: left; top: -50px; left: 120px; z-index: -1;'><img src='<?php echo plugins_url('assets/load.gif',__FILE__); ?>'</p>
+                        </div>
+			<?php	
 		}
 
 		public function load_jne_tariff(){
@@ -90,8 +105,8 @@ if(!class_exists('WC_Shipping_Tikijne'))
 					// To display new shipping method in woocommerce shipping menu
 					add_action('woocommerce_update_options_shipping_methods', array(&$this, 'process_admin_options'));
 					add_action('woocommerce_update_options_payment_gateways',array(&$this, 'process_admin_options'));
-					
-					//add_action('init',array(&$this,'register_session'));
+					$this -> popup_message = "Please wait while loading kecamatan";
+       					add_action('woocommerce_before_checkout_billing_form',array(&$this, 'popup'));
 					$this -> activate();
 		}
 

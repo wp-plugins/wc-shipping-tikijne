@@ -2,6 +2,7 @@
 (function($){
 	shipping_kecamatan = function(){
 			 $('#shipping_city').on('change',function(){
+						$('#div_epeken_popup').css('display','block');
                                                 $.get(PT_Ajax_Ship_Kec.ajaxurl, 
                                                                 {
                                                                         action: 'get_list_kecamatan',
@@ -19,6 +20,7 @@
                                                                         });
                                                                 $('#shipping_address_2').trigger('chosen:updated');
                                                 });
+						$('#div_epeken_popup').css('display','none');
                                         });
 	}
 })(jQuery);
