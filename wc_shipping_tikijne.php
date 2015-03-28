@@ -58,7 +58,7 @@ if(!class_exists('WC_Shipping_Tikijne'))
 			
 			if($is_creating_db === '1'){
 				 $this -> popup_message = "Please wait while waiting JNE tariff is being loaded. You may perform another activity while it is loading. It may take view minutes.";
-				 add_action ('woocommerce_settings_start',array(&$this,'div_loading'), $message);
+				 add_action ('woocommerce_settings_start',array(&$this,'div_loading'));
 			}
 		}
 
