@@ -65,7 +65,7 @@ Once plugin is installed please activate it from activate link in the wordpress 
 3. Configuration : Recommended configuration on woocommerce general setting
 4. Configuration : Recommended configuration on shipping options
 5. Configuration : Recommended configuration, make JNE as default shipping method
-
+6. Configuration : Mandatory configuration, allow user/customer to register, Setting > General then check Membership anyone can register. set default role to customer or subscriber
 
 == Change Log ==
 
