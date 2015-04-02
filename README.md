@@ -75,4 +75,5 @@ Base uploaded
 * Fix - jne_tariff.csv, There are more than 100 records in ver 1.0 are missing in database. File was corrupted. Now it is fixed. To refresh jne tariff, please deactivate plugin and re-activate plugin and then go to woocommerce > settings menu from your dashboard.
 = 1.1.1 =
 * Tweak - adding popup while checkout page is loading kecamatan
-
+= 1.1.2 =
+* Fix - Some bugs were fixed, like removing var_dump from kecamatan drop down.
