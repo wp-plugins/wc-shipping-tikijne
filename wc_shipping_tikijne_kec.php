@@ -15,8 +15,6 @@
 		$li_kecamatan = get_list_of_kecamatan($kotakab);		
 	}
 
-	var_dump($li_kecamatan);
-	
 	foreach($li_kecamatan as $value){
 		echo trim($value).';';
 	} 
