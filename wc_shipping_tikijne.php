@@ -22,6 +22,9 @@ if(!class_exists('WC_Shipping_Tikijne'))
 	  	public  $shipping_kecamatan;	
 		public  $shipping_city;
 		public  $popup_message;
+		public  $min_allow_fs;
+		public  $total_cart;
+		public  $is_free_shipping;
 		
 		public function __construct(){
 			$this -> id = 'wc_shipping_tikijne';
@@ -29,6 +32,7 @@ if(!class_exists('WC_Shipping_Tikijne'))
 			$this -> method_description = __('Shipping Method using Tiki JNE for Indonesia Marketplace');
 			$this -> enabled = 'yes';
 			$this -> title = 'JNE';
+			$this -> is_free_shipping = false;
 			$this -> init();			
 		}
 
@@ -120,16 +124,21 @@ if(!class_exists('WC_Shipping_Tikijne'))
                                                         'type'                  => 'checkbox',
                                                         'label'                 => __( 'Enable this shipping method', 'woocommerce' ),
                                                         'default'               => 'yes',
-                                                	)
+                                                	),
+                                                'freeship' => array(
+                                                        'title' => __('Nominal Belanja Minimum, Dapat Free Shipping (Biarkan 0 jika ingin free shipping disabled.)','woocommerce'),
+                                                        'type'  => 'text',
+                                                        'default' => '0',
+                                                 ),
+
      				);
 	} // End init_form_fields()
-
 
 
    // Our hooked in function - $fields is passed via the filter!
 	public function admin_options() {
  		?>
- 		<h2><?php _e('Tiki JNE Shipping Settings','woocommerce'); ?></h2>
+ 		<h2><?php _e('Epeken JNE Shipping Settings','woocommerce'); ?></h2>
 		 <table class="form-table">
 		 <?php $this->generate_settings_html(); ?>
 		 </table> <?php
@@ -211,9 +220,20 @@ if(!class_exists('WC_Shipping_Tikijne'))
 				}
 	}
 
-	public function calculate_shipping( $package ) {		
+	public function calculate_shipping( $package ) {	
 		$this -> set_shipping_cost();
+		$this -> if_total_got_free_shipping();
+		if($this -> is_free_shipping){
+			 $rate = array(
+                        'id' => $this -> id,
+                        'label' => $this -> title,
+                        'cost' => 0 
+                        );
+                        $this->add_rate($rate);   
+			return;
+		}		
 		if ($this -> shipping_cost > 0) {
+
 		$rate = array(
 			'id' => $this -> id,
 			'label' => $this -> title,
@@ -221,9 +241,26 @@ if(!class_exists('WC_Shipping_Tikijne'))
 			//'calc_tax' => 'per_item'
 			);
 			// Register the rate
-			$this->add_rate( $rate );	
-	        }
+			$this->add_rate($rate);	
+		}
 			
+	}
+
+	public function if_total_got_free_shipping(){
+		global $woocommerce;
+		$this -> total_cart = floatval( preg_replace( '#[^\d.]#', '', $woocommerce->cart->get_cart_total() ) );
+		$this -> total_cart = $this->total_cart/100;
+		$this -> min_allow_fs  = floatval($this -> settings['freeship']);
+		if ($this -> min_allow_fs == 0){
+			$this -> min_allow_fs = false;
+			return;
+		}
+                if ($this->total_cart >= $this->min_allow_fs)
+                {
+                        $this -> is_free_shipping = true;
+                }else{
+                        $this -> is_free_shipping = false;
+                }
 	}
 
 	}	// End Class WC_Shipping_Tikijne
