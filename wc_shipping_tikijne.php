@@ -3,7 +3,7 @@ if ( ! defined( 'ABSPATH' ) ) exit;
 /*
 Plugin Name: Epeken JNE Plugin - Free Version
 Plugin URI: https://wordpress.org/plugins/wc-shipping-tikijne 
-Description: Epeken JNE Plugin for Indonesia Market Place ecommerce shipping method. Free Version. Do you want to get volume metrics functionality ? Buy The Full Version.
+Description: Epeken JNE Plugin for Indonesia Market Place ecommerce shipping method. Free Version. Do you want to get volume metrics functionality ? <a href="http://www.epeken.com/shop/woo-commerce-jne-plugin-full-version/" target="_blank">Buy Full Version</a>.
 Version: 1.1.3
 Author: www.epeken.com
 Author URI: http://www.epeken.com
