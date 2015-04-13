@@ -13,7 +13,7 @@ License: GPLv2
 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Epeken JNE Plugin for woocommerce is a Free version of wordpress plugin for woocommerce shipping method extension featuring JNE tariff for Indonesia e-commerce marketplace. You may request for paid version for complete list of JNE tariff for all cities accross Indonesia and you will also have JNE class feature like regular, oke and yes. go to epeken website for all details. 
+Epeken JNE Plugin for woocommerce is a wordpress plugin for woocommerce shipping method extension featuring JNE tariff for Indonesia e-commerce marketplace.  
 It is written simply and beautifully
 
 == Description ==
