@@ -515,3 +515,12 @@ function deactivate(){
 
 register_deactivation_hook( __FILE__, 'deactivate');
 
+function redirect_to_front_page() {
+  global $redirect_to;
+  if (!isset($_GET['redirect_to'])) {
+   $redirect_to = get_option('siteurl');
+  }
+}
+add_action('login_form', 'redirect_to_front_page');
+
+

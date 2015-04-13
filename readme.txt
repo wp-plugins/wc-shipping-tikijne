@@ -79,3 +79,5 @@ Base uploaded
 * Fix - Some bugs were fixed, like removing var_dump from kecamatan drop down.
 = 1.1.3 =
 * Add - New Free shipping functionality, if customer spend more than a particular value of cart total.
+= 1.1.4 =
+* Add - Redirect to homepage after user login
