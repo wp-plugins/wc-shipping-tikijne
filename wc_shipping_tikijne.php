@@ -301,7 +301,7 @@ if(!class_exists('WC_Shipping_Tikijne'))
 		 $fields['order']['order_comments']['type'] = 'select';
 		 $fields['order']['order_comments']['required'] = true; 
 		 $fields['order']['order_comments']['options'] =  array ( 
-			'' => __('Please select', 'woocommerce'),
+			//'' => __('Please select', 'woocommerce'),
 			'REGULAR' => 'JNE REGULAR'
 		 );
 			$fields['order']['order_comments']['class'] = array (
