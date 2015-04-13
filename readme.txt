@@ -1,5 +1,5 @@
 # Epeken JNE Plugin for Woocommerce
-Contributors: prakoso @ epeken
+Contributors: support@epeken.com
 
 Tags: ecommerce, e-commerce, commerce, woothemes, wordpress ecommerce, affiliate, store, sales, sell, shop, shopping, cart, checkout, configurable, variable, widgets, reports, download, downloadable, digital, inventory, stock, reports, shipping, tax, JNE, Tiki, Indonesia
 
