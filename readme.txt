@@ -64,7 +64,6 @@ Once plugin is installed please activate it from activate link in the wordpress 
 3. Configuration : Recommended configuration on woocommerce general setting
 4. Configuration : Recommended configuration on shipping options
 5. Configuration : Recommended configuration, make JNE as default shipping method
-6. Configuration : Mandatory configuration, allow user/customer to register, Setting > General then check Membership anyone can register. set default role to customer or subscriber
 
 == Change Log ==
 
@@ -80,3 +79,5 @@ Base uploaded
 * Add - New Free shipping functionality, if customer spend more than a particular value of cart total.
 = 1.1.4 =
 * Add - Redirect to homepage after user login
+= 1.2.0 =
+* Tweak - Customer doesn't need to login to get JNE tariff. Big Change, SIMPLER. Customer Experience will increase.
