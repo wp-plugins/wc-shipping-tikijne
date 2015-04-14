@@ -198,7 +198,7 @@ if(!class_exists('WC_Shipping_Tikijne'))
 	}
 		
 	public function set_shipping_cost() {
-			  $this -> writelog("Set Shipping Cost Start"); 
+			  //$this -> writelog("Set Shipping Cost Start"); 
 			  if($_POST['action'] === 'woocommerce_update_order_review')	{
 				$this -> get_jne_class_value();
 				$isshippedifadr = $this -> get_checkout_post_data('ship_to_different_address');
@@ -243,11 +243,11 @@ if(!class_exists('WC_Shipping_Tikijne'))
 					$this -> shipping_cost = get_tarif($this -> shipping_city, $this -> shipping_kecamatan, $this -> jneclass);
 					$this -> title = 'JNE REGULAR';
 				}
-			 $this -> writelog("Set Shipping Cost End");
+			 //$this -> writelog("Set Shipping Cost End");
 	}
 
 	public function calculate_shipping( $package ) {	
-		$this -> writelog("Calculate Shipping Start");
+		//$this -> writelog("Calculate Shipping Start");
 		$this -> set_shipping_cost();
 		$this -> if_total_got_free_shipping();
 
@@ -271,7 +271,7 @@ if(!class_exists('WC_Shipping_Tikijne'))
 			// Register the rate
 			$this->add_rate($rate);	
 		}
-		$this -> writelog("Calculate Shipping End");
+		//$this -> writelog("Calculate Shipping End");
 			
 	}
 
