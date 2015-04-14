@@ -4,7 +4,7 @@ if ( ! defined( 'ABSPATH' ) ) exit;
 Plugin Name: Epeken JNE Plugin - Free Version
 Plugin URI: https://wordpress.org/plugins/wc-shipping-tikijne 
 Description: Epeken JNE Plugin for Indonesia Market Place ecommerce shipping method. Free Version. Do you want to get volume metrics functionality ? Buy The Full Version.
-Version: 1.1.4
+Version: 1.2.0
 Author: www.epeken.com
 Author URI: http://www.epeken.com
 License: GPL2
@@ -405,7 +405,7 @@ if(!class_exists('WC_Shipping_Tikijne'))
                  $fields['shipping']['shipping_address_3']['label'] = 'Kelurahan';
 		 $fields['shipping']['shipping_address_3']['required'] = true;
                  $fields['shipping']['shipping_address_3']['type'] = 'text';
-	
+
 		 $fields['billing']['billing_state'] = $billing_state_tmp;
 		 $fields['billing']['billing_state']['class'] = array('form-row','form-row-first','address_field','validate-required','update_totals_on_change');
 	      	 $fields['billing']['billing_postcode'] = $billing_postcode_tmp;
@@ -528,7 +528,7 @@ function checkout_should_login(){
 		exit;
 	}
 }
-add_action('woocommerce_checkout_billing','checkout_should_login');
+//add_action('woocommerce_checkout_billing','checkout_should_login');
 
 function deactivate(){
                         global $wpdb;

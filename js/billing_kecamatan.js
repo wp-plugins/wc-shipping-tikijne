@@ -12,7 +12,7 @@
                                                                 function(data,status){
                                                                 $('#billing_address_2').empty();
                                                                         var arr = data.split(';');
-                                                                           $('#billing_address_2').append('<option value="">Please Select Kecamatan</option>'); 
+                                                                           //$('#billing_address_2').append('<option value="">Please Select Kecamatan</option>'); 
                                                                         $.each(arr, function (i,valu) {
                                                                          if (valu != '' && valu != '0') {               
                                                                            $('#billing_address_2').append('<option value="'+valu+'">'+valu+'</option>');       
@@ -21,6 +21,9 @@
                                                                 $('#billing_address_2').trigger('chosen:updated');
                                                 });
 						$('#div_epeken_popup').css('display','none');
+						$("#billing_state option[value='']").attr("selected","selected");
+						$("#billing_state").attr("class","");
+						$("#billing_address_2").attr("class","");
                                         });
 	}
 })(jQuery);
