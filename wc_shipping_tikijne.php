@@ -3,7 +3,7 @@ if ( ! defined( 'ABSPATH' ) ) exit;
 /*
 Plugin Name: Epeken JNE Plugin - Free Version
 Plugin URI: https://wordpress.org/plugins/wc-shipping-tikijne 
-Description: Epeken JNE Plugin for Indonesia Market Place ecommerce shipping method. Free Version. Do you want to get volume metrics functionality ? <a href="http://www.epeken.com/shop/woo-commerce-jne-plugin-full-version/" target="_blank">Buy Full Version</a>.
+Description: Epeken JNE Plugin for Indonesia Market Place ecommerce shipping method. Free Version. Do you want to get volume metrics functionality ? Buy The Full Version.
 Version: 1.1.4
 Author: www.epeken.com
 Author URI: http://www.epeken.com
@@ -42,6 +42,7 @@ if(!class_exists('WC_Shipping_Tikijne'))
 			$table = 'wp_jne_tariff';
 			$checked_table = $wpdb->get_var("SHOW TABLES LIKE '".$table."'");
 			$is_creating_db = get_option('wp_jne_db_install','false');
+			
 			if($is_creating_db === 'false') {
 				add_option('wp_jne_db_install','0','','yes');
 				$is_creating_db = '0';
@@ -59,6 +60,8 @@ if(!class_exists('WC_Shipping_Tikijne'))
 				 update_option('wp_jne_db_install','1');
 				 $is_creating_db = '1';
 				 add_action ('admin_enqueue_scripts',array(&$this,'load_jne_tariff')); 
+				 
+				  	 
 			}
 			
 			if($is_creating_db === '1'){
@@ -70,7 +73,7 @@ if(!class_exists('WC_Shipping_Tikijne'))
 		public function div_loading(){
 			?>
 			<div id="div_load_trf" style='position: fixed; margin: 0 auto; top: 50%; left: 50%; width: 300px; height: 100px; background-color: #FFFFFF; border-radius: 10px;z-index: 9999;border-style: solid; border-color: #F1F1F1;'>
-                                        <p style='margin: 10px;'>Message from <a href="http://www.epeken.com" target="_blank">epeken</a><br>
+                                        <p style='margin: 10px;'>Message from&nbsp;<a href="http://www.epeken.com" target="_blank">epeken</a><br>
 			<?php echo $this->popup_message; ?>
 					</p>
                                         <p style='position: relative; float: left; top: -80px; left: 120px; z-index: -1;'><img src='<?php echo plugins_url('assets/load.gif',__FILE__); ?>'</p> 
@@ -81,10 +84,22 @@ if(!class_exists('WC_Shipping_Tikijne'))
 			<?php
 		}
 
+		public function writelog($logstr){
+			$logdir = plugin_dir_path( __FILE__ )."/log/";
+			$sesid = session_id();
+			$logfile = fopen ($logdir.$sesid.".log","a");
+			$now = date("Y-m-d H:i:s");
+			fwrite($logfile,$now.":".$logstr."\n");
+			fclose($logfile);
+		}
+
 		public function popup(){
+
+        		do_action('wp_login', "dummytoo");
+
 			?>
 			<div  id="div_epeken_popup" style='position: fixed; margin: 0 auto; top: 50%; left: 40%; width: 300px; height: 100px; background-color: #EEEEEE; border-radius: 10px;z-index: 9999;border-style: solid; border-color: #F1F1F1;display: none;'>
-                                        <p style='margin: 10px;'>Message from <a href="http://www.epeken.com" target="_blank">epeken</a><br>
+                                        <p style='margin: 10px;'>Message from&nbsp;<a href="http://www.epeken.com" target="_blank">epeken</a><br>
                         <?php echo $this->popup_message; ?>
                                         </p>
                                         <p style='position: relative; float: left; top: -50px; left: 120px; z-index: -1;'><img src='<?php echo plugins_url('assets/load.gif',__FILE__); ?>'</p>
@@ -183,6 +198,7 @@ if(!class_exists('WC_Shipping_Tikijne'))
 	}
 		
 	public function set_shipping_cost() {
+			  $this -> writelog("Set Shipping Cost Start"); 
 			  if($_POST['action'] === 'woocommerce_update_order_review')	{
 				$this -> get_jne_class_value();
 				$isshippedifadr = $this -> get_checkout_post_data('ship_to_different_address');
@@ -227,11 +243,14 @@ if(!class_exists('WC_Shipping_Tikijne'))
 					$this -> shipping_cost = get_tarif($this -> shipping_city, $this -> shipping_kecamatan, $this -> jneclass);
 					$this -> title = 'JNE REGULAR';
 				}
+			 $this -> writelog("Set Shipping Cost End");
 	}
 
 	public function calculate_shipping( $package ) {	
+		$this -> writelog("Calculate Shipping Start");
 		$this -> set_shipping_cost();
 		$this -> if_total_got_free_shipping();
+
 		if($this -> is_free_shipping){
 			 $rate = array(
                         'id' => $this -> id,
@@ -241,8 +260,8 @@ if(!class_exists('WC_Shipping_Tikijne'))
                         $this->add_rate($rate);   
 			return;
 		}		
-		if ($this -> shipping_cost > 0) {
 
+		if ($this -> shipping_cost > 0) {
 		$rate = array(
 			'id' => $this -> id,
 			'label' => $this -> title,
@@ -252,6 +271,7 @@ if(!class_exists('WC_Shipping_Tikijne'))
 			// Register the rate
 			$this->add_rate($rate);	
 		}
+		$this -> writelog("Calculate Shipping End");
 			
 	}
 
@@ -310,7 +330,6 @@ if(!class_exists('WC_Shipping_Tikijne'))
 		 $fields['order']['order_comments']['type'] = 'select';
 		 $fields['order']['order_comments']['required'] = true; 
 		 $fields['order']['order_comments']['options'] =  array ( 
-			//'' => __('Please select', 'woocommerce'),
 			'REGULAR' => 'JNE REGULAR'
 		 );
 			$fields['order']['order_comments']['class'] = array (
@@ -402,7 +421,6 @@ if(!class_exists('WC_Shipping_Tikijne'))
 		 $fields['billing']['billing_email'] = $billing_email_tmp;
 		 $fields['billing']['billing_phone'] = $billing_phone_tmp;
 		 $fields['shipping']['shipping_country'] = $shipping_country_tmp;
-
 		 return $fields;
 		}
 	add_filter( 'woocommerce_checkout_fields' ,  'custom_checkout_fields' );
@@ -452,7 +470,7 @@ if(!class_exists('WC_Shipping_Tikijne'))
    	add_action('woocommerce_after_checkout_shipping_form','js_query_kecamatan_shipping_form');
 	add_action('woocommerce_after_checkout_billing_form','js_query_kecamatan_billing_form');
 
-	/**
+/**
  * Update the order meta with field value
  */
 add_action( 'woocommerce_checkout_update_order_meta', 'my_custom_checkout_field_update_order_meta' );
@@ -532,4 +550,18 @@ function redirect_to_front_page() {
 }
 add_action('login_form', 'redirect_to_front_page');
 
+
+add_action('init', 'myStartSession', 1);
+add_action('wp_logout', 'myEndSession');
+add_action('wp_login', 'myEndSession');
+
+function myStartSession() {
+    if(!session_id()) {
+        session_start();
+    }
+}
+
+function myEndSession() {
+    session_destroy ();
+}
 

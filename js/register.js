@@ -8,5 +8,4 @@
                                                             //do nothing
                                                         });
                                                }
-
 })(jQuery);
