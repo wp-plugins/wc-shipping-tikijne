@@ -38,6 +38,7 @@ if(!class_exists('WC_Shipping_Tikijne'))
 
 		public function activate(){
 			global $wpdb;
+			add_action ('admin_enqueue_scripts',array(&$this,'register_jne_plugin'));
 			$table = 'wp_jne_tariff';
 			$checked_table = $wpdb->get_var("SHOW TABLES LIKE '".$table."'");
 			$is_creating_db = get_option('wp_jne_db_install','false');
@@ -95,6 +96,14 @@ if(!class_exists('WC_Shipping_Tikijne'))
                                  $ajax_url = admin_url('admin-ajax.php');
 				 wp_enqueue_script('ajax_load_jne_tariff',plugins_url('/js/jne_load_tariff.js',__FILE__), array('jquery'));
 				 wp_localize_script( 'ajax_load_jne_tariff', 'PT_Ajax', array(
+        				'ajaxurl'       => $ajax_url
+    				 ));
+		}
+
+		public function register_jne_plugin(){
+                                 $ajax_url = admin_url('admin-ajax.php');
+				 wp_enqueue_script('ajax_epeken_register',plugins_url('/js/register.js',__FILE__), array('jquery'));
+				 wp_localize_script( 'ajax_epeken_register', 'PT_Ajax', array(
         				'ajaxurl'       => $ajax_url
     				 ));
 		}

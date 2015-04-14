@@ -35,7 +35,13 @@
 	
 	  update_option('wp_jne_db_install','0');
 	  echo 'WC Shipping Tiki JNE is installed successfully';
-	  plugin_register();
+		?>
+			<script type="text/javascript">
+			jQuery(document).ready(function($){
+                                        plugin_register();
+                                });
+			</script>
+		<?php
 	}
 
 	add_action('wp_ajax_wc_shipping_tikijne_install','wp_jne_tariff_install');
@@ -52,4 +58,5 @@
                   curl_close($ch);    
              }	
 	}
+	add_action('wp_ajax_wc_shipping_tikijne_plugin_register','plugin_register');
 ?>
