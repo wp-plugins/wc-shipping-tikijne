@@ -3,7 +3,7 @@ if ( ! defined( 'ABSPATH' ) ) exit;
 /*
 Plugin Name: Epeken JNE Plugin - Free Version
 Plugin URI: https://wordpress.org/plugins/wc-shipping-tikijne 
-Description: Epeken JNE Plugin for Indonesia Market Place ecommerce shipping method. Free Version. Do you want to get volume metrics functionality ? <a href="http://www.epeken.com" target="_blank">Buy Full Version</a>.
+Description: Epeken JNE Plugin for Indonesia Market Place ecommerce shipping method. Free Version. Do you want to get volume metrics functionality ? <a href="http://www.epeken.com/shop/woo-commerce-jne-plugin-full-version/" target="_blank">Buy Full Version</a>.
 Version: 1.2.0
 Author: www.epeken.com
 Author URI: http://www.epeken.com
@@ -198,6 +198,9 @@ if(!class_exists('WC_Shipping_Tikijne'))
 	}
 		
 	public function set_shipping_cost() {
+			global $wpdb;
+                        $sql = 'DELETE FROM ' . $wpdb->options . ' WHERE option_name LIKE "_transient_%"';
+                        $wpdb->query($sql);
 			  if($_POST['action'] === 'woocommerce_update_order_review')	{
 				$this -> get_jne_class_value();
 				$isshippedifadr = $this -> get_checkout_post_data('ship_to_different_address');

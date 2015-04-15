@@ -8,4 +8,10 @@
                          $('#shipping_city').trigger('change');
                          $('#billing_city').trigger('change');
 	}
+	$("#billing_city").on("change",function(){
+			 $("#billing_state").change();
+	});
+	$("#shipping_city").on("change",function(){
+                         $("#shipping_state").change();
+        });
 })(jQuery);
