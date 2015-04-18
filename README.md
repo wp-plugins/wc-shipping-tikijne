@@ -1,7 +1,7 @@
 # Epeken JNE Plugin for Woocommerce
 Contributors: support@epeken.com
 
-Tags: ecommerce, e-commerce, commerce, wordpress ecommerce, plugin jne gratis,affiliate, online shop, toko online, cart, checkout, reports, download, downloadable, digital, inventory, stock, pengiriman, reports, shipping, tax, JNE, Tiki, Indonesia, kurir, jne kurir
+Tags: ecommerce, e-commerce, commerce, wordpress ecommerce, plugin jne gratis,affiliate, online shop, toko online, cart, checkout, reports, download, downloadable, digital, inventory, stock, pengiriman, reports, shipping, tax, JNE, Tiki, Indonesia, kurir, jne kurir, woocommerce jne, epeken
 
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=imam.prkso@gmail.com&item_name=Donation+for+JNE+Plugin
 
