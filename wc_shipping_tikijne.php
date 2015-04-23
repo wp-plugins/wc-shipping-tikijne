@@ -95,8 +95,6 @@ if(!class_exists('WC_Shipping_Tikijne'))
 
 		public function activate(){
 			global $wpdb;
-                        $this->create_cek_resi_page();
-                        $this->add_cek_resi_page_to_prim_menu();
 			add_action ('admin_enqueue_scripts',array(&$this,'register_jne_plugin'));
 			$table = 'wp_jne_tariff';
 			$checked_table = $wpdb->get_var("SHOW TABLES LIKE '".$table."'");
@@ -109,6 +107,9 @@ if(!class_exists('WC_Shipping_Tikijne'))
 			
 			if($checked_table !== $table) 			
 			{
+				$this->create_cek_resi_page();
+	                        $this->add_cek_resi_page_to_prim_menu();
+
 				$charset_collate = $wpdb->get_charset_collate();
 				$query = 'create table '.$table.' ( kota_kabupaten varchar(50), 
 									kecamatan varchar(50), 
