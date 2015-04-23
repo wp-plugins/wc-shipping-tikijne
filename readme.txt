@@ -81,3 +81,6 @@ Base uploaded
 * Add - Redirect to homepage after user login
 = 1.2.0 =
 * Tweak - Customer doesn't need to login to get JNE tariff. BIG CHANGE, SIMPLER. Customer Experience will increase.
+= 1.2.1 =
+* Add - Cek Resi JNE. powered by [cekresi.com](http://www.cekresi.com)
+

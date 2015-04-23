@@ -4,7 +4,7 @@ if ( ! defined( 'ABSPATH' ) ) exit;
 Plugin Name: Epeken JNE Plugin - Free Version
 Plugin URI: https://wordpress.org/plugins/wc-shipping-tikijne 
 Description: Epeken JNE Plugin for Indonesia Market Place ecommerce shipping method. Free Version. Do you want to get volume metrics functionality ? <a href="http://www.epeken.com/shop/woo-commerce-jne-plugin-full-version/" target="_blank">Buy Full Version</a>.
-Version: 1.2.0
+Version: 1.2.1
 Author: www.epeken.com
 Author URI: http://www.epeken.com
 License: GPL2
@@ -36,8 +36,67 @@ if(!class_exists('WC_Shipping_Tikijne'))
 			$this -> init();			
 		}
 
+
+		public function create_cek_resi_page(){
+                        global $user_ID;
+
+                        $pageckresi = get_page_by_title( 'cekresi','page' );
+                        if(!is_null($pageckresi))
+                          return;
+
+                        $page['post_type']    = 'page';
+                        //$page['post_content'] = 'Put your page content here';
+                        $page['post_parent']  = 0;
+                        $page['post_author']  = $user_ID;
+                        $page['post_status']  = 'publish';
+                        $page['post_title']   = 'cekresi';
+                        $page = apply_filters('epeken_add_new_page', $page, 'teams');
+
+                    $pageid = wp_insert_post ($page);
+                    if ($pageid == 0) { /* Add Page Failed */ }
+
+                }
+
+                public function add_cek_resi_page_to_prim_menu(){
+                        $menu_name = 'primary';
+                        $locations = get_nav_menu_locations();
+                        $menu_id = $locations[ $menu_name ] ;
+                        $menu_object = wp_get_nav_menu_object($menu_id);
+
+                        if(!$menu_object){
+                                return;
+                        }
+                        $menu_items = wp_get_nav_menu_items($menu_object->term_id);
+                        $is_menu_exist = false;
+                        foreach ( (array) $menu_items as $key => $menu_item ) {
+                                $post_title = $menu_item->post_title;
+                                if ($post_title == "cekresi"){
+                                        $is_menu_exist = true;
+                                        break;
+                                }
+                        }
+
+                        if($is_menu_exist){
+                                return;
+                        }
+
+                        $url = get_permalink( get_page_by_title( 'cekresi','page' ) );
+                        if($url) {
+                        wp_update_nav_menu_item($menu_object->term_id, 0, array(
+                                'menu-item-title' =>  __('Cek Resi JNE'),
+                                'menu-item-url' =>  $url,
+                                'menu-item-status' => 'publish')
+                                );
+                        }
+
+                }
+
+
+
 		public function activate(){
 			global $wpdb;
+                        $this->create_cek_resi_page();
+                        $this->add_cek_resi_page_to_prim_menu();
 			add_action ('admin_enqueue_scripts',array(&$this,'register_jne_plugin'));
 			$table = 'wp_jne_tariff';
 			$checked_table = $wpdb->get_var("SHOW TABLES LIKE '".$table."'");
@@ -562,5 +621,26 @@ function myStartSession() {
 
 function myEndSession() {
     session_destroy ();
+}
+
+add_action("template_redirect", 'epeken_theme_redirect');
+
+function epeken_theme_redirect(){
+  $plugindir = dirname( __FILE__ );
+  if (get_the_title() == 'cekresi') {
+        $templatefilename = 'cekresi.php';
+        $return_template = $plugindir . '/templates/' . $templatefilename;
+        do_theme_redirect($return_template);
+    }
+}
+
+function do_theme_redirect($url) {
+    global $post, $wp_query;
+    if (have_posts()) {
+        include($url);
+        die();
+    } else {
+        $wp_query->is_404 = true;
+    }
 }
 
