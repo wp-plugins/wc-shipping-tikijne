@@ -13,7 +13,7 @@ License: GPLv2
 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Epeken JNE Plugin for woocommerce is a wordpress plugin for woocommerce shipping method extension featuring JNE tariff for Indonesia e-commerce.  
+Epeken JNE Plugin - WooCommerce JNE courier <b>Shipping Method</b>. Bank Mandiri, BCA, BNI <b>Payment Method</b> for Indonesia market.  
 
 == Description ==
 
