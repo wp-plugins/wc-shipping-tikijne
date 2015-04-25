@@ -11,7 +11,7 @@ License: GPL2
 */
 include_once('wc_shipping_tikijne_load_trf.php');
 include_once('wc_shipping_tikijne_kec.php');
-if (in_array('woocommerce/woocommerce.php', apply_filters( 'active_plugins', get_option( 'active_plugins')))) {
+if (in_array('woocommerce/woocommerce.php', apply_filters( 'active_plugins', get_option( 'active_plugins'))) || array_key_exists( 'woocommerce/woocommerce.php', maybe_unserialize( get_site_option( 'active_sitewide_plugins') ) )) {
 
 	function wc_shipping_tikijne_init() {
 		if(!class_exists('WC_Shipping_Tikijne'))
