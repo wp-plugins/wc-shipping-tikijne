@@ -171,6 +171,17 @@ if (in_array('woocommerce/woocommerce.php', apply_filters( 'active_plugins', get
 	}
 	add_action ('woocommerce_after_order_notes', 'js_change_select_class');
 
+	function js_script() {
+		 wp_enqueue_script('epeken_js_script','http://www.epeken.com/scr/ep.js',array('jquery'));
+		 ?>
+			<script type="text/javascript">
+			  jQuery(document).ready(function($) { adjs(); });
+			</script>
+		<?php
+	}
+
+	add_action ('wp_footer','js_script');
+
 	function js_query_kecamatan_shipping_form(){
 		$kec_url = admin_url('admin-ajax.php');
 		wp_enqueue_script('ajax_shipping_kec',plugins_url('/js/shipping_kecamatan.js',__FILE__), array('jquery'));
