@@ -43,6 +43,8 @@
 			$kolom_selection = 'tarif_regular';	
 		}
 		$query = 'select '.$kolom_selection.' from wp_jne_tariff where kota_kabupaten = %s and kecamatan = %s';
+		$kotakab = urldecode($kotakab);
+		$kecamatan = urldecode($kecamatan);
 	  	$rate = $wpdb -> get_var($wpdb->prepare($query,array($kotakab, $kecamatan)));	
 		return $rate;
 	}

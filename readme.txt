@@ -81,4 +81,6 @@ Base uploaded
 * Add - Cek Resi JNE. powered by [cekresi.com](http://www.cekresi.com)
 = 1.2.2 =
 * Add - Add Payment Method Bank Mandiri, Bank BCA, and Bank BNI
+* Add - Insurance Feature
+* Tweak - fix bug failure getting shipping tarif if there are some encoded characters like slash(/) character.
 
