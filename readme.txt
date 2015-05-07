@@ -59,11 +59,7 @@ Automatic updates should work like a charm; as always though, ensure you backup 
 Once plugin is installed please activate it from activate link in the wordpress plugin page. After that, go to woocommerce wp-admin dashboard menu and click Settings. This will populate jne tariff data into database. while data is loaded, you will see pop up information telling this process is taking place. Secondly, you need to go to dashboard menu > woocommerce > System Status > Tools tab, and make Shipping Debug Mode and Template Debug Mode enabled. You may follow other recommended configurations also from the [screenshot](https://wordpress.org/plugins/wc-shipping-tikijne/screenshots/) tab of this plugin page.
 
 == Screenshots ==
-1. Configuration : Enabling Woo-commerce JNE Plugin, Dashboard > Woocommerce > Setting > Shipping > JNE
-2. Configuration : Enabling Shipping Debug Mode and Template Debug Mode, Dashboard > Woocommerce > System Status > Tools (Optional)
-3. Configuration : Recommended configuration on woocommerce general setting
-4. Configuration : Recommended configuration on shipping options
-5. Configuration : Recommended configuration, make JNE as default shipping method
+1. Configuration : This is what check out screen looks like when using our plugin
 
 == Change Log ==
 
