@@ -41,6 +41,8 @@
 		$jne_class = sanitize_text_field($jne_class);
 		if ($jne_class === "REGULAR"){
 			$kolom_selection = 'tarif_regular';	
+		}else{
+		    return 0;
 		}
 		$query = 'select '.$kolom_selection.' from wp_jne_tariff where kota_kabupaten = %s and kecamatan = %s';
 		$kotakab = urldecode($kotakab);
