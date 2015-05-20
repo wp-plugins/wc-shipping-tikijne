@@ -7,7 +7,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=imam.prk
 
 Requires at least: 3.8
 
-Tested up to: 4.2.0
+Tested up to: 4.2.2
 
 License: GPLv2
 
@@ -25,7 +25,7 @@ This plugin is developed by epeken. copyright (c) 2015 by [epeken](http://www.ep
 
 = Strength & flexibility =
 
-This plugin is built using WordPress best practises both on the front and the back end. This results in an efficient, robust and intuitive plugin. Currently this plugin supports latest woocommerce v.2.3.8 and latest wordpress 4.2.0.
+This plugin is built using WordPress best practises both on the front and the back end. This results in an efficient, robust and intuitive plugin. Currently this plugin supports latest woocommerce v.2.3.8 and latest wordpress 4.2.2.
 
 = Customizable =
 
