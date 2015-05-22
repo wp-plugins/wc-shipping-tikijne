@@ -34,7 +34,7 @@
                         }
 	
 	  update_option('wp_jne_db_install','0');
-	  echo 'WC Shipping Tiki JNE is installed successfully';
+	  //echo 'WC Shipping Tiki JNE is installed successfully';
 	  ?>
 			<script type="text/javascript">
 			jQuery(document).ready(function($){
