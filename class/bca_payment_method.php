@@ -19,7 +19,6 @@ class BCA extends WC_Gateway_BACS {
 			add_action( 'woocommerce_update_options_payment_gateways_' . $this->id, array( $this, 'save_account_details' ) );
 			$this -> generate_account_details_html();
     		}
-		add_action( 'woocommerce_thankyou_bacs', array( $this, 'thankyou_page' ) );
 		add_action( 'woocommerce_thankyou_bank_bca', array( $this, 'thankyou_page' ) );
 		add_action( 'woocommerce_email_before_order_table', array( $this, 'email_instructions' ), 10, 3 );
 
