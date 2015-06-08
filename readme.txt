@@ -83,4 +83,5 @@ Base uploaded
 * Add - Add Payment Method Bank Mandiri, Bank BCA, and Bank BNI
 * Add - Insurance Feature
 * Tweak - fix bug failure getting shipping tarif if there are some encoded characters like slash(/) character.
-
+= 1.2.3 = 
+* Modify - Penyesuaian tarif sudah disesuaikan dengan tarif JNE asal kota Jakarta per 8 Juni 2015
