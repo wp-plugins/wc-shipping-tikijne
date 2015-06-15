@@ -19,7 +19,7 @@ Epeken JNE Plugin - WooCommerce JNE courier <b>Shipping Method</b>. Bank Mandiri
 
 Add new shipping method into your woocommerce wordpress plugin. That is JNE shipping method for Indonesia marketplace. You would have shipping method using JNE based on kota/kabupaten(City) and Kecamatan by having this plugin. Starting v.1.2.2 you will also get configurable bank payment method including Mandiri, BCA and BNI.
 
-[Try Our Demo](http://www.epeken.com/demo)
+[Try Our Demo](http://www.epeken.com/epdemo/)
 
 This plugin is developed by epeken. copyright (c) 2015 by [epeken](http://www.epeken.com)
 
