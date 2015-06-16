@@ -45,6 +45,13 @@
                 public function add_cek_resi_page_to_prim_menu(){
                         $menu_name = 'primary';
                         $locations = get_nav_menu_locations();
+
+			if(!isset($locations) || !is_array($locations))
+				return;
+		
+			if(!array_key_exists($menu_name,$locations))
+				return;
+
                         $menu_id = $locations[ $menu_name ] ;
                         $menu_object = wp_get_nav_menu_object($menu_id);
 
