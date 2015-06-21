@@ -219,6 +219,7 @@
  	}
 
         public function get_jne_class_value(){
+		/*
                 $postdata = explode('&',$_POST['post_data']);
                 $jneclasspost = '';
                 foreach ($postdata as $value) {
@@ -228,8 +229,8 @@
                                 $jneclasspost = $jneclassar[1]; 
                                 break;
                         }
-                }
-       	         $this -> jneclass = $jneclasspost;
+                }*/
+       	         $this -> jneclass = 'REGULAR';//$jneclasspost;
         }                       
 
 	public function get_checkout_post_data($itemdata){
@@ -263,7 +264,7 @@
                                         }
 				 $this -> title = $this -> title .' '.$this->jneclass;	
 			   }else{
-				  $this -> jneclass = sanitize_text_field($_POST['order_comments']);
+				  $this -> jneclass = 'REGULAR';//sanitize_text_field($_POST['order_comments']);
 				   if(!empty($_POST['shipping_city']))	{
 				     $this -> shipping_city = sanitize_text_field($_POST['shipping_city']);
 				   } else {

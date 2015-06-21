@@ -4,7 +4,7 @@ if ( ! defined( 'ABSPATH' ) ) exit;
 Plugin Name: Epeken JNE Plugin - Free Version
 Plugin URI: https://wordpress.org/plugins/wc-shipping-tikijne 
 Description: Epeken JNE Plugin for Indonesia Market Place ecommerce shipping method, with Bank Mandiri, BCA and BNI payment method. Free Version. Wanna get volume metrics functionality ? <a href="http://www.epeken.com/shop/woo-commerce-jne-plugin-full-version/" target="_blank">Buy Full Version</a>.
-Version: 1.2.3
+Version: 1.2.4
 Author: www.epeken.com
 Author URI: http://www.epeken.com
 License: GPL2
@@ -62,14 +62,14 @@ if (in_array('woocommerce/woocommerce.php', apply_filters( 'active_plugins', get
 	 /* Customize order review fields when checkout */
 		 // Our hooked in function - $fields is passed via the filter! 
 	function custom_checkout_fields( $fields ) {
-		 $fields['order']['order_comments']['label'] = __('JNE Shipping Class','woocommerce'); 
-		 $fields['order']['order_comments']['type'] = 'select';
-		 $fields['order']['order_comments']['required'] = true; 
-		 $fields['order']['order_comments']['options'] =  array ( 
-			'REGULAR' => 'JNE REGULAR'
-		 );
-			$fields['order']['order_comments']['class'] = array (
-			'form-row','form-row-wide','address_field','validate-required','update_totals_on_change');//,'address-field','validate-required' );
+		 //$fields['order']['order_comments']['label'] = __('JNE Shipping Class','woocommerce'); 
+		 //$fields['order']['order_comments']['type'] = 'select';
+		 //$fields['order']['order_comments']['required'] = true; 
+		 //$fields['order']['order_comments']['options'] =  array ( 
+		//	'REGULAR' => 'JNE REGULAR'
+		 //);
+		//	$fields['order']['order_comments']['class'] = array (
+		//	'form-row','form-row-wide','address_field','validate-required','update_totals_on_change');//,'address-field','validate-required' );
 
 		 $billing_first_name_tmp = $fields['billing']['billing_first_name'];
 		 $billing_last_name_tmp = $fields['billing']['billing_last_name'];

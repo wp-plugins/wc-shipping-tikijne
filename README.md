@@ -85,3 +85,5 @@ Base uploaded
 * Tweak - fix bug failure getting shipping tarif if there are some encoded characters like slash(/) character.
 = 1.2.3 = 
 * Add - Penyesuaian tarif sudah disesuaikan dengan tarif JNE asal kota Jakarta per 8 Juni 2015
+= 1.2.4 =
+* Tweak - Bring back Order Notes Field
