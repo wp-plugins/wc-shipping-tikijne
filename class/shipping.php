@@ -83,10 +83,50 @@
 
                 }
 
+		public function delete_cek_resi(){
+                        $menu_name = 'primary';
+                        $locations = get_nav_menu_locations();
+
+                        if(!isset($locations) || !is_array($locations))
+                                return;
+
+                        if(!array_key_exists($menu_name,$locations))
+                                return;
+
+                        $menu_id = $locations[ $menu_name ] ;
+                        $menu_object = wp_get_nav_menu_object($menu_id);
+
+                        if(!$menu_object){
+                                return;
+                        }
+                        $menu_items = wp_get_nav_menu_items($menu_object->term_id);
+                        $is_menu_exist = false;
+                        foreach ( (array) $menu_items as $key => $menu_item ) {
+                                $post_title = $menu_item->post_title;
+                                if ($post_title === "Cek Resi JNE"){
+                                        $is_menu_exist = true;
+                                        wp_delete_post($menu_item->ID,true);
+                                }
+                        }
+
+                        $page = get_page_by_title( 'cekresi','page' ) ;
+                        wp_delete_post($page->ID,true);
+                }
+
+
 		public function activate(){
 			global $wpdb;
-			$this->create_cek_resi_page();
-                        $this->add_cek_resi_page_to_prim_menu();
+			if(file_exists(EPEKEN_JNE_TARIF) === false){
+                                copy(EPEKEN_ORI_JNE_TARIF,EPEKEN_JNE_TARIF);
+                        }
+                        $enable_cekresi = $this -> settings['enable_cekresi_page'];
+                        if($enable_cekresi === 'yes') {
+                                $this->create_cek_resi_page();
+                                $this->add_cek_resi_page_to_prim_menu();
+                        }else{
+                                $this -> delete_cek_resi();
+                        }
+
 			add_action ('admin_enqueue_scripts',array(&$this,'register_jne_plugin'));
 			$table = 'wp_jne_tariff';
 			$checked_table = $wpdb->get_var("SHOW TABLES LIKE '".$table."'");
@@ -97,7 +137,7 @@
 				$is_creating_db = '0';
 			} 
 			
-			if($checked_table !== $table) 			
+			if($checked_table !== $table ) 			
 			{
 
 				$charset_collate = $wpdb->get_charset_collate();
@@ -113,6 +153,14 @@
 				 
 				  	 
 			}
+		
+			$numrow = $wpdb->get_var('select count(*) from wp_jne_tariff');
+                        if ($numrow === '0'){
+                                 update_option('wp_jne_db_install','1');
+                                 $is_creating_db = '1';
+                                 add_action ('admin_enqueue_scripts',array(&$this,'load_jne_tariff'));
+                        }
+
 			
 			if($is_creating_db === '1'){
 				 $this -> popup_message = "Please wait while waiting JNE tariff is being loaded. You may perform another activity while it is loading. It may take view minutes.";
@@ -185,6 +233,7 @@
 					//add_action('woocommerce_update_options_payment_gateways',array(&$this, 'process_admin_options'));
 					$this -> popup_message = "Please wait while loading kecamatan";
        					add_action('woocommerce_before_checkout_billing_form',array(&$this, 'popup'));
+					 add_action( 'woocommerce_update_options_shipping_' . $this->id, array( &$this, 'process_update_data_tarif' ) );
 					$this -> activate();
 		}
 
@@ -200,11 +249,19 @@
                                                         'default'               => 'yes',
                                                 	),
                                                 'freeship' => array(
-                                                        'title' => __('Nominal Belanja Minimum, Dapat Free Shipping (Biarkan 0 jika ingin free shipping disabled.)','woocommerce'),
+                                                        'title' => __('Nominal Belanja Minimum (Rupiah), Dapat gratis ongkir (Biarkan 0 jika ingin free shipping disabled.)','woocommerce'),
                                                         'type'  => 'text',
                                                         'default' => '0',
                                                  ),
-
+						 'enable_cekresi_page' => array(
+                                                        'title' => __('Enable Cek Resi JNE appears in main Menu'),
+                                                        'type' => 'checkbox',
+                                                        'label' => __('Enable/Disable Cek Resi JNE Page'),
+                                                        'default' => 'no'
+                                                ),
+						 'form_upload_tarif' => array(
+                                                        'type' => 'form_upload_tarif',
+                                                ),
      				);
 	} // End init_form_fields()
 
@@ -217,6 +274,24 @@
 		 <?php $this->generate_settings_html(); ?>
 		 </table> <?php
  	}
+
+	
+	public function generate_form_upload_tarif_html(){
+                ob_start();
+                ?>
+                <tr>
+                <th scope="row" class="titledesc">Data Tarif</th>
+                 <td>
+                  Data tarif tersimpan dalam file yang Anda bisa download di <a href="<?php echo EPEKEN_URL_JNE_TARIF;  ?>">sini</a>, untuk kemudian bisa diedit untuk menambahkan, atau mengganti informasi tarif jne. kemudian menguploadnya kembali untuk melalui form ini.
+                 <div style="position: relative; float: left; margin-top: 20px;">
+                  Pilih file jne_tariff.csv dari local folder : <input type="file" name="woocommerce_epeken_jne_tariff" id="woocommerce_epeken_jne_tariff" style="width: 300px;"><input name="save" class="button-primary help_tip" data-tip="Klik untuk melakukan timpa data tarif" class="button-primary" type="submit" value="Timpa Data Tarif">
+                 </div>
+                 </td>
+                </tr>
+                <?php
+                return ob_get_clean();
+        }
+
 
         public function get_jne_class_value(){
 		/*
@@ -341,6 +416,16 @@
                         $this -> is_free_shipping = false;
                 }
 	}
+
+	public function process_update_data_tarif() {
+                include_once 'tools/update_tarif.php';
+        }
+
+        public function admin_error($message) {
+        $class = "error";
+        echo"<div class=\"$class\"> <p>$message</p></div>";
+        }
+
 
 	}	// End Class WC_Shipping_Tikijne
 

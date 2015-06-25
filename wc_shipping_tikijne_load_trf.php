@@ -10,7 +10,8 @@
 	if ($is_creating_db === '0' || $is_creating_db === 'false'){
 		exit;
 	}
-                        $jne_tariff_file = plugin_dir_path( __FILE__ ).'/jne_tariff.csv';
+                       // $jne_tariff_file = plugin_dir_path( __FILE__ ).'/jne_tariff.csv';
+			$jne_tariff_file = EPEKEN_JNE_TARIF;
                         $lines =  file($jne_tariff_file);
                         foreach($lines as $line_num => $line) {
                                 $tmp = explode(",",$line);
@@ -52,7 +53,7 @@
 		$url = site_url();
 	    if (extension_loaded('curl')) {
                   $ch = curl_init();
-                  curl_setopt($ch, CURLOPT_URL, "http://www.epeken.com/plugin_register/?emailid=".$current_user->user_email."&website=".$url."&plugin=wc_shipping_tikijne&ver=1.2.4-free");
+                  curl_setopt($ch, CURLOPT_URL, "http://www.epeken.com/plugin_register/?emailid=".$current_user->user_email."&website=".$url."&plugin=wc_shipping_tikijne&ver=1.2.5-free");
                   curl_setopt($ch, CURLOPT_HEADER, 0);
                   curl_exec($ch);
                   curl_close($ch);    

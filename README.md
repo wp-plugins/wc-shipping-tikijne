@@ -87,3 +87,5 @@ Base uploaded
 * Add - Penyesuaian tarif sudah disesuaikan dengan tarif JNE asal kota Jakarta per 8 Juni 2015
 = 1.2.4 =
 * Tweak - Bring back Order Notes Field
+= 1.2.5 =
+* Add - Intuitive update tarif Do it your self. User can have option to display Cek Tarif or not.
