@@ -191,6 +191,17 @@
 			fclose($logfile);
 		}
 
+		 public function reset_user_address() {
+                                global $current_user;
+                                get_currentuserinfo();
+                                update_user_meta($current_user -> ID,'billing_city','');
+                                 update_user_meta($current_user -> ID,'shipping_city','');
+                                update_user_meta($current_user -> ID,'billing_address_1','');
+                                 update_user_meta($current_user -> ID,'shipping_address_1','');
+                                update_user_meta($current_user -> ID,'billing_address_2','');
+                                 update_user_meta($current_user -> ID,'shipping_address_2','');
+                }
+
 		public function popup(){
 
         		do_action('wp_login', "dummytoo");
@@ -233,6 +244,7 @@
 					//add_action('woocommerce_update_options_payment_gateways',array(&$this, 'process_admin_options'));
 					$this -> popup_message = "Please wait while loading kecamatan";
        					add_action('woocommerce_before_checkout_billing_form',array(&$this, 'popup'));
+					add_action('woocommerce_before_checkout_billing_form',array(&$this, 'reset_user_address'));
 					 add_action( 'woocommerce_update_options_shipping_' . $this->id, array( &$this, 'process_update_data_tarif' ) );
 					$this -> activate();
 		}
