@@ -88,4 +88,6 @@ Base uploaded
 = 1.2.4 =
 * Tweak - Bring back Order Notes Field
 = 1.2.5 =
-* Add - Intuitive update tarif Do it your self. User can have option to display Cek Tarif or not.
+* Add - Intuitive update tarif Do it your self. User can have option to display Cek Resi or not.
+= 1.2.5.1 =
+* Tweak - Fix Invalid shipping Method when it is run with latest woocommerce 2.3.11
