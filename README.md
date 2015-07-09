@@ -17,7 +17,7 @@ Epeken JNE Plugin - WooCommerce JNE courier <b>Shipping Method</b>. Bank Mandiri
 
 == Description ==
 
-Add new shipping method into your woocommerce wordpress plugin. That is JNE shipping method for Indonesia marketplace. You would have shipping method using JNE based on kota/kabupaten(City) and Kecamatan by having this plugin. Starting v.1.2.2 you will also get configurable bank payment method including Mandiri, BCA and BNI.
+This plugin is calculated shipping plugin with JNE shipping courire for Indonesia marketplace. You would have shipping method using JNE based on kota/kabupaten(City) and Kecamatan by installing this plugin in your woocommerce website. Starting v.1.2.2 you will also get configurable bank payment method including Mandiri, BCA and BNI. Free shipping based on minimum total purchase functionality is also available.
 
 [Try Our Demo](http://www.epeken.com/epdemo/)
 
@@ -29,7 +29,7 @@ This plugin is built using WordPress best practises both on the front and the ba
 
 = Customizable =
 
-Your business is unique, you may modify this plugin to meet your business requirement. You may refer to woocommerce plugin customization page and wordpress plugin development page to do it. This version will allow you to get tariff JNE tariff from Jakarta to all around cities in Indonesia in Regular (JNE REG) tariff only. Starting from version 1.1.3, we also include free shipping capability. We have full version of plugin with JNE OKE and YES and it supports volume metrics tariff. [Buy full version now](http://www.epeken.com), [Try Our Demo](http://www.epeken.com/demo), Or, Any concerns and questions, you may submit them and contact us : support@epeken.com.
+Your business is unique, you may modify this plugin to meet your business requirement. However, re-distribution after modification is prohibited. You may refer to woocommerce plugin customization page and wordpress plugin development page to do it. This version will allow you to get tariff JNE tariff from Jakarta to all around cities in Indonesia in Regular (JNE REG) tariff only. Starting from version 1.1.3, we also include free shipping capability. We have full version of plugin with JNE OKE and YES and it supports volume metrics tariff. [Buy full version now](http://www.epeken.com), [Try Our Demo](http://www.epeken.com/demo), Or, Any concerns and questions, you may submit them and contact us : support@epeken.com.
 
 == Installation ==
 
@@ -56,7 +56,7 @@ Automatic updates should work like a charm; as always though, ensure you backup 
 
 = Configuration =
 
-Once plugin is installed please activate it from activate link in the wordpress plugin page. After that, go to woocommerce wp-admin dashboard menu and click Settings. This will populate jne tariff data into database. while data is loaded, you will see pop up information telling this process is taking place. Secondly, you need to go to dashboard menu > woocommerce > System Status > Tools tab, and make Shipping Debug Mode and Template Debug Mode enabled. You may follow other recommended configurations also from the [screenshot](https://wordpress.org/plugins/wc-shipping-tikijne/screenshots/) tab of this plugin page.
+Once plugin is installed please activate it from activate link in the wordpress plugin page. After that, go to woocommerce wp-admin dashboard menu and click Settings. This will populate jne tariff data into database. while data is loaded, you will see pop up information telling this process is taking place. You may follow other recommended configurations also from the [epeken blog](http://blog.epeken.com).
 
 == Screenshots ==
 1. Configuration : This is what check out screen looks like when using our plugin
