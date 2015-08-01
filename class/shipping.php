@@ -321,7 +321,8 @@
         }                       
 
 	public function get_checkout_post_data($itemdata){
-		$postdata = explode('&',$_POST['post_data']);
+		$post_data = isset($_POST['post_data']) ? $_POST['post_data'] : '';
+		$postdata = explode('&',$post_data);
 		$post_data_ret = '';
 		foreach ($postdata as $value) {
                         if (strpos($value,$itemdata) !== FALSE) {
@@ -339,7 +340,8 @@
 			global $wpdb;
                         $sql = 'DELETE FROM ' . $wpdb->options . ' WHERE option_name LIKE "_transient_%"';
                         $wpdb->query($sql);
-			  if($_POST['action'] === 'woocommerce_update_order_review')	{
+			  $post_action = isset($_POST['action']) ? $_POST['action'] : '';
+			  if($post_action === 'woocommerce_update_order_review')	{
 				$this -> get_jne_class_value();
 				$isshippedifadr = $this -> get_checkout_post_data('ship_to_different_address');
                                         if($isshippedifadr === '1'){ 
@@ -352,15 +354,19 @@
 				 $this -> title = $this -> title .' '.$this->jneclass;	
 			   }else{
 				  $this -> jneclass = 'REGULAR';//sanitize_text_field($_POST['order_comments']);
-				   if(!empty($_POST['shipping_city']))	{
-				     $this -> shipping_city = sanitize_text_field($_POST['shipping_city']);
+				   $post_shipping_city = isset($_POST['shipping_city']) ? $_POST['shipping_city'] : '';
+				   $post_billing_city = isset($_POST['billing_city']) ? $_POST['billing_city'] : '';
+				   if(!empty($post_shipping_city))	{
+				     $this -> shipping_city = sanitize_text_field($post_shipping_city);
 				   } else {
-				     $this -> shipping_city = sanitize_text_field($_POST['billing_city']);
+				     $this -> shipping_city = sanitize_text_field($post_billing_city);
 				   }
-                                   if(!empty($_POST['shipping_address_2']))  {
-                                     $this -> shipping_kecamatan = sanitize_text_field($_POST['shipping_address_2']);
+				   $post_shipping_address_2 = isset($_POST['shipping_address_2']) ? $_POST['shipping_address_2'] : '';	
+                                   if(!empty($post_shipping_address_2))  {
+                                     $this -> shipping_kecamatan = sanitize_text_field($post_shipping_address_2);
                                    } else {
-                                     $this -> shipping_kecamatan = sanitize_text_field($_POST['billing_address_2']);
+				     $post_billing_address_2 = isset($_POST['billing_address_2']) ? $_POST['billing_address_2'] : '';
+                                     $this -> shipping_kecamatan = sanitize_text_field($post_billing_address_2);
                                    }   
 		 	   }
 			   $this -> shipping_cost = get_tarif($this -> shipping_city, $this -> shipping_kecamatan, $this -> jneclass);
