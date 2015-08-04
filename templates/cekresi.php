@@ -1,6 +1,6 @@
 <?php
   get_header();
-  $_noresi = $_GET["noresi"];
+  $_noresi = isset($_GET["noresi"]) ? $_GET['noresi'] : '';
 ?>
 
  <div class="clearfix"> </div>
