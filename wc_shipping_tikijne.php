@@ -4,7 +4,7 @@ if ( ! defined( 'ABSPATH' ) ) exit;
 Plugin Name: Epeken JNE Plugin - Free Version
 Plugin URI: https://wordpress.org/plugins/wc-shipping-tikijne 
 Description: Epeken JNE Plugin for Indonesia Market Place ecommerce shipping method, with Bank Mandiri, BCA and BNI payment method. Free Version. Wanna get volume metrics functionality ? <a href="http://www.epeken.com/shop/woo-commerce-jne-plugin-full-version/" target="_blank">Buy Full Version</a>.
-Version: 1.2.5.1
+Version: 1.2.5.2
 Author: www.epeken.com
 Author URI: http://www.epeken.com
 License: GPL2
@@ -150,6 +150,7 @@ if (in_array('woocommerce/woocommerce.php', apply_filters( 'active_plugins', get
 		 $fields['billing']['billing_address_3']['label'] = 'Kelurahan';
                  $fields['billing']['billing_address_3']['type'] = 'text';
 		 $fields['billing']['billing_address_3']['required'] = true;
+
                  $fields['shipping']['shipping_address_3']['label'] = 'Kelurahan';
 		 $fields['shipping']['shipping_address_3']['required'] = true;
                  $fields['shipping']['shipping_address_3']['type'] = 'text';
@@ -173,7 +174,7 @@ if (in_array('woocommerce/woocommerce.php', apply_filters( 'active_plugins', get
 			wp_enqueue_script('init_controls',plugins_url('/js/init_controls.js',__FILE__), array('jquery'));
 			?>
 			<script type="text/javascript">
-			 jQuery(document).ready(function($) { init_control(); });
+			 jQuery(document).ready(function($) { init_control(); $('#billing_address_3').val('<?php global $current_user; echo get_user_meta($current_user -> ID, 'kelurahan', true); ?>'); $('#shipping_address_3').val('<?php global $current_user; echo get_user_meta($current_user -> ID, 'kelurahan', true); ?>');});
 			</script>
 			<?php
 	}
@@ -234,8 +235,10 @@ if (in_array('woocommerce/woocommerce.php', apply_filters( 'active_plugins', get
 add_action( 'woocommerce_checkout_update_order_meta', 'my_custom_checkout_field_update_order_meta' );
  
 function my_custom_checkout_field_update_order_meta( $order_id ) {
+    global $current_user;
     if ( ! empty( $_POST['billing_address_3'] ) ) {
         update_post_meta( $order_id, 'billing_kelurahan', sanitize_text_field( $_POST['billing_address_3'] ) );
+	update_user_meta( $current_user -> ID, 'kelurahan', sanitize_text_field( $_POST['billing_address_3'] ) );
     }
     if ( ! empty( $_POST['billing_address_2'] ) ) {
         update_post_meta( $order_id, 'billing_kecamatan', sanitize_text_field( $_POST['billing_address_2'] ) );
@@ -243,6 +246,7 @@ function my_custom_checkout_field_update_order_meta( $order_id ) {
 	
     if ( ! empty( $_POST['shipping_address_3'] ) ) {
         update_post_meta( $order_id, 'shipping_kelurahan', sanitize_text_field( $_POST['shipping_address_3'] ) );
+ 	update_user_meta( $current_user -> ID, 'kelurahan', sanitize_text_field( $_POST['shipping_address_3'] ) );
     }
     if ( ! empty( $_POST['shipping_address_2'] ) ) {
         update_post_meta( $order_id, 'shipping_kecamatan', sanitize_text_field( $_POST['shipping_address_2'] ) );
@@ -319,4 +323,36 @@ function do_theme_redirect($url) {
         $wp_query->is_404 = true;
     }
 }
+
+add_action( 'show_user_profile', 'epeken_extra_user_profile_fields' );
+add_action( 'edit_user_profile', 'epeken_extra_user_profile_fields' );
+function epeken_extra_user_profile_fields( $user ) {
+?>
+  <h3><?php _e("Informasi Tambahan", "blank"); ?></h3>
+  <table class="form-table">
+    <tr>
+      <th><label for="kelurahan"><?php _e("Kelurahan"); ?></label></th>
+      <td>
+        <input type="text" name="kelurahan" id="kelurahan" class="regular-text" 
+            value="<?php echo esc_attr( get_the_author_meta( 'kelurahan', $user->ID ) ); ?>" /><br />
+        <span class="description"><?php _e("Data Kelurahan User"); ?></span>
+    </td>
+    </tr>
+  </table>
+<?php
+}
+
+
+add_action( 'personal_options_update', 'epeken_save_extra_user_profile_fields' );
+add_action( 'edit_user_profile_update', 'epeken_save_extra_user_profile_fields' );
+function epeken_save_extra_user_profile_fields( $user_id ) {
+  $saved = false;
+  if ( current_user_can( 'edit_user', $user_id ) ) {
+    update_user_meta( $user_id, 'kelurahan', $_POST['kelurahan'] );
+    $saved = true;
+  }
+  return true;
+}
+
+
 

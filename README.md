@@ -91,3 +91,5 @@ Base uploaded
 * Add - Intuitive update tarif Do it your self. User can have option to display Cek Resi or not.
 = 1.2.5.1 =
 * Tweak - Fix Invalid shipping Method when it is run with latest woocommerce 2.3.11
+= 1.2.5.2 =
+* Tweak - Address is auto populated in checkout billing and shipping form for user which is logged in and accessing checkout page
