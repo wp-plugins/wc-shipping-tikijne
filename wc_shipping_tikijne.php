@@ -236,9 +236,11 @@ add_action( 'woocommerce_checkout_update_order_meta', 'my_custom_checkout_field_
  
 function my_custom_checkout_field_update_order_meta( $order_id ) {
     global $current_user;
+	$flag = false;
     if ( ! empty( $_POST['billing_address_3'] ) ) {
         update_post_meta( $order_id, 'billing_kelurahan', sanitize_text_field( $_POST['billing_address_3'] ) );
 	update_user_meta( $current_user -> ID, 'kelurahan', sanitize_text_field( $_POST['billing_address_3'] ) );
+	$flag = true;
     }
     if ( ! empty( $_POST['billing_address_2'] ) ) {
         update_post_meta( $order_id, 'billing_kecamatan', sanitize_text_field( $_POST['billing_address_2'] ) );
@@ -246,7 +248,8 @@ function my_custom_checkout_field_update_order_meta( $order_id ) {
 	
     if ( ! empty( $_POST['shipping_address_3'] ) ) {
         update_post_meta( $order_id, 'shipping_kelurahan', sanitize_text_field( $_POST['shipping_address_3'] ) );
- 	update_user_meta( $current_user -> ID, 'kelurahan', sanitize_text_field( $_POST['shipping_address_3'] ) );
+        if (!$flag)
+ 	 update_user_meta( $current_user -> ID, 'kelurahan', sanitize_text_field( $_POST['shipping_address_3'] ) );
     }
     if ( ! empty( $_POST['shipping_address_2'] ) ) {
         update_post_meta( $order_id, 'shipping_kecamatan', sanitize_text_field( $_POST['shipping_address_2'] ) );
