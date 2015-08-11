@@ -341,8 +341,24 @@
 			global $wpdb;
                         $sql = 'DELETE FROM ' . $wpdb->options . ' WHERE option_name LIKE "_transient_%"';
                         $wpdb->query($sql);
-			  $post_action = isset($_POST['action']) ? $_POST['action'] : '';
-			  if($post_action === 'woocommerce_update_order_review')	{
+
+			 $wooversion = $this -> epeken_get_woo_version_number();
+                        $wooversion = substr($wooversion, 0,3);
+
+                        $post_action = '';
+                        $val_post_action = '';
+                        if ($wooversion > 2.3) {
+                          $post_action = isset($_GET['wc-ajax']) ? $_GET['wc-ajax'] : '';
+                          $val_post_action = 'update_order_review';
+                        } else {
+                          $post_action = isset($_POST['action']) ? $_POST['action'] : '';
+                          $val_post_action = 'woocommerce_update_order_review';
+                        }
+
+
+                        //$post_action = isset($_POST['action']) ? $_POST['action'] : ''; //obsolete since wc 2.4
+                        //  if($post_action === 'woocommerce_update_order_review')      { //obsolete since wc 2.4
+                        if ($post_action === $val_post_action)      {
 				$this -> get_jne_class_value();
 				$isshippedifadr = $this -> get_checkout_post_data('ship_to_different_address');
                                         if($isshippedifadr === '1'){ 
@@ -443,6 +459,24 @@
         public function admin_error($message) {
         $class = "error";
         echo"<div class=\"$class\"> <p>$message</p></div>";
+        }
+        public function epeken_get_woo_version_number() {
+        // If get_plugins() isn't available, require it
+        if ( ! function_exists( 'get_plugins' ) )
+                require_once( ABSPATH . 'wp-admin/includes/plugin.php' );
+
+        // Create the plugins folder and file variables
+        $plugin_folder = get_plugins( '/' . 'woocommerce' );
+        $plugin_file = 'woocommerce.php';
+
+        // If the plugin version number is set, return it 
+        if ( isset( $plugin_folder[$plugin_file]['Version'] ) ) {
+                return $plugin_folder[$plugin_file]['Version'];
+
+        } else {
+        // Otherwise return null
+                return NULL;
+        }
         }
 
 
