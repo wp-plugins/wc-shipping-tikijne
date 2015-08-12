@@ -93,4 +93,4 @@ Base uploaded
 = 1.2.5.2 =
 * Tweak - Address is auto populated in checkout billing and shipping form for user which is logged in and accessing checkout page
 = 1.2.5.3 =
-* Tweak - Supporting woocommerce v.2.4. users who wants to upgrade to woocommerce v.2.4 MUST upgrade Epeken JNE Free version 1.2.5.3 or Full version 1.2.7.3
+* Tweak - Compatible with woocommerce v.2.4. users who want to upgrade to woocommerce v.2.4 MUST upgrade Epeken JNE Free version 1.2.5.3 or Full version 1.2.7.3 (with valid license)
