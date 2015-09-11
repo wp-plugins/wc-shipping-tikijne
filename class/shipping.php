@@ -438,7 +438,7 @@
 	public function if_total_got_free_shipping(){
 		global $woocommerce;
 		$this -> total_cart = floatval( preg_replace( '#[^\d.]#', '', $woocommerce->cart->get_cart_total() ) );
-		$this -> total_cart = $this->total_cart/100;
+		$this -> total_cart = $this->total_cart*1000;
 		$this -> min_allow_fs  = floatval($this -> settings['freeship']);
 		if ($this -> min_allow_fs == 0){
 			$this -> min_allow_fs = false;

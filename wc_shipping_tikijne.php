@@ -358,4 +358,14 @@ function epeken_save_extra_user_profile_fields( $user_id ) {
 }
 
 
+add_action('woocommerce_after_cart_totals','epeken_disable_shipping_in_cart');
+
+function epeken_disable_shipping_in_cart (){
+
+ ?> <script language="javascript"> 
+        var elements = document.getElementsByClassName('shipping'); 
+        elements[0].style.display = 'none';
+  </script><?php
+
+}
 
