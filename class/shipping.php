@@ -204,8 +204,6 @@
 
 		public function popup(){
 
-        		do_action('wp_login', "dummytoo");
-
 			?>
 			<div  id="div_epeken_popup" style='position: fixed; margin: 0 auto; top: 50%; left: 40%; width: 300px; height: 100px; background-color: #EEEEEE; border-radius: 10px;z-index: 9999;border-style: solid; border-color: #F1F1F1;display: none;'>
                                         <p style='margin: 10px;'>Message from&nbsp;<a href="http://www.epeken.com" target="_blank">epeken</a><br>
@@ -408,6 +406,17 @@
 				}
 	}
 
+	public function get_cart_total() {
+                global $woocommerce;
+                $price = 0;
+                foreach($woocommerce -> cart -> get_cart() as $value){
+                        $product_data = $value['data'];
+                        $price = $price + (floatval($value['quantity']) * floatval($product_data -> price));
+                }
+                return $price;
+        }
+
+
 	public function calculate_shipping( $package ) {	
 		$this -> set_shipping_cost();
 		$this -> if_total_got_free_shipping();
@@ -437,8 +446,9 @@
 
 	public function if_total_got_free_shipping(){
 		global $woocommerce;
-		$this -> total_cart = floatval( preg_replace( '#[^\d.]#', '', $woocommerce->cart->get_cart_total() ) );
-		$this -> total_cart = $this->total_cart*1000;
+		//$this -> total_cart = floatval( preg_replace( '#[^\d.]#', '', $woocommerce->cart->get_cart_total() ) );
+		//$this -> total_cart = $this->total_cart*1000;
+		$this -> total_cart = $this -> get_cart_total();
 		$this -> min_allow_fs  = floatval($this -> settings['freeship']);
 		if ($this -> min_allow_fs == 0){
 			$this -> min_allow_fs = false;

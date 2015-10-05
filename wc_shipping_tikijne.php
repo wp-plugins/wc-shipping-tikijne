@@ -291,7 +291,7 @@ function redirect_to_front_page() {
 }
 add_action('login_form', 'redirect_to_front_page');
 
-
+/*
 add_action('init', 'myStartSession', 1);
 add_action('wp_logout', 'myEndSession');
 add_action('wp_login', 'myEndSession');
@@ -305,7 +305,7 @@ function myStartSession() {
 function myEndSession() {
     session_destroy ();
 }
-
+*/
 
 add_action("template_redirect", 'epeken_theme_redirect');
 
